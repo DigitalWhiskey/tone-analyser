@@ -1,0 +1,901 @@
+FOREWORD
+
+Fuel cell technologies and hydrogen energy are being commercialized in the US and abroad. Governments in Asia and the European Union, in coordination with industry, are now investing more than $2 billion every year in hydrogen as a promising energy carrier.
+
+The US is among the leading countries in moving towards broad commercialization of fuel cells and hydrogen energy. With over 7,600 fuel cell electric vehicles (FCEVs) currently on the road – more than any other country – the US is home to more than half of the global FCEV stock. In addition, the US is a global leader in the development of fuel cell applications that compete with incumbent technologies. For example, more than 25,000 fuel cell–powered material handling products, such as forklifts, are operating in warehouses and distribution facilities across the country. There are over 8,000 small-scale fuel cell systems operating across 40 states, primarily for cell phone towers and remote communications networks. In total, there are over 550 MW of installed or planned fuel cells for large-scale stationary power for backup power, critical loads, and combined heating and power applications. The US is home to several leading fuel cell, electrolyzer, and hydrogen component and system manufacturers as well as large multinational hydrogen companies with liquid and compressed hydrogen production and distribution equipment.
+
+Hydrogen as a vehicle fuel can be used for the transport of goods and people. It can serve to store energy from nuclear and renewable sources and distribute it across sectors. Hydrogen and fuel cell technologies have great potential to provide low-carbon heat and reliable power for communities and critical facilities. Hydrogen is also a growing fuel and feedstock for industrial and agricultural processes, and much more. The smooth transition to a broader use of hydrogen can provide significant economic, social, and environmental benefits to the US. While hydrogen has a strong technical foundation, positioning it as the energy carrier of choice and creating a vibrant, competitive hydrogen economy will also require a foundation of financial and policy support.
+
+This US Hydrogen Road Map was created through the collaboration of executives and technical industry experts in hydrogen across a broad range of applications and sectors, who are committed to improving the understanding of hydrogen and how to increase its adoption across many sectors of the economy. For the first time, this coalition of industry leaders has convened to develop a targeted, holistic approach for expanding the use of hydrogen as an energy carrier.
+
+Due to great variation among national and state policies, infrastructure needs, and community interests, each state and region of the US will likely have its own specific policies and road maps for implementing hydrogen infrastructure. The West Coast, for example, has traditionally had progressive policies on reducing transportation emissions, so it is likely that hydrogen will scale sooner for vehicles in this region, especially California. Experts also acknowledge the role that hydrogen in combination with renewables can play in supplying microgrid type power to communities with the highest risk of shut-offs during seasonal weather-related issues, such as high temperatures or wildfire-related power interruptions. Some states have emphasized the need to decarbonize the gas grid, so blending hydrogen in natural gas networks and using hydrogen as feedstock may advance more quickly in these regions. Other states are interested in hydrogen as a means to address power grid issues, enable the deployment of renewables, and support competitive nuclear power. The launch of hydrogen technologies in some states or regions will help to scale hydrogen in various applications across the country, laying the foundation for energy security, grid resiliency, economic growth, and the reduction of both greenhouse gas (GHG) emissions and air pollutants.
+
+This report outlines the benefits and impact of fuel cell technologies and hydrogen as a viable solution to the energy challenges facing the US through 2030 and beyond. As such, it can serve as the latest comprehensive, industry-driven, national road map to accelerate and scale up hydrogen in the economy across North America.
+
+METHODOLOGY
+
+The ambitious scenario assumes hydrogen is championed as an economic growth driver, a leadership opportunity for US businesses, and as a tool for significant decarbonization in the US. This scenario assumes federal regulation and policies to require emissions reduction across industries and across the country. This scenario also assumes state and regional support for low-carbon initiatives and collaborative partnerships with key stakeholders to resolve the challenges in scaling hydrogen. It assumes US businesses champion hydrogen as a growing global business opportunity, a means to take carbon out of their operations, or a competitive new source of locally produced energy. This scenario is reflected in the calculations for this report, with a view of how the US could implement the shift to a hydrogen economy over time. This scenario is, by definition, an optimistic and aggressive growth scenario for hydrogen – representing a starkly different trajectory from the one we are on today.
+
+The base scenario assumes the US does not take strong measures to support the growth of hydrogen. At the federal level, it assumes negligible or nonexistent climate policy (such as carbon pricing), as well as negligible policy support for hydrogen. At the state level, it assumes those states that already have aggressive decarbonization targets pursue hydrogen as a means to reduce emissions.
+
+In the base scenario, annual hydrogen demand does not scale significantly from today’s levels. Hydrogen demand would reach 14 million metric tons by 2030 and 20 million metric tons by 2050, representing 1 percent of US final energy demand. Hydrogen’s main use would remain as a feedstock in industrial processes, with some uptake of hydrogen as transportation fuel in buses, trucks and forklifts. The base scenario is not the focus of this report.
+
+The hydrogen molecule is a zero carbon energy carrier in that it does not contain carbon. Furthermore, the conversion of hydrogen into other forms of energy through combustion or the use of a fuel cell does not directly result in the production of CO2.
+
+However, overall energy conversions to generate hydrogen may emit CO2 or other GHG. Throughout this report, the term “low-carbon hydrogen” is used to differentiate from traditional, industrial hydrogen produced from natural gas without carbon capture. It refers to hydrogen produced with a limited level of net GHG emissions1  from reformer-based hydrogen with carbon capture and storage (CCS) technologies, from renewable natural gas (RNG)2 feedstock, from water electrolysis using low-carbon electricity, through direct gasification of waste including municipal and agricultural, as well as by-product hydrogen recovered from other industrial processes. Low-carbon hydrogen includes both renewable hydrogen (i.e., hydrogen produced from renewable energy sources) and non-renewable hydrogen.
+
+Low-carbon electricity refers to electricity generated from low-carbon sources, including solar, wind, hydro, tidal, nuclear, geothermal, RNG, and traditional thermal power with CCS. Renewable electricity refers to electricity generated from non-fossil sources, namely wind, solar (solar thermal and solar photovoltaic), and geothermal energy, tidal, wave, and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas, and other forms of biogas.
+
+EXECUTIVE SUMMARY
+
+Fifty years ago, the US put the first man on the moon. The Apollo 11 mission relied on a hydrogen-powered fuel cell system, which supplied electricity and water for the mission, and on liquid hydrogen as fuel to propel the rockets. Since 1969, America has remained a leader in fuel cell and hydrogen technology, commercializing a wide range of technologies that produce, deliver, store, and utilize hydrogen across applications and sectors. Today, the hydrogen industry as well as the US are at a crossroads as the country’s energy future is determined.
+
+The energy system across the US is evolving. From power generation to transportation, new technologies are gaining share. Companies are grappling with decarbonization, preservation of natural resources, aging infrastructure, energy storage, an evolving regulatory landscape, and new customer demands. The resiliency and reliability of our energy system are growing concerns.
+
+Hydrogen is key to overcoming these challenges. Hydrogen is an energy carrier that cuts across sectors and has multiple benefits. It can be used to store energy over long periods of time and transport energy over large geographies. FCEVs, whether heavy-duty, light duty, or material-handling vehicles, produce no tailpipe emissions, and hydrogen can be produced with near-zero carbon emitted, even on a lifecycle basis. A vibrant hydrogen industry would maintain US energy leadership and security, create jobs, significantly reduce carbon emissions, and support economic growth.
+
+The time to boost support for hydrogen is now. Decisions and investments made now will have long-term impact. Moreover, many energy infrastructure decisions take a long time to implement. Other countries are laying plans for hydrogen economies, and the US will need to move quickly to continue to lead in this growing industry. US Department of Energy funding for hydrogen and fuel cells has ranged from approximately $100 million to $280 million per year over the last decade, with approximately $150 million per year since 2017. Other countries are also investing heavily in hydrogen. For example, Japan’s Ministry of Economy, Trade, and Industry has announced hydrogen funding of approximately $560 million for 2019. China has announced hydrogen transport industry investments of more than $17 billion through 2023. In Europe, Germany’s investment includes $110 million annually to fund research laboratories to test new hydrogen technologies for industrial-scale applications.
+
+Investment is needed to lay the groundwork for hydrogen solutions. Capital is required to build foundational hydrogen infrastructure and companies need the right incentives to invest in low-carbon hydrogen solutions. Regulatory barriers and appropriate codes and standards need to be addressed to enable large-scale commercialization and a robust, reliable supply chain. Funding is required for more research, development, demonstration, and deployment for hydrogen technologies, to improve competitiveness and performance. Directing capital to hydrogen is key to enabling its growth in the US.
+
+Vision for a hydrogen economy
+
+Hydrogen is critical for a lower carbon energy mix. It can be used broadly across several industries, including for transport, steel, ammonia, methanol, refining, in residential and commercial buildings, and in the power system. By our modeling estimates, hydrogen can help meet 14 percent of US final energy demand by 2050, the equivalent of over 2,468 TWh or 8.4 billion MMBTU per year.
+
+A competitive hydrogen industry will reinforce US energy leadership. The US is now the world’s largest producer of natural gas and oil, exporting to more than 35 countries. As countries around the world look to hydrogen to reduce carbon emissions, the US has an opportunity to reinforce and grow its energy leadership position and create jobs in this field. The competitive domestic supply of hydrogen will enable exports of the fuel to other markets that do not have such competitive supplies.
+
+A robust hydrogen industry will strengthen the US economy. This growing industry creates jobs for US citizens and revenues for US businesses. These businesses operating in the hydrogen value chain will also grow by exporting technology to regions looking to develop their hydrogen infrastructure, such as Europe, China, Japan, Korea, and Australia. By 2030, the hydrogen economy in the US could generate an estimated $140 billion per year in revenue and support 700,000 total jobs across the hydrogen value chain. By 2050, it could drive growth by generating about $750 billion per year in revenue and a cumulative 3.4 million jobs.
+
+By utilizing domestic energy resources and increasing energy resiliency, hydrogen will help to preserve our national energy security. Hydrogen production would use abundant renewable resources, natural gas, and carbon storage, and enable a competitive nuclear industry. Long-term energy storage with hydrogen will maximize renewable energy production and use, further enhancing total domestic energy production and use. It would allow abundant domestic natural gas to continue to provide affordable energy to meet demand, even in a decarbonized scenario, with the application of carbon capture.
+
+Hydrogen has significant environmental and health benefits. Hydrogen is an especially valuable solution for energy needs in areas that are difficult to decarbonize, such as long-distance road transport and high-grade heat. Besides lower carbon emissions, hydrogen used as vehicle fuel completely eliminates emissions of tailpipe particulates, nitrogen oxides (NOx), and sulfur oxides (SOx), improving regional air quality while reducing greenhouse gas emissions (GHG) emissions.
+
+Hydrogen enables better integration of low-carbon electric power resources. Grid-connected electrolyzers that produce hydrogen could provide a significant source of flexibility for intermittent renewables, providing long duration storage solutions that are complementary to short-duration battery solutions. In addition, they can provide additional load for low-carbon power sources like renewable and nuclear power.
+
+Hydrogen is a unique energy carrier with applications across sectors
+
+Hydrogen can be used:
+
+In buildings. An estimated 47 percent of US homes currently have natural gas space heating, and another 3 to 8 percent (depending on region) use liquified petroleum gas (LPG) heating. Replacing or blending some natural gas with low-carbon hydrogen would lower GHG emissions of residential, commercial, and industrial heating, without new infrastructure deployment. This can be achieved by blending hydrogen into the natural gas grid or deploying stationary fuel cells directly in buildings to generate electricity and use the heat they produce in lieu of traditional space and water heaters.
+
+In transport. Transport accounts for a third of US carbon emissions and directly affects air quality in cities. FCEVs and battery-electric vehicles (BEVs) are the only zero-emissions vehicle (ZEV) solutions to reduce emissions for light-duty, heavy-duty, and material-handling vehicles. With fueling times similar to conventional gasoline or diesel vehicles, and with larger on-board energy storage capacity than BEVs, FCEVs are a natural complementary ZEV technology for the transport sector to transition to zero carbon. This makes light-duty and heavy-duty FCEVs a familiar and competitive mobility solution for customers who want the capability to refuel quickly, drive long distances, carry heavy loads, or have high uptime. On a total cost of ownership (TCO) basis, FCEVs could break even between 2025 and 2030 with the cost of internal combustion engine (ICE) vehicles in applications requiring high uptime and fast fueling, and they already cost less than BEVs as forklifts and in fast charge applications above 60 kW.
+
+In industrial processes. Industry accounts for about 20 percent of US carbon emissions. The hard to-decarbonize industrial sectors can use low-carbon hydrogen as feedstock in industrial processes such as steelmaking, chemical production, and refining, or as a heating source to replace fossil fuels. In steelmaking, for example, hydrogen can work as a reductant, substituting coal or natural gas. Other heavy industrial sectors like ammonia, methanol, and refining already use large quantities of traditional hydrogen (synthesized from natural gas) and would need to transition to low-carbon hydrogen to reduce their emissions.
+
+As backup power or off-grid power. Through stationary fuel cells, hydrogen provides clean, noiseless, and odorless power. It provides backup power for data centers, hospitals, and other critical infrastructure, as well as off-grid power on military bases and in other remote facilities with fast ramp-up or ramp-down capabilities. The use of hydrogen fuel cells instead of diesel generators in data centers appears on track to achieve cost parity in three to five years and has additional advantages, such as reduced clean-air permit constraints and increased operational flexibility. It also has the potential to offer services back to the electric grid in the forms of energy storage and peaking capacity.
+
+In the power system. Grid-connected hydrogen production could support the deployment of variable renewables, by providing demand flexibility to the system. Electrolyzers have the ability to flex up and down to help match the variable and intermittent supply profile of wind or solar energy. This improves the case for renewables, as it partially offsets the intermittency problems on the supply side. Where required, stored hydrogen can also be converted back into power via fuel cells or using hydrogen-ready gas turbines (at a new or retrofitted power station). In this way, hydrogen can provide a long-term, high-capacity electricity storage mechanism.
+
+In the ambitious scenario, hydrogen demand potential across all these applications could reach 17 million metric tons by 2030 and 63 million metric tons by 2050. This demand would be primarily driven by the use of hydrogen as a transportation fuel, as fuel for residential and commercial buildings, and as feedstock in industrial processes like ammonia and methanol production, and refining.
+
+The US is uniquely positioned to build a world-leading hydrogen economy
+
+The US has the abundant, low-cost primary energy sources needed to produce low-carbon hydrogen. For electrolytic hydrogen, the country has ample renewable and low-carbon electricity resources, including wind, solar, hydropower, and nuclear. The US is developing large-scale renewable power, with forecasts for the costs of electricity production as low as $20 per MWh in 2030. Furthermore, a national portfolio of small, modular nuclear reactors to replace the current aging fleet of conventional reactors beginning in the 2030s could produce significant hydrogen at a stable cost and with a high capacity factor.
+
+For hydrogen produced via natural gas reforming with carbon capture and storage (CCS), the US has abundant low-cost natural gas and carbon storage capacity. The country’s natural gas reserves have prices as low as $2 to $3xiii per MMBTU. The US has the potential to store as much as 3,000 metric gigatons of CO25 in technically accessible storage capacity, that may be tapped pending public acceptance of the technology.
+
+Utilizing all forms of domestic energy for hydrogen generation increases energy security by decreasing energy imports. Hydrogen can be flexibly generated, which offers consumers the lowest cost of multiple energy sources at any given time and will create economic growth across the US, including in regions that are traditionally not energy producers. Furthermore, this flexibility of hydrogen increases the resilience and reliability of the entire US energy system.
+
+The US is home to industrial sector leaders capable of scaling a hydrogen economy. US industrial leaders, such as in the petroleum refining and advanced manufacturing industries, have decades of experience financing and managing capital-intensive megaprojects. With the right regulatory support, US companies could mobilize large private investments in hydrogen equipment development, hydrogen production, and distribution infrastructure. A large network of US companies with expertise in fuel cells, electrolyzers, reformers, and CCS are already helping to bring equipment and production costs down.
+
+For US transport, hydrogen is a strong low-carbon alternative. The US has a large long-haul trucking industry compared with other markets, with about 180 billion miles travelled per year. On average, Americans drive more than 12,000 miles per year per vehicle – nearly twice as far as people in other developed countries. Buyers’ vehicle choices reflect this need for long-distance capability, as sport utility vehicles (SUVs) and crossover vehicles have a projected sales growth of 1 percent per year in the next decade, while a 1 percent decline is projected for passenger cars. Such long distances and preferences for large vehicles favor FCEVs over BEVs.
+
+Road map to a hydrogen economy
+
+The full benefits of hydrogen and fuel cell technologies play out when deployed at scale and across multiple applications
+
+Hydrogen is at a turning point and will benefit from economies of scale as it ramps up across states and sectors in what is known as sector coupling. Sector coupling refers to “the idea of interconnecting (integrating) the energy-consuming sectors – buildings (heating and cooling), transport, and industry – with the power-producing sector” in order to provide grid-balancing services to the power sector, including supply-side integration focused on the integration of the power and gas sectors for reliability and resiliency. When deployed across multiple applications, systemic benefits start to kick in: infrastructure costs are shared across applications, technological developments in one application can be applied to others, and sector-coupling benefits play a meaningful role.
+
+In this report, we describe a road map for transitioning to a hydrogen economy in which hydrogen becomes a mainstream fuel option. The road map was developed to put forward a concrete proposal for various sectors and applications that may be developed and deployed in the coming years. It provides milestones for deployment and leverages domestic strengths to deliver on the vision set out in the first half of this report. This report aims to serve as a reference document for policymakers and industry.
+
+The road map is organized into four key phases: 2020 to 2022, 2023 to 2025, 2026 to 2030, and post-2030. Each phase has specific milestones for the deployment of hydrogen across applications. Each phase also describes the key enablers required, categorized as (i) policy enablers and (ii) hydrogen supply and end-use equipment enablers. Policy enablers are needed initially to create the right incentives to enable the private sector to invest in and develop the hydrogen market.
+
+The supply of hydrogen scales up and shifts to low-carbon technologies. Hydrogen is currently produced mainly from natural gas without CCS, which could deliver 40 to 50 percent lower GHG emissions than gasoline ICEs and zero tailpipe emissions for light-duty FCEVs.xix New low-carbon hydrogen production pathways using natural-gas reforming techniques exist, such as steam methane reforming (SMR) and autothermal reforming (ATR) with CCS or with renewable natural gas (RNG).6 Likewise, players can scale up existing water electrolysis with low-carbon electricity, including renewables. As these production pathways grow, costs will decline significantly.
+
+2020 to 2022: Immediate next steps
+
+In the first two to three years, the aim is to establish dependable and technology-neutral decarbonization goals in more states and at the federal level, which will serve as a guide to specific policy and regulatory actions, including updates to codes and standards. Public incentives and standards can bridge barriers to initial market launch, bring a wider range of mature hydrogen solutions to market, increase public awareness and acceptance, and continue to pilot hydrogen use in other applications. Progress focuses on early commercially viable applications in early adopter markets, like the expansion of FCEV forklifts nationwide and further deployment of both light-duty and heavy-duty vehicles in California. These early applications require a combination of incentives to reduce barriers to entry and market-facing mechanisms to enable scale.
+
+In this phase, mature applications, like forklifts, and applications close to breaking even, such as backup power solutions, scale up. In transport, early adopter states focus on developing fueling infrastructure to support FCEV adoption and begin to see second generation products in passenger vehicles and fueling stations. Fleets relying on depot fueling, such as buses and light commercial vehicles, and first-generation medium- and heavy-duty trucks, do not require a nationwide network of fueling stations. Demand growth is sufficient for the first dedicated hydrogen production facilities for transport, along with for the development of gaseous and liquid distribution. Pilots in other applications, such as blending in the gas grid, are pursued to prepare for broader hydrogen adoption.
+
+At the end of 2022, the US market for hydrogen across all segments could total 12 million metric tons, compared to about 11 million metric tons today. Roughly 30,000 FCEVs could be sold. In addition, with sufficient market demand, there could be 50,000 material handling FCEVs in the field.
+
+2023 to 2025: Early scale-up
+
+By 2025, large-scale hydrogen production is being developed, bringing the cost down and kicking off the scale-up of applications beyond early adopter states. This requires clear regulatory guidelines to coordinate market participants and attract investment. Policy incentives in early markets begin transitioning from direct support to scalable market-based mechanisms.
+
+In this phase, the first large-scale hydrogen production facilities are built using water electrolysis from renewables, gas reforming with RNG, or CCS. With the larger scale, production costs fall, enabling new applications. Hydrogen-related equipment, in particular vehicle fuel cell production and fueling station equipment, also scales up, enabling cost and performance improvements. Medium-and heavy-duty fuel cell electric trucks and new light-duty FCEV makes and models are brought to market, increasing the offering for customers. Second-generation high-throughput hydrogen fueling stations for medium- and heavy-duty vehicles increase adoption in commercial fleets in early markets.
+
+For building heating, early adopter states start blending hydrogen in small percentages into gas distribution grids, driving at-scale hydrogen production. In transport, early adopter states build on their existing fleet and pilot stations to increase coverage and capacity in the fueling infrastructure for light-duty passenger vehicles. The next wave of states follows their lead and develops hydrogen fueling infrastructure rollout plans. Medium- and long-haul trucking infrastructure is deployed where there is known demand on highly frequented routes. In addition, the use of hydrogen fuel cells expands beyond newly constructed data centers and telecommunication towers to backup generation for buildings. Existing hydrogen markets begin to convert to low-carbon hydrogen sources as feedstock for industry.
+
+At the end of 2025, total hydrogen demand could reach 13 million metric tons across applications, and up to 150,000 light-, medium-, and heavy-duty FCEVs could be sold. In addition, there could be 125,000 material handling FCEVs in the field.
+
+2026 to 2030: Diversification
+
+The 2026 to 2030 phase is about diversification beyond early adopter segments and early adopter states such as transportation and backup power, and about scaling up infrastructure across the US. Expanded use of various hydrogen production pathways and continued scale-up of electrolytic hydrogen production begins to create meaningful sector coupling with electricity grids and renewable power production. The first hydrogen transmission pipelines enable further cost reduction with seasonal grid firming and storage.
+
+In transport, medium- and long-haul trucking scales up across the US, as heavy-duty, high-throughput hydrogen fueling station infrastructure connects regional networks and creates nationwide coverage. A majority of states now implement hydrogen road maps, creating widespread fueling infrastructure and unlocking the full market for FCEVs.
+
+In industry, ammonia, methanol, and petrochemical production transitions to low-carbon hydrogen, driving production costs down for all sectors through large-scale hydrogen production. Hydrogen-based synthetic fuel for aviation and shipping scales up as those industries seek to decarbonize their fuel supply.
+
+At the end of 2030, hydrogen demand tops 17 million metric tons across applications, with 1.2 million FCEVs sold, 300,000 material handling FCEVs in the field, and 4,300 fueling stations operating across the nation. With hydrogen production costs down and infrastructure in place, hydrogen solutions can compete. The hydrogen economy attracts investment to develop and scale up. By 2030, annual investment is estimated at $8 billion.
+
+Post-2030: Broad rollout across the US
+
+After 2030, hydrogen is deployed at scale in the US, across regions and industries. Most applications achieve cost parity with fossil fuel alternatives through sufficient pricing of externalities, and public support for market introduction can be phased out.
+
+Over time, fossil fuel–based hydrogen production facilities are retrofitted with CCS and there is open competition between different production methods for low-cost, low-carbon hydrogen production. The cross-sector benefits of hydrogen deployment create further synergies and drive costs down. The backbone infrastructure of the hydrogen economy starts consolidating through the emergence of large-scale, low-carbon hydrogen production facilities across the US, a hydrogen distribution pipeline network, and a large fueling station infrastructure network. There are a wide variety of FCEV models available to meet varying customer needs. As a result, significant GHG reduction in hard-to-decarbonize industrial sectors and widespread building decarbonization are achieved, and a higher share of ZEVs are on the road.
+
+On top of manufacturing and production for the domestic market, exports of technology and hydrogen to Europe and Asia add to the US economy. Total revenue for the US hydrogen industry could reach $750 billion per year by 2050. This includes hydrogen demand of 63 million metric tons and all equipment, including FCEVs.
+
+Path forward
+
+To realize this road map, industry, investors, and policymakers need to work together. To unlock hydrogen’s potential in the US, nine actions need to happen:
+
+Setting the north star
+• Set dependable, technologyneutral decarbonization goals.
+
+Kickstarting markets with the needed incentives and support
+• Create public incentives to bridge barriers to the initial market launch
+• Support infrastructure development
+• Expand the use of hydrogen across sectors and achieve economies of scale
+• Include hydrogen-based options in government procurement
+
+Making systemic changes to pave the way for a hydrogen economy
+• Support research, development, demonstration, and deployment
+• Harmonize technical codes and safety standards
+• Support outreach and workforce development
+• Review energy sector regulations to ensure they account for hydrogen
+
+The contributors to this report are looking forward to working with suppliers, customers, partners, investors and policymakers to enable the deployment of hydrogen technology in the US in line with the long-term vision outlined here.
+
+VISION FOR A HYDROGEN ECONOMY
+
+There is tremendous potential for low-cost, low-carbon production of hydrogen
+
+There is tremendous potential for low-cost, low-carbon production of hydrogen in the US, which can enable broad adoption of hydrogen across sectors.
+
+Today in the US, hydrogen serves as a feedstock in ammonia and methanol production, in refineries, and increasingly, in transport.
+
+There are more than 7,600 FCEVs on the road as well as 32 fuel cell buses, and more than 25,000 fuel cell forklifts in operation. In addition, there are numerous prototype heavy-duty (Class 8) fuel cell electric trucks in operation in California and Arizona.
+
+Benefits of hydrogen
+
+Hydrogen has significant environmental and health benefits
+
+Hydrogen has the potential to be a flexible and versatile enabler of the energy transition, with economic, environmental, and health benefits. It is ubiquitous, non-toxic, and can be used across sectors With at-scale adoption across sectors, the hydrogen industry has the potential to create revenues of roughly $140 billion per year and support about 700,000 jobs by 2030 in hydrogen production, infrastructure, and equipment. By 2050, hydrogen could enable a market of $750 billion per year with 3.4 million new jobs.
+
+Hydrogen has significant environmental and health benefits – it reduces CO2, tailpipe particulates, and NOx emissions. In an ambitious scenario, hydrogen would reduce carbon emissions by 30 million metric tons per year and cut NOx and tailpipe emissions by 3 percent in the US by 2030 when used in fuel cell applications. By 2050, carbon emissions would fall by 650 million metric tons per year (16 percent); NOx and tailpipe emissions would fall by 36 percent.
+
+Hydrogen production can bring flexibility to the power grid in two ways. First, it will represent a large source of flexible demand, which could partially offset the loss of flexibility on the supply side due to the higher share of renewables in the power mix. Second, it can store electricity as hydrogen during peak or excess renewable generation and discharge it back into the grid during periods of peak demand, complementing short-duration battery applications.
+
+Hydrogen production increases US energy security, as there is decreased need for energy imports. It has positive domestic effects, creating growth and employment opportunities across sectors. The flexibility of hydrogen generation and multisector applications of hydrogen energy increase the resilience and reliability of the energy system. US leadership in developing a hydrogen economy will also put US businesses at a competitive advantage on the global stage. As hydrogen demand increases across global markets, the US could maintain and grow its energy leadership, creating export opportunities for both hydrogen itself (as with natural gas), and for US businesses with the know-how to develop hydrogen technologies.
+
+Applications of hydrogen
+
+Hydrogen can play a role in five major sectors of the economy
+
+Hydrogen can play a role in five major sectors of the economy: as a fuel for buildings, as a transportation fuel, as a feedstock for industry and long-distance transport, as an industrial fuel, and for power generation and grid balancing (Exhibit 9). By scaling up across sectors, hydrogen demand in the US could reach 17 million metric tons by 2030 and 63 million metric tons by 2050, roughly equivalent to 14 percent of final energy demand (excluding demand from industrial feedstock).
+
+Fuel for residential and commercial buildings
+
+Blending low-carbon hydrogen with natural gas for water and space heating applications can help decarbonize the building sector in the US with minimal or no end-use appliance upgrades. Pure hydrogen heating is also feasible, although complicated by the potential need to replace infrastructure and appliances. Hydrogen could also replace oil products currently used for space heating in certain states, particularly in the Northeast, and this transition could be encouraged by the installation of pipeline infrastructure (Spotlight: Using excess renewable power to decarbonize the gas grid).
+
+Transportation fuel
+
+Transportation contributes approximately a third of total US carbon emissions and is the most carbon-intense sector. Reducing carbon emissions in this sector involves increasing engine efficiency and/or the use of biofuels, hybridization, or the addition of larger batteries and off-board charging. Plug-in hybrid electric vehicles reduce emissions by shifting short-distance trips to the electric motor while retaining the ICE for long-distance trips. BEVs, like FCEVs, produce zero emissions. FCEVs are a natural complementary technology for the transport sector, helping to reduce carbon emissions. They have no tailpipe emissions and are quickly refueled with a hydrogen fuel cell that provides onboard power: the energy density of compressed hydrogen allows for much longer distances than BEVs. FCEVs are a mobility option for customer segments that want the capability to refuel quickly and have longer range, higher payload, and more cargo volume. 
+
+Feedstock for industry and long-distance transport 
+
+Hydrogen currently serves as feedstock in industrial processes, such as in the production of ammonia and methanol. Those industries could gradually transition to low-carbon hydrogen to reduce carbon emissions. There are also emerging applications of hydrogen to decarbonize other industries, such as in steel production to replace natural gas as a reducing agent, and to produce low-carbon fuels for the aviation and marine industries.
+
+Industrial fuel 
+
+The industrial sector is one of the biggest consumers of energy in the US and is responsible for about 10 percent of carbon emissions. Low-carbon hydrogen can serve as a source of decarbonized heat in industrial processes, especially in high-grade (over 500°C) and medium-grade (100 to 500°C) heat applications, which are difficult to electrify.
+
+Power generation and grid balancing
+
+Hydrogen could play an important role in decarbonizing the power system through central station gas turbines fueled with hydrogen or hydrogen carriers like ammonia8 or distributed hydrogen fuel cells, especially when other dispatchable generators face limitations or there is no local carbon storage. These limitations could include ramp rate constraints, emissions limitations, or availability of hydropower. Hydrogen can provide strategic opportunities for storing large amounts of energy over longer durations, including seasonal storage of curtailed energy, and offer long-duration discharge cycles (greater than 12 hours) that other technologies currently lack. Power plants producing power during off-peak hours can store that power as hydrogen over a long period of time and use it to meet peak demand. This increased flexibility in the power grid is also a key advantage when energy from renewables is used.
+
+Hydrogen is a versatile energy carrier that both stores and transmits energy. It can be produced and stored at scale. Electric energy storage occurs via electrolytic hydrogen production and re-electrification in hydrogen gas turbines or fuel cells (or reversible electrolytic/fuel cells). Hydrogen is also a source of distributed power for off-grid applications, such as for the military, public safety, and remote communities, providing primary power and cooling and heating energy. Hydrogen fuel cells are currently used as backup power instead of diesel generators, and in applications at data centers, telecommunication towers, and hospitals.
+
+SPOTLIGHT: Using excess renewable power to decarbonize the gas grid
+
+The University of California, Irvine (UCI), in collaboration with SoCalGas, is running a demonstration project through its Advanced Power and Energy Program (APEP) to utilize excess renewable power by converting it to hydrogen and blending it into the natural gas system. UCI engineers have successfully implemented the first power-to-gas hydrogen pipeline injection project in the US, demonstrating the use of excess (otherwise curtailed or wasted) clean electricity.
+
+Increasing renewable portfolio standard goals leads to more excess electricity, as the renewable energy production times do not match consumer demand. For example, as California’s renewable energy use climbs to new heights, the state’s primary power grid is also setting records for curtailed or wasted wind and solar generation. Hydrogen production creates a way to put this excess electricity to good use. The demonstration project at UCI APEP has shown that excess electricity does not need to be curtailed. Instead, it can make hydrogen, which can be added to the existing natural gas pipeline infrastructure or used for other purposes. The infrastructure to transport and store gaseous fuels is already in place, spanning SoCalGas’s 20,000 square-mile service territory and connecting remote utility-scale solar producers with urban centers. SoCalGas is exploring ways their existing infrastructure could be leveraged to enable this important sector coupling and long-term energy storage opportunity.
+
+Wider adoption could be fostered through:
+
+• A power-to-gas strategy: Storing excess solar energy. Preliminary research has demonstrated that by doing so, the UCI microgrid could increase the share of usable renewable energy to 35 percent, compared to current usage, which is at 3.5 percent
+• Storage technology recognition: Amending the regulation to allow for and encourage utility blending
+• Access to wholesale power markets: Identifying or creating pathways for hydrogen producers to access wholesale power markets
+• Protocol definition and implementation: Defining and implementing national and/or regional hydrogen injection and blending protocols.
+
+Fuel for residential and commercial buildings
+
+Hydrogen can provide residential and commercial building heating in multiple ways
+
+Keeping Americans warm is big business. So big, in fact, that building space heating and water heating represents more than 2,727 TWh, or 9.3 billion MMBTU in the US today, constituting almost one sixth of total energy demand. As of 2015, 56 million households in the US (47 percent) use natural gas for heating. Fossil fuel–based building heating in the US emits about 550 million metric tons of CO2 each year, contributing to nearly 11 percent of total US carbon emissions.
+
+Understanding hydrogen’s potential role
+
+Hydrogen can provide residential and commercial building heating in multiple ways:
+
+Blending with natural gas. Companies can blend low percentages of hydrogen into existing natural gas networks without the need for major changes in infrastructure or new home appliances. In the US gas network today, blending levels should be safe within a range of 4 to 5 percent by volume,10 with certain studies suggesting it could be feasible up to 50 percent with only minor adaptations to the current Integrity Management Program of the US gas pipeline. End-use appliances are likely to be a more limiting factor to high-hydrogen blending. Various studies show blending levels limited at 5 to 30 percent by volume without appliance upgrades. The ability of utilities to blend hydrogen will be dependent on infrastructure and end-use characteristics, and each utility needs to assess its own pipeline systems on a case-by-case basis to determine actual acceptable levels of hydrogen blending without major changes or enhancements to existing pipeline infrastructure.
+
+Conversion to a pure hydrogen system. Pure hydrogen networks are also possible with system modifications, including the possible replacement of piping with high-performance polymers or engineered steel, hydrogen compressors, and hydrogen appliances.
+
+Using synthetic natural gas produced from hydrogen and CO2. Synthetic natural gas can be produced from hydrogen and CO2 in a process called methanation. The resulting substitute is pure methane, fully compatible with existing natural gas networks and appliances. This is an alternative approach to injecting hydrogen into the natural gas grid, trading infrastructure and appliance upgrades for inefficiencies associated with methanation. This option is most often discussed in the context of CO2 from direct air capture.
+
+Biogas yield improvement. Another potential use of hydrogen is injection into biogas production to improve yields. Biogas could also replace natural gas if biogas is purified to natural gas–quality biomethane. However, cost challenges remain with upgrading biogas to biomethane, which will also impact this hydrogen pathway.
+
+Generating combined heating and power or combined cooling and power from hydrogen. Another alternative to gas or oil heating could be to produce combined heating and power and/or combined cooling and power, which achieve high energy efficiency by using waste heat from the hydrogen fuel cell electricity-generation process to provide building climate control. This system could use hydrogen supplied by a pipeline or be off-grid, where households and businesses make their own hydrogen with solar power and electrolysis.
+
+Decarbonization of residential and commercial buildings would likely require an “all of the above” approach, with a combination of hydrogen, biogas, and electrification (through electric heating). Biogas and electrification each have their own challenges – biogas has supply constraints, and not all appliances and buildings can be easily electrified. One benefit of hydrogen is that energy players can drop it into the current infrastructure at low blend levels today without any significant infrastructure investments. As blends increase, infrastructure would require upgrading accordingly. 
+
+Because hydrogen has a lower volumetric energy density than natural gas, blending a certain volume percentage of hydrogen into natural gas will result in a lesser percentage of overall energy coming from hydrogen in the blend. For a frame of reference, the 5 percent, 10 percent, and 20 percent hydrogen blend volumes in Exhibit 13 roughly equate to 1.7 percent, 3.3 percent, and 7.3 percent hydrogen blends, respectively, in overall energy content. Exhibit 13 also depicts the relationship of blending 5 percent, 10 percent, and 20 percent hydrogen by volume into natural gas, and the resulting impact on the blended cost of energy when blended at $2-per-kg hydrogen. If hydrogen has a higher cost such as $4 per kg, the resulting impact at a 5 percent blend in volume is that the cost of energy increases from $4 per MMBTU (unblended natural gas) to $4.40 per MMBTU (+11 percent, for the blended fuel with 5 percent hydrogen by volume, or 1.7 percent by energy content).
+
+Establishing a hydrogen vision for buildings
+
+In the ambitious scenario, overall hydrogen use (in fuel cell and combustion processes) for building heating could reach an estimated 2 percent of overall US final energy demand by 2050, corresponding to hydrogen demand of 8 million
+metric tons by 2050. This would translate to CO2 abatement of approximately 2 million metric tons by 2030 and more than 61 million metric tons annually by 2050, equivalent to reducing US building carbon emissions by 14 percent.
+
+To make this happen, 10 percent of hydrogen by volume would need to be blended into the grid by 2030 in the three regions of high natural gas consumption (the East North Central, Middle Atlantic, and Pacific regions). These are also likely the regions with the most progressive building and grid energy transition policies. In this scenario, grids in those regions would need to contain 50 percent of hydrogen by energy in 2050, meaning some states in these regions will have pure hydrogen networks and others will have high-volume blends. The remaining regions will blend hydrogen at 20 percent by volume.
+
+Overcoming barriers to gas grid hydrogen
+
+Only in the context of strong regulatory support for decarbonization of the gas grid would energy producers deploy hydrogen for this use at scale. Enabling this market will likely require state standards on low-carbon hydrogen use and/or carbon limits for residential and commercial heating.
+
+The standardization of codes regarding how the gas grid deploys hydrogen will require stakeholders to define safety metrics, material requirements, testing procedures, and other key elements for ensuring proper blending levels for hydrogen. The US Department of Energy is currently working to develop a basis for such codes and standards. 
+
+Individual home and building owners will need to upgrade appliances above certain blending levels. This will require companies to change appliance performance metrics in the coming years to allow for earlier adoption of appliances that are compatible with hydrogen.
+
+Finally, gas pipeline standards should align in terms of compatibility with hydrogen for all new and replacement pipelines, so the network could eventually accommodate higher hydrogen concentrations.
+
+Globally, regulatory injection limits for blending hydrogen into gas grids vary. For example, Germany allows blending levels between 5 and 10 percent by volume, while France allows concentrations of up to 6 percent for injection. In the UK, the first trials to inject hydrogen into a private university gas network have been approved as part of the HyDeploy project. Starting in the fall of 2019, up to 20 percent hydrogen will be blended into the natural gas network of Keele University. The H21 Leeds City Gate project plans to fuel the Leeds gas grid with 100 percent hydrogen by 2028. Hydrogen conversions are planned to be incrementally rolled out across the country.
+
+Replacing heating oil
+
+The residential and commercial sectors consume approximately 358 TWh – 1.2 billion MMBTU – annually in heating oil for building heating. About 5.7 million households in the US use heating oil as their main heating fuel source, with 85 percent of them located in the Northeast. In cases where electrification would be costlier or require more time, hydrogen could offer a decarbonized solution.
+
+Transportation fuel
+
+FCEVs have significant potential to reduce GHG emissions and improve air quality
+
+Hydrogen has already played a transformative role in the US transport sector, especially in the material handling of goods at distribution centers in all continental states and Canadian provinces. The next sectors of interest include light-, medium- and heavy-duty road transport, heavy and urban light rail, and ships. Altogether, the transport sector accounts for 35 percent of US carbon emissions and is a key contributor to local air pollution, making a transition to zero-emissions options a priority.
+
+The two primary options for zero-emissions transportation are electric drivetrains powered by hydrogen fuel cells in FCEVs and batteries in BEVs. Both are used for light-, medium-, and heavy-duty vehicles, but FCEVs store energy as hydrogen (15 kWh per kg) and convert it to electricity – as needed – via a fuel cell, while a BEV stores energy as electricity in a battery.
+
+While sometimes portrayed as competitors, these two technologies have complementary strengths that meet different customer needs and diversify raw material resource demand. Therefore, both BEVs and FCEVs will play roles in reducing carbon emissions, improving air quality, and reducing noise. At this point, the question is how comparatively large those roles will become.
+
+The use of hydrogen to produce low-carbon fuels like synthetic fuel for aviation and marine shipping is described in the “Feedstock for industry and long-distance transport” section.
+
+Advantages of FCEVs
+
+The strengths of FCEVs make them particularly well suited for customers who want the capability to refuel quickly, drive long distances, carry heavy loads, and/or have high uptime. Such characteristics are attractive for drivers of SUVs, taxis, delivery trucks, and long-range and heavy-duty vehicles. These strengths are, in particular (i) longer range, lower vehicle weight, and smaller powertrain volume, which allow for more payload and a higher degree of freedom in vehicle design, (ii) short fueling times, (iii) robustness against temperature changes, and (iv) different raw material dependencies.
+
+i. Longer range, lower vehicle weight, and smaller powertrain volume. FCEVs store energy as hydrogen, whose storage requires less space and weight than a battery in a BEV. This means that, for the same weight and volume, FCEVs can drive further and carry a higher payload. Being able to support a longer range also implies more flexibility, whether for daily use in a family’s busy schedule as a passenger vehicle or for planning freight transport routes. It is a key feature for customers seeking more freedom to move.
+
+ii. Faster fueling times. A FCEV fueling station is capable of fueling times that match today’s ICE vehicles. Two to three minutes of fueling is estimated to achieve 400 miles. Fueling is much faster than current BEV rates of 30 minutes to 8 hours, and even faster than the targets for ultra-fast charging. In some use cases, for example, for vehicles that are exclusively recharged overnight in depots, this advantage might not be directly relevant. It is, however, advantageous when high utilization rates or customer convenience are important, as for trucks, forklifts, taxis, autonomous vehicles, or family vehicles. Shorter refueling times also reduce the fueling infrastructure footprint and requirements. They translate to fewer chargers or fuel pumps in public areas or in geographically confined operations, such as warehouses, mines, and ports.
+
+iii. Temperature-tolerant operation. Fuel cells provide consistent performance regardless of ambient temperature, enabling deployment across geographies with cold or varying climates.
+
+iv. Reduced or diversified raw material dependencies. Supply chain risks on raw materials are expected to be minor for the manufacturing of fuel cells and hydrogen storage tanks. For instance, the industry has reduced platinum content by 80 percent to below 0.2 g per kW. Other critical elements such as cerium and cobalt are used in limited quantities.
+
+Setting America’s hydrogen transport vision
+
+Based on these strengths, fuel cell powertrains can play a key role in a number of transport segments. Their strengths complement those of BEVs, biofuels, and other powertrain solutions.
+
+Hydrogen is currently produced mainly from fossil fuels without carbon capture, which could deliver zero tailpipe emissions and 40 to 50 percent lower GHG emissions than gasoline ICEs in light-duty FCEVs. When produced with one third renewable content like in California, hydrogen for FCEVs now delivers 50 to 70 percent lower GHG emissions and its impact is on par with charging BEVs from the California electricity grid.
+
+In the ambitious scenario,13 up to 8 million FCEVs could be sold in 2050. This would translate into approximately 7 million light-duty passenger vehicles, half a million trucks, and 100,000 material- handling vehicles. This would reduce US transport carbon emissions by 30 percent14 and constitute 8 percent of total energy demand. In particular, hydrogen will play a role in the following segments:
+
+Heavy machinery, fleet trucking. FCEVs could make up about 10 percent of independently powered heavy-machinery or captive-vehicle sales by 2030, and 35 percent by 2050. This translates into fleet adoption rates of 2 percent in 2030 and 30 percent in 2050. Captive trucking in mining and ports, as well as heavy machinery in the construction or forestry sectors, represent growth opportunities for hydrogen vehicles, given the need for high utilization rates, low fueling times, and zero emissions.
+
+Commercial fleets of small delivery trucks, buses, and medium- and heavy-duty trucks. FCEVs are estimated to make up 10 percent of commercial fleets and trucks sales in 2030, and 35 percent by 2050. Long-haul heavy-duty trucks and commercial fleets make up one of hydrogen’s most attractive use cases due to mileage requirements, high utilization levels, payload considerations, and the economics of large-scale hydrogen production and consumption. 
+
+Light-duty passenger vehicles. FCEVs could account for over 5 percent of passenger vehicle sales by 2030 and potentially 40 percent by 2050. Passenger vehicles are likely to find high adoption among customers who want the capability to refuel quickly, drive long distances, carry heavy loads, or have more room. FCEVs may also figure 
+
+prominently in higher-utilization use cases that require filling up more than once a day, such as taxis, autonomous vehicles, or delivery fleets. It could also be particularly attractive for customers seeking convenient refueling, such as those living in multiunit buildings or with limited access to charging. US preferences for larger vehicles like SUVs could create an even larger market, given the fuel cell’s applicability for heavier vehicles with long range. 
+
+Material-handling equipment, including forklifts and handling vehicles in ports and airports, and automatically guided vehicles and robots. With more than 25,000 fuel cell forklifts in operation, representing 0.4 percent of all forklifts in the US, material handling is the biggest market for hydrogen vehicles today. Hydrogen-powered forklifts can be refueled quickly, provide constant power output, and have low operating costs compared to alternatives. The market is also growing as hyperscale warehouses meet the needs of online retail. By 2030, hydrogen-powered forklifts could make up 20 percent of forklift sales, with this number growing to 60 percent by 2050.
+
+Rail. Hydrogen as a low-carbon alternative in non-electrified rail and tramway segments could fuel 4 percent of the rail market by 2030 and 17 percent by 2050. Electric catenary deployment can be costly over long distances and is not feasible in certain areas, especially in areas of high population density. 
+
+Ships. One of the most promising applications is for passenger ships, such as ferries, cruise ships, and river boats. Among the advantages are less noise, lower local emissions, and less water pollution. In addition to propulsion, fuel cells can provide auxiliary power on ships, replacing diesel-based units. Hydrogen can also be used as fuel for ships directly or in a hydrogen carrier like ammonia, as described in the following chapter.
+
+Drones and vertical takeoff and landing vehicles. Ongoing research is investigating hydrogen as a fuel for drones and vertical takeoff and landing vehicles, building on early prototypes. Due to its high energy density, hydrogen is a promising low-carbon option for long-distance flights and heavy-lifting applications. 
+
+Overcoming barriers to hydrogen use in transport
+
+To achieve this vision, stakeholders need to develop both public and private infrastructure for distribution and fueling to enable widespread FCEV adoption. Customers require sufficient fueling station coverage to reassure them that fueling will not be an issue. The challenge is in the initial introduction of this new fueling infrastructure, which then becomes easier as the market grows.
+
+Costs also need to come down across the value chain. For the FCEV purchase cost, hydrogen-related components, including fuel cells and hydrogen storage systems in FCEVs, need to become more competitive. Analysis suggests that the fuel cell system cost per kW would decline by about 25 percent if production were to scale from 1,000 to 100,000 systems per year, reaching $72 per kW in 2020. 
+
+Fueling station costs also need to decrease. Until recently, about 80 percent of the dispensed cost of hydrogen has been due to fueling stations themselves and the delivery of hydrogen.15 The cost of fueling stations can come down by an estimated 50 percent with higher utilization of retail fueling stations, larger stations, their production in multiyear development programs, increasing network density, and R&D innovation to decrease fueling station capex cost. 
+
+Distribution costs for transporting hydrogen from the production facility to fueling stations can also decrease with dedicated hydrogen production matched to fuel demand markets, larger capacity distribution assets (whether gaseous or liquid), and increasing scale over time, enabling transmission pipelines.
+
+Feedstock for industry and long- distance transport
+
+95% of the hydrogen currently consumed in the US serves as a feedstock or reactant in industrial processes
+
+About 95 percent of the hydrogen currently consumed in the US serves as a feedstock or reactant in industrial processes in refining, ammonia, and methanol plants. Other industries using hydrogen today in much smaller quantities include cement, glass, and rocket fuel production, as well as some minor applications in the food industry.
+
+New applications have also emerged in areas such as the steel industry, where companies can substitute hydrogen as a reactant or feedstock in place of carbon-intensive sources. Hydrogen can also serve in the production of synthetic fuels or chemicals derived from CO2, such as olefins and BTX (benzene, toluene, xylene).
+
+Existing chemical industry feedstock applications 
+
+Hydrogen usage today
+
+Hydrogen is a critical element in two main commoditized industrial chemical sectors: ammonia and petroleum refining. The production of ammonia for urea and other fertilizers and the production of chemical methanol and associated derivatives require hydrogen as part of the chemical reaction. The petroleum refining process also uses hydrogen for industrial-scale operations including hydrotreating, which uses high-pressure hydrogen to remove sulfur and other contaminates, and hydrocracking, which additionally breaks hydrocarbon molecules into desirable products. 
+
+Today, the US is responsible for 9 percent of global ammonia production, as well as about 15 percent of global petrochemical production. This corresponds to about 11 million metric tons of hydrogen consumed every year as industry feedstock in the US.
+
+In the US ammonia and chemicals industry, virtually all hydrogen comes from natural gas through SMR without carbon capture. In petroleum refineries, 60 percent of hydrogen comes from SMR, with the remaining 40 percent produced internally as a by-product of certain industrial processes.
+
+Setting America’s hydrogen vision for existing feedstock uses
+
+Industries that currently use hydrogen could decarbonize by gradually transitioning to low-carbon hydrogen. This would require supplying existing SMR plants with low-carbon RNG and/or retrofitting them with CCS, or adopting electrolysis or new SMR processes that use RNG and/or CCS. 
+
+Overcoming barriers to low-carbon hydrogen use in existing feedstock
+
+Industries could be motivated to shift to low-carbon hydrogen via:
+
+• Policies that incentivize capital expenditures to retrofit facilities for CCS or water electrolysis, preferably in a technology- neutral way
+
+• The inclusion of production- process emissions in the carbon footprint of products that are subject to specific state tax credit or incentive programs. This could include applying a tax credit for switching to low carbon hydrogen to reduce emissions in the ammonia production value chain
+
+• Market pull for green products such as fertilizer, which can be created by requiring adjustments to existing green labels or applying a “low-carbon fertilizer” label. Other products like resins, materials, synthetic fibers, and even oil could likewise be branded as coming from decarbonized production chains. 
+
+In the US, the Yara/BASF ammonia plant in Freeport, Texas, has developed a pilot using low-carbon hydrogen. Opened in 2018, it showcases a sustainable production process using by-product hydrogen from nearby petrochemical plants instead of natural gas from SMR. 
+
+Globally, several pilot efforts have used scaled, low-carbon hydrogen to produce sustainable industry feedstock. In the refining industry, Shell and ITM Power recently started installing a 10 MW electrolyzer on site at Shell’s Rhineland refinery complex in Germany. The scale is significant: once implemented, it will be the world’s largest polymer electrolyte membrane (PEM) electrolyzer. 
+
+For hydrogen-consuming industries to produce low-carbon hydrogen from water electrolysis, access to low-cost, low-carbon electricity will be the main driver for lower hydrogen production costs. The US enjoys relatively consistent alignment between renewable power sources and ammonia production sites, supporting the possibility for the construction of renewable, on-site hydrogen generation through water electrolysis.
+
+For industries to adopt CCS at scale and lower emissions from existing SMR infrastructure, the full CCS value chain will need to be further developed to capture, transport, and store the CO2. Thankfully, the US has a fairly high availability of storage locations. However, public acceptance of the use of these storage sites will also be critical for enabling this market.
+
+Exploring new feedstock applications for steel 
+
+The case for hydrogen
+
+The US iron and steel industry is a major contributor to carbon emissions, accounting for about 5 percent of total US industrial emissions and producing around 40 million metric tons of CO2 annually. And this is likely to increase: today, steel production in the US is at approximately 80 million metric tons, and could grow to 120 million metric tons by 2040, assuming the industry meets future demand with domestic steel production.
+
+Assessing opportunities for hydrogen in steelmaking
+
+Hydrogen could play a role in reducing carbon emissions by replacing current feedstock, but only for certain types of steel production processes using reductants.
+
+Research suggests that most current basic oxygen furnace (BOF) production plants in the US may reach the end of their service lives by 2040. Consequently, there could be an opportunity to replace old technology with newer low-carbon solutions that are more economically viable in the long term, such as direct reduced iron–electric arc furnace (DRI-EAF) production with hydrogen feedstock. Both BOF and DRI-EAF steel production, which constitute 43 percent of US steel output today, are eligible for hydrogen adoption.
+
+Alternatives to remove carbon emissions from virgin steel production
+
+There are various options to decarbonize virgin steel production:
+
+1.	BOF with CCS 
+2.	BOF using biomass
+3.	DRI-EAF facilities with biogas feedstock
+4.	DRI-EAF facilities with hydrogen feedstock
+
+For greenfield construction, DRI-EAF facilities with pure hydrogen feedstock would be cost competitive compared with the alternatives. The break- even cost of hydrogen would be $4.50 per kg for BOF with CCS and $6.50 per kg for BOF using biomass.
+
+For brownfield construction, retrofitting BOF construction using CCS is likely to be the most affordable option for lowering carbon emissions, due to limited additional capex. In DRI-EAF facilities, hydrogen will compete with biogas feedstock and could be an opportunity in locations with limited biogas feedstock supply in particular.
+
+Setting America’s hydrogen vision for steel 
+
+In the ambitious scenario,16 6 percent of steel plants could switch to a hydrogen-blend feedstock by 2030. By 2050, 14 percent of steel plants could switch to hydrogen, meaning steel production would use 1.4 million metric tons of hydrogen every year. 
+
+Several ongoing global projects are currently testing the use of hydrogen for steelmaking. HYBRIT, a recently formed Swedish joint venture by SSAB, LKAB, and Vattenfall, is demonstrating low-carbon steelmaking using DRI with hydrogen from water electrolysis. 
+
+Likewise, DRI technology was provided by Midrex Technologies for the Voestalpine Hot Briquetting DRI plant in Texas. In addition, a new DRI plant using Midrex technology is currently under construction in Ohio. These plants can run on up to 30 percent supplemental low-carbon hydrogen. Higher percentages of pure hydrogen are also technically feasible but may require base technology modifications. The University of Utah is developing a flash-iron DRI-process pilot plant capable of using 100 percent hydrogen gas. 
+
+Low-carbon fuels for aviation and maritime transport
+
+Drop-in fuels from alternative feedstocks provide substitutes for fossil-derived fuels. Demonstrated on a small scale, they could come from a variety of feedstocks based on either organic materials like vegetable oil or non-bio-based material like captured CO2. Companies can produce alternative fuels via various pathways, some of which require hydrogen as a main feedstock, while other companies might add hydrogen to increase yields. Alternative fuels are desirable because they leverage domestic resources and have lower net emissions in comparison with their fossil fuel counterparts.
+
+Hydrogen can enable a transition to sustainable aviation fuels 
+
+Low-carbon options for US aviation using hydrogen 
+
+An estimated 87,000 flights consume approximately 1.56 million barrels of jet fuel each day in the US. The aviation sector thus accounts for 3 percent of US carbon emissions at around 153 million metric tons of CO2 per year. 
+
+Internationally, the aviation industry is increasingly looking for fuel alternatives to reduce environmental impact. The Air Transportation Action Group has set targets for aviation through to 2050, capping net carbon emissions from aviation to carbon- neutral growth by 2020, and by 2025, net aviation carbon emissions should be half of 2005 levels. In 2018, United became the first US airline to publicly commit to reducing emissions by 50 percent by 2050, investing significantly in low-carbon fuels as part of their Eco-Skies program.
+
+The US government has also began providing some support for reducing carbon in aviation fuels. The Commercial Aviation Alternative Fuels Initiative, a coalition of airlines, manufacturers, and energy producers, helps to facilitate the commercial deployment of alternative jet fuel. The Renewable Fuel Standard program in the US requires the replacement of carbon-intensive fuels with lower-carbon fuel. 
+
+Hydrotreated vegetable oil (HVO) biokerosene which requires 3 percent hydrogen by mass as a feedstock for production, is the only alternative fuel currently produced at scale, with production planned at nearly 50,000 barrels a day by 2020. Planned HVO biokerosene production plants include facilities in Louisiana, Nevada, California, and Wyoming. It is likely to remain the main production pathway until at least 2030 and production should increase steadily over the next decade. 
+
+In this ambitious scenario,17 HVO biofuel is estimated to represent 4 percent by mass of jet fuel demand for commercial fleets in the US by 2030. By 2050, HVO biokerosene combined with other alternative renewable fuels is estimated to comprise 11 percent of jet fuel demand by mass, translating into a hydrogen demand of 350,000 metric tons of hydrogen per year. 
+
+Hydrogen could, however, play a much more significant role in decarbonizing aviation should synthetic fuels (using hydrogen with captured carbon) become more competitive. To meet the Air Transportation Action Group’s target that net aviation carbon emissions should be half of 2005 levels, a combination of solutions will be required, including biofuels, synfuels, and fuel efficiency improvements. Should 20 percent of jet fuel be displaced by synfuels, it would require an estimated 10 million metric tons of hydrogen.
+
+Low-carbon options for shipping using hydrogen
+
+The shipping industry carries an estimated 80 percent of global trade and accounts for 2.2 percent of global carbon emissions. In addition, the bunker fuel typically used for international shipping produces high SO2 emissions.
+
+In April 2018, the United Nations International Maritime Organization reached an agreement to cut carbon emissions by at least 50 percent compared with 2008 levels by 2050. Meanwhile, Maersk, one of the largest shipping companies in the world, has committed to reducing net carbon emissions to zero by 2050.
+
+Bunker fuel is generally a lower quality fuel grade, therefore hydrogen-based fuels generally cost too much to compete in this market, but this may change in coming decades. 
+
+Multiple pathways exist for removing carbon from shipping fuels; the dominant technologies in the future will depend on feedstock availability and the production cost of each low-carbon bunker fuel. Two of the most promising alternatives could be liquid hydrogen or ammonia (from low-carbon hydrogen). Ammonia is currently produced at scale and is quite safe to transport with appropriate handling. In a more ambitious hydrogen scenario, the marine sector could transition to liquid hydrogen or ammonia as a decarbonized fuel source. Should 20 percent of bunker fuel be displaced by ammonia, it would require an estimated 1 million metric tons of hydrogen. 
+
+Chemical production from carbon capture
+
+Petroleum-based olefins and BTX are the basic chemicals from which almost all plastics, detergents, resins, fibers, and many other chemical products are made. However, it is also possible to produce these basic chemicals using low-carbon hydrogen and captured CO2. Most of these pathways remain in the research and pilot phases of development and are too energy intensive to be economical, but carbon capture and utilization (CCU) technologies can reduce net emissions and enable companies to produce products of value from residual carbon emissions. If cost-effective CCU technology becomes available and policies supporting decarbonization are put into place, the technology will need low-carbon hydrogen to convert the captured carbon into the basic chemicals.
+
+Although the CCU market in the US is still small, federal and state support for carbon capture may open up an opportunity for the fossil fuel industry to utilize carbon by-products, which would require hydrogen feedstock. The carbon capture, utilization, and storage (CCUS) industry is growing in the US following recent federal carbon storage tax credit legislation, and as it continues to grow, hydrogen will become increasingly more important for creating valuable by-products. 
+
+Fuel for industry
+
+Hydrogen can readily generate high temperatures for industrial processes
+
+The industrial heat sector is one of the biggest users of energy in the US. Consuming about 10,000 PJ each year, it contributes to about 10 percent of total US carbon emissions.
+
+Hydrogen’s role in industrial heat 
+
+Companies typically categorize industrial heat applications according to temperature segments: high-grade applications (above 500°C), medium-grade applications (100 to 500°C), and low-grade applications (less than 100°C). 
+
+Hydrogen has the most promising use case in high-grade heat, where replacing unmitigated fossil fuel combustion with low-carbon hydrogen as a source of heat could be the most cost-effective option, offering several key advantages. For the low- and medium-heat segments, electrification, such as the use of electric heaters, boilers, and furnaces, often provides the primary way of reducing emissions. 
+
+The high-grade heating segment, used mostly by the iron, steel, and chemicals industries, accounts for a quarter of US industrial heat consumption. Industries in this segment include chemicals and petrochemicals, which also produce by-product hydrogen that could find use in retrofitted equipment such as ethylene crackers, and aluminum recycling, where companies could retrofit gas-fired furnaces to run on hydrogen. Other industries include cement production, where companies can combine hydrogen with waste-derived fuels, and the pulp and paper sector, where hydrogen could provide the high-purity flame needed to flash-dry paper.
+
+Hydrogen, which can readily generate high temperatures, offers a promising alternative for this segment. Gradually replacing the current fuel mix with hydrogen enables the reuse of existing infrastructure and appliances, offering a way to achieve immediate environmental impact. 
+
+Establishing a hydrogen vision for industry heating 
+
+Companies must conduct further research and testing to develop the new equipment (e.g., burners, furnaces) required to be compatible with hydrogen. As they overcome these challenges in the coming decades, hydrogen could scale much more dramatically. In the ambitious scenario,19 the uptake is likely to be limited before 2030. But by 2050, hydrogen could meet 20 to 25 percent of high-grade, 5 to 10 percent of medium-grade, and up to 5 percent of low-grade heat and power requirements. This could reduce US industrial emissions by 6 percent.
+
+Companies have launched several pilots across the globe to use hydrogen as a source of heat in industrial processes. Two examples are the STEPWISE project in Sweden, co-funded with a grant from the EU Horizon 2020 program, and Toyota’s “Plant Zero CO2 Emissions Challenge” in Japan.
+
+Power generation and grid balancing
+
+Hydrogen could play an important role as a low-carbon fuel for firming a low-carbon grid
+
+Centralized power generation
+
+Hydrogen can be converted to electricity in two different ways: combustion (as a hydrogen/natural gas blend today or as pure hydrogen in the next decade) in gas turbines (which can be retrofitted gas power plants), or electrochemical conversion back into electricity using fuel cell technology. 
+
+Hydrogen could play an important role as a low-carbon fuel for firming a low-carbon grid. Hydrogen provides the benefits of long-term storage capability (as long as one season) and ready dispatchability – and can be a lower-carbon fuel pathway than natural gas without CCS. Thus, hydrogen could play a role during extended periods of insufficient energy generation from variable renewables due to the natural intermittency and seasonality of sunshine and wind. 
+
+Hydrogen could be a form of dispatchable power (in the case of generation) or load (in the case of hydrogen production with electrolysis) to meet or manage peak demand (“peaker” plants or “interruptible load”), on a path to 100 percent zero-carbon power, especially in isolated areas or in states with few flexible power supply options. In a 100 percent zero-carbon scenario, with large shares of wind and solar power, grid operators need a dispatchable, low-carbon energy source to provide electricity during extended periods of low renewables supply.
+
+Modelling a 100 percent clean power mix scenario with no new transmission lines in New York and Texas for 205021 reveals that the demand for dispatchable zero-carbon gas varies between 1 and 20 percent by region, dependent on the levels of available hydropower, nuclear power, and transmission capacity. In the state of New York,  where nearly 25 percent of electricity is generated from hydropower, the need for clean, dispatchable gas could be below 1 percent of total power generation, whereas in Texas, which may have limited sources of dispatchable power in 2050, the demand for clean, dispatchable gas could be up to 18 percent (Exhibit 24). For the US, our estimates suggest hydrogen could account for 1 to 3 percent of total power generation by 2050.
+
+Hydrogen fuel cells are already replacing diesel generators for off-grid and backup power
+
+Distributed power generation: off-grid and backup 
+
+Hydrogen fuel cells are already replacing diesel generators for off-grid and backup power (including microgrids), lowering carbon and air pollutant emissions, odor, and noise. Hydrogen is more reliable (fuel cells have far fewer moving parts than diesel generators, and the hydrogen doesn’t degrade, even during long periods of storage). Current hydrogen fuel cell microgrid models are implemented in greenhouses and gardens within communities and business complexes.
+
+This can be an option for providing primary power and cooling and heating energy to remote communities and off-grid locations like military bases or camps. Hydrogen fuel cells could also be used as backup power in commercial buildings, data centers, telecom towers, hospitals, and other critical infrastructure. Some US telecom sites are already deploying them. Industry analysis suggests they are more cost effective over the lifetime of the backup system, due to the lower maintenance costs.
+
+Data centers are a particularly attractive customer segment for backup power. The US currently requires nearly 40 GW of backup power capacity for data centers: it is home to 40 percent of the world’s hyperscale data centers and contains nearly 1,800 data hubs owned by large tech companies and third-party contractors. Moreover, the industry has enjoyed double-digit growth and is likely to continue to do so. Between 2020 and 2025, such growth will likely move industry leaders to double the power capacity they have already developed. As technology companies act to decarbonize, hydrogen could become an attractive solution for data center backup power to meet the availability requirements of this 24/7 business, and in the longer term for base power as well. 
+
+An estimated 45 percent of data centers could use hydrogen fuel cells as backup power by 2030, driven by new construction. By 2050, up to 65 percent of data centers could use hydrogen fuel cells, including existing data centers that have been retrofitted. The use of hydrogen in such applications may not in fact represent very large hydrogen demand, as actual outages are generally short and infrequent. It would, however, require a large volume of hydrogen fuel cells, contributing to the scale-up of industry production, and it could create a source of hydrogen that the industry could tap for other uses. Industry leaders like Amazon, Apple, Facebook, Google, and Microsoft could create annual demand for 1,500 MW of stationary power capacity by 2030.23 However, successful demonstrations of stationary power generation with hydrogen fuel cells at competitive costs in the next three to five years are critical. Manufacturing capacity must be ready for the surge of activity starting in 2025, because once one hyperscale company proves the technology, others may adopt quickly.
+
+Long-term success also depends on partnerships with other hydrogen economy participants to drive synergies. For example, data centers and transport companies could share liquid hydrogen storage facilities. The data center would provide enough storage to meet its own emergency needs, rent extra capacity to transportation providers, use hydrogen “boil off” for ancillary services, and still be able to meet its primary objective of emergency power generation. Renewables- powered hydrogen electrolysis plants could be co-located near data centers, or data centers could be operated near highways to encourage multiuse cost sharing. Similarly, trigeneration fuel cells deployed at data centers could provide local sources of hydrogen to enhance vehicle fueling operations.
+
+Hydrogen supply and delivery vision
+
+The growth of the hydrogen economy will require the production, distribution, and delivery of large quantities of low-carbon hydrogen to end users
+
+The growth of the hydrogen economy will require the production, distribution, and delivery of large quantities of low-carbon hydrogen to end users.
+
+Today, hydrogen is produced in the US using the SMR process. Approximately 60 percent of hydrogen is captive hydrogen, i.e., produced and consumed on site, while approximately 40 percent is merchant hydrogen, i.e., produced, shipped, and sold.
+
+The majority of hydrogen that is not directly used on site today is either trucked as compressed gas or liquid or distributed through the 1,600 miles of hydrogen pipelines. These pipelines are located near large petroleum refineries and chemical plants in Illinois and California and on the Gulf Coast. 
+
+Production
+
+One of the key levers to unlocking the hydrogen economy is the ability to produce large-scale, low-carbon hydrogen at a reasonable cost. With access to low-cost natural gas, large carbon storage capacity, and low-cost renewable and nuclear power, the US is well positioned to produce low-cost, low-carbon hydrogen.
+
+The industry can source and produce low-carbon hydrogen using several primary methods: electrolysis using low-carbon or renewable electricity, thermal reforming of renewable hydrocarbon feedstocks, thermal reforming with CCUS and by-product hydrogen recovery processes.
+
+Water electrolysis
+
+Companies can perform water electrolysis with either alkaline or PEM technologies. If the electricity source is low-carbon or renewable, these technologies will produce low-carbon hydrogen. Historically, water electrolysis has been more expensive than SMR largely due to the cost of power, which is why it is not deployed at scale today. 
+
+However, the cost of water electrolysis should come down significantly thanks to decreases in electrolyzer equipment costs, increases in efficiency, and the declining cost of low-carbon power. Current costs for a PEM system are between $1,100 and $1,500 per kW,24 and US Department of Energy targets for future high-volume estimates are $400 per kW.25; lxi Industry sees these cost targets as realistic to achieve by 2030, driven by investments in manufacturing and process development and increasing production scale and industrialization. To achieve these cost targets, investment in near-term technologies (such as PEM electrolysis) and improvements in manufacturing processes and supply chains should be prioritized.
+
+Several assumptions play a role in the reduction of electrolytic hydrogen production costs. For instance, by 2030 in the ambitious case, electrolyzer capex cost decreases, electrolyzers see improved efficiency (from 60 to 80 percent), and electrolyzer utilization increases. Regarding the latter, depending on whether the electrolyzer is connected to the power grid or not, utilization could be up to 95 percent.
+
+If it is run using dedicated wind power, about 40 percent utilization could be expected, and using a combination of wind and solar power, utilization could be in the 60 percent range or higher. 
+
+The biggest cost driver, however, will be electricity. Should the cost of electricity reach approximately $20 to $30 per MWh at the point of consumption (inclusive of transmission and distribution costs if using grid electricity), electrolytic hydrogen becomes competitive with SMR-produced hydrogen with CCUS. An electricity cost of roughly $10 to $15 per MWh would be required for electrolytic hydrogen to be competitive with SMR-produced hydrogen without CCUS (assuming electrolyzer capex assumptions of $400 per kW).
+
+The cost of electricity from renewables in the best locations in the US is in the $25 to $40 per MWh range today, excluding transmission and distribution infrastructure. By 2030, forecasts suggest the US could see the cost of electricity production as low as $20 per MWh in some regions, low enough for electrolytic hydrogen to compete when direct access to renewable power generation can be secured. 
+
+Electrolysis can flexibly access lower electricity prices which arise from variability in electricity generation due to renewable sources or from excess electricity that is otherwise curtailed. Thus, hydrogen can be produced opportunistically – even more so when this method is coupled with grid-scale storage in pipelines and salt caverns. 
+
+Producing hydrogen more cost-competitively is only part of the challenge. Companies must also optimize the production and distribution of hydrogen in terms of location to ensure that the delivered price is competitive. 
+
+At one extreme of this trade-off, hydrogen could be generated in central parts of the US where renewables are cheapest, with networks of pipelines and trucking routes to distribute it, either as hydrogen or using a hydrogen carrier like ammonia, to the coasts. To support this geographically centralized production, the differences in electricity costs across the US need to be large enough to make up for the additional costs of transporting hydrogen across the country. There also needs to be high enough hydrogen demand to enable investments in infrastructure.
+
+At the other extreme, hydrogen could be produced on site to minimize distribution, with production based on usage and demand, via small-scale water electrolysis, SMR with CCS in industrial areas, or trigeneration of hydrogen, heat, and electricity with technologies like molten carbonate or solid oxide fuel cells. If continuous hydrogen supply is required but on-site production relies on intermittent energy sources like wind or solar, additional buffering or backup capacity may be necessary.
+
+Between these extremes is a range of approaches and scales for distributed and centralized production facilities located near or adjacent to hydrogen markets and/or customers. 
+
+Thermal reforming with renewable feedstocks
+
+Most of the world’s industrial hydrogen is produced by thermal reforming, the majority typically employing SMR in which water and fossil-based natural gas are converted to hydrogen and CO2 under a high-temperature, high-pressure catalytic reaction. The SMR process is the most common technology for producing hydrogen today. Such traditional hydrogen production does not yield low-carbon hydrogen without either replacing the traditional natural gas feedstock with RNG or capturing and storing the CO2 emissions that are generated in the process. In addition to SMR, there are a number of less common thermochemical processes used to produce hydrogen, including gasification, and new processes 
+
+like methane pyrolysis and high-temperature gas reactors, which are being researched. For the purposes of this document, we will focus on the reforming of natural gas, as it is expected to remain the predominant production method.
+
+One of the most viable and cost- effective methods of producing low-carbon hydrogen involves replacing the fossil-based natural gas feedstock in the SMR process with low-carbon RNG. RNG is a general term applied to methane-rich gas upgraded from bio- and waste-based sources and is a direct replacement for natural gas in many processes. The biogas sources for such RNG include landfill gas, waste water treatment off-gas, agricultural waste gases, and anaerobic manure digesters. Such gas sources can significantly 
+
+Thermal reforming with CCS
+
+A second approach to reducing the carbon emissions from reformer-based production is to add carbon capture to the process. 
+
+The cost and feasibility of SMR with CCS is likely better in the US than almost anywhere else on earth. The US has the advantages of (i) abundant natural gas resources with prices as low as $2 to $3l per MMBTU, and (ii) availability of vast carbon storage capacity, with the potential to store as much as 3,000 GT of CO2. 
+
+The US has recently introduced CCUS incentives – such as the Federal 45Q regulation, which provides a tax credit for geologic sequestration of CO2 via enhanced oil recovery ($35 per metric ton of CO2) or storage ($50 per metric ton of CO2). However, the current size of these incentives will activate a relatively small number of CCS/ CCU projects and will likely not generate enough investment to make a meaningful contribution to CO2 abatement. For carbon capture projects to achieve the scale required to meet the targets for CCUS outlined by various decarbonization scenarios such as the International Energy Agency’s Sustainable Development Scenario, which proposes 400 million metric tons per annum of CO2 sequestration via CCUS globally by 2030, the market will likely need additional regulatory changes to incentivize 
+
+By-product hydrogen recovery
+
+In addition to the production of hydrogen from water or hydrocarbon feedstocks, another source of hydrogen can be tapped by upgrading hydrogen-bearing industrial by-product streams. Such by-product streams are generated in a number of industrial processes, including the large-scale production of chlor-alkali and related processes, or in steel plants, refineries, and chemical plants such as steam crackers that produce plastic monomer. The hydrogen by-products can be separated and purified, producing industrial-grade hydrogen. Recovering the hydrogen from these processes is often less carbon intensive than meeting that hydrogen demand with incremental reforming. Most of those businesses already use a large share of this by-product to generate power and heat. They could capture a larger value of this hydrogen by selling it to other hydrogen users, such as the transport sector, or by using it to enhance production elsewhere in the plant. For example, steel production could use this fuel to power blast furnaces or as a reducing agent in direct- reduction ironmaking processes.
+
+Distribution
+
+Suppliers can deliver hydrogen to end users in the US via pipelines, and liquid and gaseous trucking
+
+Suppliers can deliver hydrogen to end users in the US via three common forms of distribution. The method of distribution typically depends on the scale of demand and the distance travelled. 
+
+Pipelines. Pipelines are ideal for transporting hydrogen to meet large market demand and large dedicated fueling station demand (2,000 to 3,000 kg per day) in areas with high regional demand and density. While new all-hydrogen pipelines will be a significant capital investment, hydrogen transport in existing natural gas pipelines (as a hydrogen/natural gas blend) may be feasible and is currently under evaluation.
+
+Liquid trucking. This method is more economical over long distances than trucking gaseous hydrogen, because a liquid tanker truck can hold a somewhat larger mass of hydrogen compared to a gaseous tube trailer. Liquid trucking is a likely option for larger- capacity fueling stations and longer- distance delivery to areas with moderate demand. However, liquid trucking requires liquefaction plants. These plants require sufficient and consistent demand to justify the capital expenses and require energy equal to approximately 30 percent of hydrogen’s heating value for the liquefaction process. Liquefaction is technologically feasible and generally requires less time to develop than pipelines. Liquefaction has been the industrial gas industry’s recent response to increased FCEV demand in California.
+
+Gaseous trucking. Distributing hydrogen in compressed form is the prevalent form of distribution today. Compression is cheaper than liquefaction and therefore the most suitable form of transport for shorter distances and lower volumes of hydrogen.
+
+On-site production. Hydrogen can also be produced and consumed on site via water electrolysis or on-site reformation (with natural gas and CCS, RNG, or a blend of hydrogen and RNG), without the need for transportation to the point of use. In this case, either the electric or gas grid serves as the distribution network to deliver the feedstock for on-site production.
+
+Fueling  stations
+
+The utilization, size, and opex and capex requirements of fueling stations represent major drivers for the delivered cost of hydrogen at the pump
+
+In addition to distribution costs, the utilization, size, and opex and capex requirements of fueling stations represent major drivers for the delivered cost of hydrogen at the pump for use in transport. Estimates show that increasing fueling station size for light-duty vehicles from 350 kg of hydrogen per day to 1,000 kg of hydrogen per day, plus reducing the cost of capital-intensive equipment like compressors, liquid pumps, and storage materials through supply chain development, economies of scale, manufacturing innovations, and increase in station utilization, could lower hydrogen cost at the pump by approximately 50 percent by 2025, reaching $7 per kg. As an example, R&D could make the siting of larger stations more feasible, by reducing their land area requirements through more compact components and better-informed hydrogen safety management to reduce setback distances at liquid fueling stations (Exhibit 29).
+
+With further system design and manufacturing improvement and station capacity increased to 3,000 kg per day, hydrogen cost at the pump could reach $5 per kg. For non-material-handling equipment, an increased station capacity of 3,000 kg per day through eight fueling dispensers could enable up to 850 light-duty FCEVs with an average fill of 3.5 kg to be served per day at each station, similar to gas station capacity. Similarly, stations designed for heavy-duty applications with 8,000 to 32,000 kg per day of on-site production will fuel 150 to 650 trucks per day with an average fill of 50 kg with up to 12 fueling dispensers.
+
+Such costs at the pump would make FCEVs competitive with gasoline and diesel vehicles due to the higher efficiency of FCEVs. On a TCO basis, a hydrogen price at the pump of between $4 to $7 per kg26 would be required for a hydrogen SUV to break even with a gasoline SUV in 2030.
+
+The US has the world’s largest FCEV light-duty vehicle fleet, the largest forklift fleet, and a robust and substantial opportunity in heavy-duty vehicles. Thus, the innovation and experience associated with fueling station technology is concentrated in the US. This is an opportunity for technology leadership in this sector; the knowledge developed in the US can be a valuable asset when exporting this technology to other evolving markets such as China and Europe.
+
+ROAD MAP TO A HYDROGEN ECONOMY
+
+The full benefits of hydrogen and fuel cell technologies play out when deployed at scale and across multiple applications
+
+The full benefits of hydrogen and fuel cell technologies play out when deployed at scale and across multiple applications. Scale, both in the manufacturing of equipment as well as in hydrogen production, reduces costs and makes hydrogen more competitive with other energy sources. When hydrogen is deployed across multiple applications, systemic benefits start to kick in: infrastructure costs are shared across applications, technological developments in one application can be applied to others, and cross-sector benefits can play a meaningful role.
+
+Achieving scale requires a transition from current systems and infrastructure towards hydrogen. As with any transition, a combination of policies and individual stakeholders’ actions will be needed to overcome the barriers and costs associated with the shift. In this report, we present a road map to achieve the ambitious vision laid out in the first section of the report. It describes a pragmatic and cost-efficient approach to realizing this transition, with the objective of attracting private capital investment and reducing policy support over time. The following road map is described in phases, where the state of hydrogen in the US is depicted and explored.
+
+The road map has four phases: immediate next steps (2020 to 2022), early scale-up (2023 to 2025), diversification (2026 to 2030), and broad rollout (post 2030). 
+
+For each phase, the road map describes: 
+
+• The key enablers: policy enablers that support supply building towards scale and fostering customer demand for hydrogen and fuel cell products, and supply-side and end-use equipment enablers
+
+• The outcomes of deployment, both qualitatively (which segments) as well as quantitatively in terms of hydrogen demand, number of FCEVs sold, and infrastructure investments required.
+
+2020 to 2022: Immediate next steps 
+
+Public awareness and acceptance of hydrogen increases, and manufacturing and hydrogen supply start scaling up
+
+The next two to three years include (i) establishing dependable and technology-neutral decarbonization goals in more states and at the federal level, which serve as a guide to specific policy and regulatory actions, (ii) bringing new hydrogen solutions to the market, focusing on the most attractive segments in early adopter states, and (iii) scaling mature applications and through these actions delivering the cost reduction and performance improvements to open the next opportunities. Public awareness and acceptance of hydrogen increases, and manufacturing and hydrogen supply start scaling up. This results in a total hydrogen demand of 12 million metric tons, and 30,000 FCEVs sold in 2022.
+
+Enablers 
+
+Policy Support
+
+In this first phase, policymakers actively support initial deployment of low-carbon energy carriers and remove regulatory barriers. Of particular importance in this phase is addressing hydrogen safety through increased information for and education of officials and the general public, the establishment of codes and standards, and the modernization of existing regulations to address changing market realities. For example, to unlock hydrogen as a fuel for residential and commercial buildings, states revisit existing regulations that inhibit hydrogen uptake and define clear standards on how to deploy hydrogen in gas networks. This includes operation safety standards, pipeline integrity requirements, fuel specifications, and appliance compatibility standards. 
+
+Currently, high levels of renewable penetration/installation on the electric grid often lead to increased levels of curtailments and overproduction without sufficient storage. Over half of the states in the US have a renewable portfolio standard. With appropriate regulatory frameworks, hydrogen enables grid stability, resource adequacy, and electricity storage.
+
+To enable the cost-effective manufacture of hydrogen from reforming with CCS, regulators address barriers to carbon storage, including pore space ownership challenges, and long-term storage liability, and define reasonable design and monitoring standards. 
+
+In transport, states with existing ZEV mandates or low-carbon fuel standards include FCEV targets. Public cost-neutral incentives such as user advantages (e.g., high occupancy lane use or “front of the line” privileges at ports), and specific policies compensate for externality differences between hydrogen vehicles and gasoline/ diesel vehicles, including for new segments, e.g., fuel cell heavy-duty trucks. For example, some of those measures have been adopted in California and in the Section-177 states.
+
+These early adopter states focus on fueling infrastructure to support vehicle adoption and encourage hydrogen deployment in commercial fleets by supporting vehicle purchase programs and fleet fueling station infrastructure. Governments and regulated entities can lead by switching to hydrogen vehicle fleets. The next wave of “follower” states develops clean energy policy and incentivized strategic plans to support technology deployment. Policies also support the large-scale deployment of heavy-duty truck fueling stations across the country for medium- and long-haul trucking, including high-throughput hydrogen production and dispensing systems, validation and testing facilities, and easy access to low-cost, low-carbon energy.
+
+At the federal and state levels, workforce programs are launched to build a trained workforce on hydrogen technology skills.
+
+Hydrogen supply and end-use equipment
+
+Investment in R&D on electrolyzer and compressor design and manufacturing drive the deployment cost down. Hydrogen production from water electrolysis is scaled up, with the first 10 to 50 MW electrolyzers installed. Hydrogen production from methane reforming (SMR/ATR) with RNG or demonstrated and commercially operating CCS solutions already exist. Stakeholders build public and policy support and prepare project pipelines to identify further policy enablers and economic thresholds for progressing each project. Early adopter states start expanding distribution of gaseous and liquid hydrogen.
+
+Additional R&D on end-use equipment is undertaken to set the basis for future scale-up. Second-generation vehicle models and fueling stations for light-duty vehicles, buses, and material- handling vehicles are rolled out. First-generation vehicle models and fueling stations for heavy-duty trucks appear. Fuel cell systems scale up to more than 30 MW, opening up applications in data centers and facility backup power. Early pilots test new hydrogen- tolerant pipelines and appliances, and demonstration for energy storage shows feasibility to support intermittent renewables and nuclear, as well as data centers and industrial applications. 
+
+Outcomes
+
+Transportation fuel
+
+Mature applications, such as forklifts and material-handling equipment, which are already competitive with battery forklifts in warehouses, continue to see rapid growth and hydrogen automatic guided vehicles further develop. From the more than 25,000 fuel cell forklifts currently in operation, we see the potential to grow to 50,000 units.
+
+Light-duty passenger vehicles continue to scale up in regions like California, where public–private partnerships have already initiated infrastructure development. Second-generation products in passenger vehicles and fueling stations improve performance, reduce cost, and increase customer adoption. The development of infrastructure starts with clear prioritization logic, then begins to grow organically. By focusing first on areas that are the most likely to adopt FCEVs and strategic placement of fueling stations along major transport routes, the initial “minimum coverage” can be achieved with relatively few fueling stations. This could be done by fostering the transition to organic growth – with less control, cost reduction, and competition enabled. For example, in California, the first 64 fueling stations were publicly funded with controlled placement28 while the next phase of development will occur under a multiyear funding structure and the LCFS policy with placement guided in general terms. The California Air Resources Board estimates that 92 stations would be required by 2022 in strategic locations across California to support 43,600 FCEVs, while growth to 1,000 stations in 2030 is needed to support 1 million FCEVs and provide access to hydrogen fuel, with coverage similar to gasoline for 97 percent of Californians.
+
+Fleets such as buses, light commercial vehicles, and medium- and heavy-duty trucks – in particular, those that refill in depots – start switching to hydrogen. They have little infrastructure requirements, as they do not require a wide network of fueling stations, and high utilization of the depot fueling station can be achieved through continuous operation or ideal complementary uses.
+
+Demand growth in transportation is sufficient for the first dedicated hydrogen production facilities, including SMR with RNG feedstock and mid-scale electrolyzer plants, which, along with build-out of gaseous and liquid distribution, also begin to reduce the cost of hydrogen fuel even as the carbon intensity is reduced. 
+
+Given the high purchase price, vehicle leasing models can help drive early adoption with rebates for fuel.
+
+Power generation and grid balancing 
+
+Backup power solutions for data centers and telecommunication services are attractive segments in the coming years, especially given the fast growth in hyperscale data centers and the interest of large IT firms to power their operations with renewable energy.
+
+Hydrogen used in centralized power generation benefits from additional R&D focused on retrofitting natural gas turbines to accept an increasing hydrogen blend. 
+
+Fuel for residential and commercial buildings
+
+Over the next several years, regulators, gas distribution companies, and major industrial gas consumers are expected to prepare for hydrogen blending into the gas grid. It requires defining the appropriate standards, undertaking technical studies to test impact on pipelines and end-user appliances, and investing in the development of hydrogen appliances or modifications to existing appliances. 
+
+An R&D consortium led by the resources at federal national laboratories and supported by industry experts could facilitate and accelerate this effort. Several disparate pilot efforts could already be aggregated to such a consortium to better focus efforts.
+
+Feedstock for industry and long- distance transport
+
+The focus in feedstock applications (e.g., fertilizer) is a demonstration of on-site water electrolysis and natural gas reforming with CCS. Following construction of the Yara/BASF plant in Texas, other companies follow suit in feasibility testing for similar low-carbon pursuits. 
+
+Planned production of HVO biokerosene in aviation continues, and new production facilities develop as other major airlines follow the footsteps of United, Alaska, and Southwest Airlines in carbon emissions reduction targets. Low-carbon fuels for shipping see negligible growth, though research continues to explore low-carbon fuel options for freight ships, in particular ammonia fuel. 
+
+For steelmaking, additional research is undertaken, as companies seek to better understand the technical requirements around the use of hydrogen as feedstock in the DRI-EAF process.
+
+Fuel for industry
+
+Research and testing continue, especially in the high-grade segment, to test the feasibility of hydrogen and develop the required burners/furnaces to enable such high temperatures.
+
+2023 to 2025: Early scale -up 
+
+Larger-scale hydrogen production and increasing demand bring hydrogen costs down
+
+In the second phase, larger-scale hydrogen production and increasing demand bring hydrogen costs down. The objective of this phase is to reach a total hydrogen demand of 13 million metric tons, 150,000 light- and heavy-duty FCEVs sold, 125,000 material-handling FCEVs in operation, and 1,000 fueling stations, with nearly 10 percent of the stations dedicated to medium- and heavy- duty vehicles operating in the US.
+
+Enablers
+
+Policy support
+
+In this phase, scaling up both hydrogen production and the fueling station network are critical. Federal support to remove regulatory barriers is also necessary to ensure a successful and sustainable transition to a hydrogen economy. 
+
+Local governments in early adopter states actively support the minimum required fueling infrastructure expansion, meaning sufficient coverage for convenience in core markets, along with sufficient connector and destination refueling stations to be able to drive to and from all destinations. It can be done through, for example, market-based policies, technology- neutral subsidies, joint ventures funded by major industrial players, or multiyear request-for-proposal funding. Local governments also support the development of an initial hydrogen distribution pipeline network.
+
+A critical component would be for additional states to adopt funding policy road maps (similar to California's), correcting for externalities between FCEVs and ICE vehicles as well as supporting fueling station infrastructure and commercial fleet adoption.
+
+Hydrogen supply and end-use equipment
+
+As electrolyzer economics improve following the global trend, industrial companies install the first industrialized large-scale electrolytic hydrogen production facilities of more than 50 MW, along with smaller on-site production capabilities at some fueling stations. This fosters the use of hydrogen for the coupling of renewable electricity production and transportation demand at scale. The industry also develops large-scale demonstrations of SMR or ATR with CCS. On the distribution side, companies begin to implement hydrogen pipeline systems in industry clusters.
+
+Additional FCEV makes and models are brought to market to meet the increasingly ambitious policy targets, such as the California Fuel Cell Partnership’s ambition of 1 million FCEV by 2030.
+
+Outcomes
+
+Transportation fuel
+
+By 2025, fuel cells scale up past forklifts into new material-handling applications, including automatic guided vehicles and robots, and beyond warehouses, into airports, ports, and mines. 
+
+By 2025, the customer value proposition for passenger FCEVs is established, adoption is increasing in early adopter states, and introduction is expanding to other states. Automakers launch new FCEV models to satisfy more customers’ needs and increase adoption. Light commercial vehicles and buses also see high levels of adoption in early adopter states and begin to scale in other states that prioritize ZEVs. Production of second-generation medium- and heavy-duty trucks and fueling stations begins, establishing a presence in regional areas where there is a known, dedicated demand on frequented routes. Given the TCO advantages of FCEVs over their lifetimes, leasing or “mobility-as-a-service” models help spur adoption by offering the truck, fuel, and service for one monthly price. These service models and guaranteed fueling revenues help stimulate the investments needed to deploy fueling stations along freight corridors. By supporting targeted development of hydrogen installations that include production, the supply of hydrogen to these freight corridors can create synergies with other applications.
+
+Some cities start piloting hydrogen trains, mostly for commuter trains to improve local air quality when overhead powerlines are too costly, difficult to implement, or the grid is not yet decarbonized.
+
+Power generation and grid balancing
+
+The use of hydrogen fuel cells expands beyond newly constructed data centers and telecommunication towers, to the retrofitting of existing facilities and other users of diesel generators – food manufacturing facilities, hotels, amusement parks, hospitals, new construction areas, and remote houses. 
+
+In centralized power generation, larger-scale pilots of hydrogen blended in natural gas turbines help assess feasibility and efficiency.
+
+Fuel for residential and commercial buildings
+
+Blending with natural gas in early adopter states helps drive at-scale hydrogen production, even at small blending percentages. Assuming the Northeast, Midwest, and West Coast regions decide to blend 4 to 5 percent hydrogen by volume into the gas grid by 2025, it would require an estimated 342,000 metric tons of hydrogen per year. Achieving this level requires regulatory changes to allow the blending of hydrogen into the grid. 
+
+Feedstock for industry and long- distance transport
+
+Existing hydrogen markets (ammonia, methanol, refineries) begin to convert to low-carbon hydrogen sources as companies seek to reduce their GHG emissions. Large-scale adoption of low-carbon hydrogen production methods helps demonstrate feasibility at scale and achieve economies of scale. 
+
+In the steel industry, a first pilot emerges that uses hydrogen instead of natural gas as feedstock in a DRI-EAF process. 
+
+HVO biokerosene fuel production continues to scale for aviation, as airline contracts coalesce. New synthetic fuel production pathways (such as biomass-to-liquid and power-to-liquid with the Fischer- Tropsch process converting a mixture of hydrogen and carbon monoxide into liquid hydrocarbons) start to be scaled up with the first commercialized pilots.
+
+Fuel for industry
+
+Deployment of hydrogen as an industrial fuel remains limited, but small pilots in niche industries help to test and refine the technology.
+
+2026 to 2030: Diversification
+
+The uses of hydrogen expand beyond early- adopter segments like transportation and backup power
+
+The half-decade from 2026 to 2030 is about diversification: the uses of hydrogen expand beyond early- adopter segments like transportation and backup power. By 2030, the hydrogen economy represents 17 million metric tons of fuel consumed every year, 1.2 million FCEVs sold, 300,000 material- handling FCEVs in the field, and 4,300 fueling stations operating in the US. It attracts investment of nearly $8 billion per year. 
+
+At the end of this phase, hydrogen production has been scaled up, the critical infrastructure has been put in place, and hydrogen equipment is manufactured at scale.
+
+Enablers 
+
+Policy support
+
+Enabling hydrogen applications beyond transport and backup power requires policies to limit carbon emissions. Hydrogen can play a significant role in decarbonizing several sectors, including steel, aviation, data centers, and gas distribution. In the absence of an economy-wide carbon price, these sectors require their own sets of policy tools and incentives to deploy successfully. 
+
+In this phase, to help industrial companies switch to low-carbon hydrogen, further incentives or carbon fees are introduced, driving developers to co-locate renewable power production and electrolysis systems near existing hydrogen production sites to take advantage of shared infrastructure, and to promote additional CCS facilities.
+
+In early adopter states, the fueling station network expands, driven by industrial players that choose to invest in the best locations. “Follower” states support implementation of fueling station coverage. A new wave of states beyond early adopters develop their own clear and credible ZEV road maps that include hydrogen vehicles.
+
+Hydrogen supply and end-use equipment
+
+Electrolytic hydrogen scales up in states where dedicated high solar and wind resources render renewable power costs low. Electrolyzer production costs are becoming competitive and driving capex down due to large volume manufacturing processes. For natural gas reforming pathways, stakeholders develop at-scale CCUS. Production of hydrogen equipment, such as fuel cells and fueling station components, starts scaling up.
+
+In distribution, new hydrogen pipelines connect large-scale production sites with demand centers, in particular in industrial clusters and from renewable-rich regions to demand centers (e.g., towards the West Coast).
+
+The continued scale-up of electrolytic hydrogen production begins to create meaningful sector coupling with electricity grids and renewable power production, and the first hydrogen transmission pipelines enable further cost reduction with seasonal firming and storage.
+
+Outcomes
+
+Transportation fuels
+
+Material-handling vehicles and forklifts see continuous adoption across sectors, with increasing usage of low-carbon hydrogen. 
+
+Annual production of about 1.5 million hydrogen vehicles in 2030 brings fuel cell system costs down significantly. With increased competitiveness and widespread fueling infrastructure, light-duty passenger vehicles start expanding in other states and selected cities, beyond early adopter states.
+
+Medium- and heavy-duty hydrogen trucks are scaled up, supported by fueling stations strategically positioned around the country to serve high-usage freight corridors. These regional fueling corridors may begin to connect to create nationwide networks that slowly enable coast-to-coast travel and freight. Light commercial vehicles and buses continue to expand beyond early adopter states.
+
+Hydrogen trains show increasing traction, with greater deployment of hydrogen commuter trains and the first pilots of hydrogen locomotives in heavy freight, where electrification is too costly over such long distances and the grid is not yet decarbonized.
+
+Power generation and grid balancing
+
+Hyperscale and co-located data centers more than triple by 2030. Over half of new construction has hydrogen fuel cells installed, and a quarter of the facilities existing today transition to hydrogen fuel cells as well, totaling several thousand facilities powered by hydrogen backup power. Because only about 10 percent of the stocked fuel is used in routine testing every year, and even less in actual outages, opportunities emerge to use hydrogen produced on-site in interaction with the grid or for other applications like transport fueling stations. The location of the power generation is critical to its successful synergy with transport.
+
+Among users of diesel generators for backup and off-grid power, the use of hydrogen fuel cells continues to grow as costs decrease and they become the standard for new building construction. 
+
+Fuel for residential and commercial buildings
+
+By 2030, three early adopter regions – the Pacific, the eastern part of the Midwest, and the Atlantic shore – with the highest natural gas consumption and an interest in decarbonizing the gas grid implement about 10 percent hydrogen blending by volume into their networks. Few other states outside of these regions join in this effort at scale, but likely have small regional pilots in play. 
+
+Feedstock for industry and long- distance transport
+
+By 2030, ammonia, methanol, and petrochemical production, see a significant transition towards low-carbon hydrogen, with the development of large-scale methane reforming with CCS,  large electrolyzers with dedicated renewables, or nuclear generation for facilities in favorable locations.
+
+A few major DRI-EAF steel production plants show initial deployment of hydrogen as feedstock production at scale. The industry converts some of the BOF facilities at the end of their lifetimes to DRI-EAF facilities with hydrogen.
+
+Sustainable aviation fuels see increased demand as airlines take action to reduce their emissions.
+
+Fuel for industry
+
+Some industries pilot hydrogen as a fuel in high-grade heat industrial processes, especially those that feel pressure to reduce GHG emissions, such as iron, steel, and chemicals. Ongoing research and feasibility tests continue in medium- and low-grade segments.
+
+Export
+
+The US starts exporting hydrogen and related equipment, such as electrolyzers, fuel cells, FCEVs, and storage materials.
+
+After 2030: Broad rollout across the US
+
+Hydrogen applications deploy at a larger scale, providing the lowest-cost solution in a number of segments, attracting more investment, and opening export opportunities
+
+After 2030, hydrogen applications deploy at a larger scale in the US, beyond the traditional early adopter states and regions. As they provide the lowest-cost solution in a number of segments, their uptake increases rapidly, attracts more investment, and opens export opportunities.
+
+By 2050, the hydrogen economy represents 68 million metric tons of hydrogen consumed every year.
+
+Enablers
+
+Policy support
+
+Beyond 2030, several applications reach cost parity with fossil fuel alternatives, such as certain transport segments. Policy support fully corrects for externalities.
+
+Regulators focus on building a robust hydrogen code at the federal level, standardizing hydrogen practices across the US to improve synergies and enable broader deployment. Water electrolysis is recognized as a viable source of flexibility in power systems and regulations are adjusted to reflect that. For instance, the Federal Energy Regulatory Commission may establish a participation mechanism for hydrogen in US power markets. 
+
+Best practices and lessons learned from early adopter states or early adopter industries are shared across the US to help newer “hydrogen states” enable the hydrogen market to deploy in the most efficient way.
+
+Hydrogen supply and end-use equipment
+
+A mature network of on-site hydrogen production and fueling infrastructure is expanding to meet higher hydrogen demand. SMR production sees competition with water electrolysis as the industry seeks lower-cost production methods for low-carbon hydrogen. Reforming capacity is retrofitted with CCS, driven by policy incentives or regulations. A large variety of FCEV models are on the road.
+
+New hydrogen-compatible pipelines are built when required, and selected gas network infrastructure is upgraded to handle high concentrations of hydrogen.
+
+The backbone infrastructure of the hydrogen economy begins to consolidate into large-scale, low-carbon hydrogen production facilities across the US, a hydrogen distribution pipeline network, and a large fueling station infrastructure network.
+
+Outcomes
+
+Transportation fuel
+
+Three out of ten vehicles on the road are FCEVs by 2050. Hydrogen fuel adoption in light-duty passenger vehicles, light commercial vehicles, buses, and medium- and heavy-duty trucks sees widespread adoption across the US, and forklifts/ material-handling vehicles reach their maximum potential.
+
+Power generation and grid balancing
+
+By 2050, the adoption of hydrogen fuel cells instead of diesel generators for distributed power becomes the norm. On-site electrolyzers also support local grid interactions, allowing for storage and load balancing and providing hydrogen for fueling stations. 
+
+In states with 100 percent zero- carbon electricity targets and limited flexible supply, such as hydropower, hydrogen helps to manage peak power demand by storing excess renewable power.
+
+Fuel for residential and commercial buildings
+
+By 2050, a minimum hydrogen blending standard extends beyond several early adopter regions, resulting in widespread adoption of hydrogen across the US. Early adopter regions – parts of the Pacific, Midwest, and Northeast – have high blend levels in some areas and pure hydrogen networks across much of each state, and the rest of the US states aim for a blend of up to 20 percent by volume. 
+
+Feedstock for industry and long- distance transport
+
+By 2050, low-carbon hydrogen in existing feedstock is widely implemented either with reforming plus CCS or with dedicated renewables for on-site water electrolysis. 
+
+The use of hydrogen in steelmaking expands to several plants in the US, with a large portion of the DRI-EAF facilities switching to hydrogen blends, and many of the BOF facilities transitioning to DRI-EAF. 
+
+Production of biofuel, synthetic fuel, and other low-carbon fuel options like ammonia grows significantly; therefore, major airlines and shipping companies can meet their 2050 carbon emissions goals. 
+
+CCU in petrochemical production like BTX and olefins are scaled up in favorable environments with improved technologies, e.g., in petrochemical clusters with complementary processes.
+
+Fuel for industry
+
+Large-scale facilities requiring high-grade heat use hydrogen as fuel. Pilots and testing in large facilities start to further increase for medium- and low-grade heat in cases where electrification or the use of low-carbon RNG is not possible or too costly.
+
+Export
+
+The US scales up exports of hydrogen and related equipment and generates up to $330 billion in annual revenue from exports along the hydrogen value chain in 2050.
+
+PATH FORWARD
+
+Achieving the goals of the road map will require concerted action from governments, business, and investors
+
+Hydrogen has a key role to play in maintaining US global energy leadership, advancing the US economy, and decarbonizing the US energy system. This report lays out a road map to deploy hydrogen solutions, create positive momentum, and realize cross-sector synergies. Achieving the goals of the road map will require concerted action from governments, business, and investors. Other countries, such as Germany, Japan, and China, are developing hydrogen infrastructure and investing in the groundwork for a hydrogen economy. The US should not fall behind.
+
+Decisions made today will strongly influence whether hydrogen succeeds in the US or stalls on the road. Many hydrogen technologies are at or near commercial readiness, and further research, development, and deployment will enable future application solutions. Additionally, advancements in the policy and regulatory framework can help mobilize private capital to scale up infrastructure and manufacturing. This will encourage cost declines and expand deployment of hydrogen solutions.
+
+What needs to happen
+
+Setting the north star
+
+• Set dependable, technology- neutral decarbonization goals. Where possible, a given approach should not pick winners or prescribe a specific pathway, but rather unleash competitive markets in determining the solutions. Appropriate regulation can create an equal playing field among relevant technologies that achieve the desired societal objectives. Policy certainty is required for businesses to invest for the long term. For hydrogen, this is needed to enable the required infrastructure investments and attract long- term investors. For example, scalable, long term, market- based mechanisms are needed, such as a carbon fee or cap and trade system, complemented where necessary with sector- specific mechanisms.
+
+Kick-starting markets with the needed incentives and support
+
+• Create public incentives to bridge barriers to initial market launch. The higher initial cost of introducing low-carbon hydrogen, including renewable hydrogen, will require public funding to support customer adoption, which can be commensurate with the societal benefits from emissions reduction. As the initial introduction progresses through early adoption, this public support will need to pivot towards policies that enable private sector investment and scale. Examples of policy support could include tax credits or tax deductions, such as the 45Q for carbon storage; subsidies, rebates, or vouchers; or a carbon price. This public support for hydrogen should be on par with other technology support, such as the American Recovery and Reinvestment Act and technology acceleration programs that provided federal cost-share for several hundred fuel cell forklifts, which subsequently led to over 25,000 of them being purchased by industries without federal funding.
+
+• Support infrastructure development. This requires reducing investment risks and operational cost burdens for companies that provide hydrogen infrastructure. Many governments have already been proactive in expanding initial hydrogen infrastructure, often with cost-sharing with the private sector. The US will need to do the same to enable the growth of hydrogen and realize the environmental and economic benefits that a scaled-up domestic hydrogen industry will bring. 
+
+• Expand the use of hydrogen across sectors and achieve economies of scale. While initial investments have been largely focused on (and are continually needed for) hydrogen-based transport, there is significant potential for hydrogen in other markets as well. Hydrogen can play an important role in decarbonizing a wide range of sectors, including aviation, shipping, power, data centers, steel, and gas distribution. Adoption of hydrogen across sectors would lead to economies of scale and a decline in cost. Large-scale hydrogen production and sufficiently widespread distribution infrastructure would make these technologies more competitive. Deploying hydrogen across multiple sectors in parallel will help drive such scale economies and synergies.
+
+• Include hydrogen-based options in government procurement. Government entities invest significantly in vehicle fleets, backup power, and other applications where hydrogen is a viable option. If government agencies deploy hydrogen and fuel cell technology to demonstrate the use case, this could help illustrate the factors at play, including potentially positive effects on local emissions, domestic value production, and job creation. 
+
+Making systemic changes to pave the way for a hydrogen economy
+
+• Support research, development, demonstration, and deployment. Winners in the energy market today are driving rapid innovation through R&D, with step changes in technology that subsequently benefit from scale and continuous improvement. Solar cells, batteries, wind turbines, and shale drilling are improving each month due to rapid innovation in materials sciences and data analytics, with fast adoption of those innovations. For hydrogen, additional coordinated research, development, demonstration, and deployment support from the public and private sectors is needed. Public–private partnerships can help drive innovation in electrolyzer manufacturing and process development, as well as in fuel cells, hydrogen storage, CCS gas separation technologies for hydrogen from waste streams and other hydrogen-related technologies. Private-sector companies can act as integration partners to quickly deploy hydrogen innovations once they have been demonstrated. 
+
+• Harmonize technical codes and safety standards. Further unifying and simplifying permit and safety protocols for hydrogen infrastructure could reduce costs and barriers for technology deployment, enabling domestic leadership. While most critical standards are in place, they need improvement and further advancement to close existing gaps. In some cases, such as hydrogen blending into the gas grid, studies and research should be undertaken to inform new safety and performance requirements. Harmonizing definitions of the hydrogen production pathway in the US would facilitate communication and regulations in the US as well as for exports.
+
+• Support outreach and workforce development. As hydrogen and fuel cell technologies become mainstream, coordinated public– private investment is needed on education and outreach, and to create workforce development programs similar to those developed for solar and other emerging technologies. These include technical assistance as well as training programs for technicians, operators, first responders, and other relevant workers, to develop a qualified American workforce in the emerging hydrogen industry.
+
+• Review energy sector regulations to account for hydrogen. The energy sector is heavily regulated to support safe and reliable operations. As regulatory changes have been introduced to allow for other new technologies, regulations now need to be adapted for hydrogen. For instance, to enable hydrogen in the power system, the Federal Energy Regulatory Commission would need to establish a participation mechanism for hydrogen in US power markets to provide grid services such as flexibility and energy storage. To enable hydrogen production with CCUS, fit-for-purpose regulations need to be developed to ensure safe, reliable storage and transportation. 
+
+The contributors to this report believe in the potential of hydrogen as a key solution for the US energy system. We are looking forward to working with suppliers, customers, partners, investors, and policymakers towards a hydrogen economy that drives growth, jobs, and lower emissions in the US.
+
+APPENDIX
+
+Definitions of hydrogen production pathway examples
+
+Several bodies and organizations are trying to develop definitions or market-based tolls for the various hydrogen production pathways. 
+
+In California, the Public Utilities Code defines renewable resources along with the Renewable Portfolio Standard for power generation. Requirements for renewable content in hydrogen production in publicly funded hydrogen fueling stations and production facilities are set by the California Energy Commission according to legislation via definitions included in grant-funding solicitation manuals. The relative well-to-wheels carbon intensity of transportation fuels, including hydrogen, is evaluated for individual production pathways under the Low-Carbon Fuel Standard (LCFS) using the GREET model, from which an assessment of lower or higher carbon than the benchmark for conventional fuels is made for the purposes of LCFS deficit or credit generation. 
+
+In Europe, the CertiHy project was developed to create Europe-wide definitions of low-carbon hydrogen and green hydrogen, in addition to a plan and process to certify each type of hydrogen. Low-carbon hydrogen is defined by CertiHy as hydrogen produced from an energy source that releases 60 percent less CO2 than today’s SMR processes using natural gas. Current SMR processes release on average 91 grams of CO2 equivalent per MJ of hydrogen, meaning the low-carbon threshold must be equal to or less than 36.4 grams of CO2 equivalent per MJ to be considered low-carbon hydrogen. 
+
+Low-carbon hydrogen can be produced from both renewable and non-renewable sources as long as the 36.4 grams of CO2 equivalent per MJ is reached.
+
+Green hydrogen is defined as hydrogen produced from a process that releases less than 36.4 grams of CO2 equivalent per MJ and uses a renewable energy source as defined by the EU Renewable Energy Directive. Energy from a renewable source is defined as: “Energy from renewable non-fossil sources, namely wind, solar (solar thermal and solar photovoltaic), and geothermal energy, ambient energy, tide, wave, and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas, and biogas.”
+
+Model assumptions
+
+Methodology
+
+The road map for the deployment of hydrogen and fuel cell solutions in the US presented in this report was developed in a four-step process. 
+
+The first step was to develop a projection of the future US energy system. The International Energy Agency’s Energy Technology Perspective “2°C Scenario” for the US was used as the primary baseline. On this baseline, a number of sources were used to further differentiate energy use within segments: modeling from McKinsey Energy Insights, industry perspectives, and expert interviews. Furthermore, the model reflects external studies for sector-specific, regional, and country-level analyses (the text explicitly mentions sources; see bibliography for a full list). 
+
+In the second step, segment- specific adoption rates for hydrogen and fuel cell solutions were determined. The adoption rates were derived from external studies, expert opinions of the companies and organizations that were part of this study, the results of the Hydrogen Council report “Hydrogen, Scaling up” adapted for the US, and analytical calculations. Using these adoption rates, the market potential for hydrogen was calculated.
+
+In the third step, after determining hydrogen's potential, multiple quality and feasibility tests on the developed outlooks were performed. Results were cross-checked against other published studies, internal studies of the contributing companies and organizations, and analogies from other technology adoption curves. The near-term ramp-up was validated against present industry outlooks.
+
+In the fourth step, the physical market size was translated into revenue and employment potential. Estimated revenues include both those generated within the US as well as those generated from exports at each step of the value chain. The modeling splits the value chain along three main segments: manufacturing of hydrogen production equipment, hydrogen supply, and manufacturing of end-use application equipment. Employment in the industry was estimated using applicable jobs multipliers. For example, the number of jobs for the hydrogen supply industry was derived by multiplying the expected revenues with the employment multiplier of the industrial gases industry. As with any such projections, employment and revenue figures are subject to significant uncertainties, e.g., employment figures derived using multipliers do not account for 
+
+technological changes in production processes. These figures should therefore be used to gauge the order of magnitude of an industry and can serve as a comparison with similarly estimated initiatives but should not be used as a reliable predictor for economic impact.
+
+Adoption rate assumptions
+
+The adoption rates in Exhibit 34 and Exhibit 35 were estimated based on input from participating companies and organizations, the adoption rates developed in the “Hydrogen, Scaling Up” report, adopted for the US context, and in some segments, underlying modeling of competitiveness of hydrogen solutions. The numbers represent the estimated market size for hydrogen (Exhibit 34 and Exhibit 35).
+
+Power system model
+
+The power system model is a power market capacity expansion model able to integrate demand and supply for electricity, including for transportation, buildings, and electric fuels to develop an integrated view of economics and emissions within a market.
+
+Focusing on New York and Texas, we modeled ERCOT and NYISO on a trajectory to net zero-carbon emissions by 2050 using a least- cost economic system model. The optimization includes capacity expansion as well as hourly granularity of real weather years to address the intermittency of solar/wind production. We included current generation sources with realistic lifetimes, and options to build gas, coal, wind, solar, li-ion battery storage, CCS, and hydrogen electrolysis. Electricity demand is assumed to grow based on an economic model analyzing 14 end uses across four sectors (commercial, industrial, residential, and transport);31 hydrogen demand is included as an exogenous constraint. In addition to electrolysis, the cost of hydrogen storage for flexibility is included in the optimization.
+
+This tool does not model the detailed transmission and distribution system but tracks flow through a select number of major corridors. Therefore, it does not capture the full cost of the transmission and distribution grid in the analysis.

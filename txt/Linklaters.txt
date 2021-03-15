@@ -1,0 +1,672 @@
+Introduction
+
+Hydrogen is having a moment.
+
+There has been a flurry of recent announcements on the potential for clean hydrogen to propel the global energy transition. In Europe alone, Spain, Germany, France, Portugal, the Netherlands and the European Commission have each published hydrogen strategies in the last several months. The UK has also made recent announcements about its ambitions. There is a clear sense in which clean hydrogen is viewed by many countries as the “missing link” required in order to achieve a fully functioning net zero economy consistent with their Paris Agreement objectives.
+
+In this series, we will be taking a closer look at the vision that is generating all the excitement; the politics; the use cases favoured by different countries; what the business models might need to be and what is currently contemplated; and the new legal changes needed to bring this new (rather inflammable) commodity into our everyday lives.
+
+Chapter 1:
+
+Hy-Ambitions – a vision for a new energy vector
+
+The Hy road: a brief history of clean hydrogen
+
+While hydrogen is currently enjoying a renaissance, it is not “new”. Its value as an energy carrier has been recognised since the 1800s and there have been several waves of enthusiasm for wider utilisation of hydrogen in recent decades. Unfortunately, none has resulted in transformative change. In the 1970s, a brief interest in hydrogen was stifled by the dependence on rising oil and gas prices for hydrogen scale-up and a narrow focus on use in the transport sector. Conversely in the 1990s, low oil prices suppressed motivation for focussed investment.
+
+The climate emergency is occupying mainstream policy focus in many countries. While the profound growth of the renewable energy sector over the past two decades has enabled rapid decarbonisation of electrical systems, there is rising recognition of the need to identify methods of decarbonising energy for those sectors which are difficult to electrify, such as industrial processes, high usage or long-haul transport and fuel for buildings as well as to remove emissions from chemical processes. With a lack of viable alternatives to achieve the levels of deep decarbonisation consistent with net zero targets, clean hydrogen may offer the solution and has unprecedented political and industry momentum.
+
+The potential economics of clean hydrogen, given the multitude of use cases and varying counterfactual costs, are complex to unravel and vary from market to market. Hydrogen has also consistently faced the “chicken or egg” challenge of how to simultaneously bring about change both upstream and downstream: both of these challenges remain today. Recently, however, the context in which these challenges are viewed has changed out of all recognition.
+
+Hy hopes: the possible use cases for clean hydrogen
+
+There are a number of promising use cases for clean hydrogen.
+
+1. Industrial processes – chemical hydrogen
+
+Hydrogen has been used for decades in industrial processes such as oil refining, ammonia production and iron and steel production, however it is currently almost exclusively produced from unabated carbon-containing fossil fuels (so-called “grey hydrogen”). To give a sense of scale, approximately 6% of global natural gas production and 2% of global coal production is dedicated to grey hydrogen production (in each case, with the redundant CO2 from the fossil source largely being discharged into the atmosphere).
+
+It follows that clean hydrogen, in direct substitution for the grey hydrogen currently produced, offers immediate potential to decarbonise existing chemical processes on a meaningful scale. This use case also clearly demonstrates how clean electricity alone cannot get us to net zero. Substituting clean hydrogen for grey hydrogen clearly avoids the cost of downstream adjustment. However, the counterfactual is grey hydrogen, the cost of which is itself a derivative of hydrocarbon (mostly methane) prices, but with the added costs of processing. Depending on prevailing natural gas prices, this may be one of the higher counterfactuals.
+
+However, on its own, this use case is unlikely to be big enough to justify the creation of a new clean hydrogen production sector at scale.
+
+2. Industrial processes – fuel switching
+
+Industrial customers may present another, more significant, use case for clean hydrogen, through decarbonising the energy (rather than the chemical) needs of industry. As a combustion fuel, hydrogen has different performance characteristics to electricity. For some industrial processes it will be simpler and more attractive to switch from other combustion fuels to clean hydrogen than switching to electrical energy. In transitional situations especially, hydrogen may be substitutable for methane relatively easily. The HyNet project in the UK, for example, is a potential clean hydrogen production facility for deployment within the industrial cluster in the north west of England. The project intends to utilise CCUS to produce clean hydrogen for use in certain industrial processes, including initially to substitute for methane in Essar Oil’s Stanlow Refinery.
+
+Until now, many industrial sectors have been protected from a requirement to fuel switch by exemptions within existing carbon incentives. As a result, governments have a degree of control over which decarbonisation path they are encouraged to follow (and whether and when they do so).
+
+Taken overall, delivering the downstream adjustment required for this type of fuel switching, while requiring support, does not feel out of reach.
+
+However, the economics are perhaps less flattering than for other use cases, in that the alternative is usually methane or (untaxed) diesel, or power, each of which is likely to be considerably cheaper than clean hydrogen, at least initially.
+
+3. Transportation
+
+Hydrogen has long been touted as a potential energy carrier for transportation via hydrogen fuel cell technology. In many markets, battery electric vehicles (“BEVs”) have clearly become established as the low carbon technology of choice (after conventional technology) for small or short distance private vehicles. The resources currently being invested in this technology by automotive manufacturers suggests that there would need to be momentous shifts in technology or incentives for the industry as a whole to pivot away from BEVs.
+
+However, the inherent limits on charge capacity, and their relative weight, mean that BEVs are not a total solution for the transportation industry. For high usage vehicles such as taxis and delivery drivers, for heavy goods and farm/construction vehicles and for long distance vehicles such as trucks and buses, BEVs are not currently a particularly practical solution. Unless significant progress is made in overcoming these limitations in battery technology, fuel cell electric vehicles (“FCEVs”) will have a role to play.
+
+In addition to road vehicles, hydrogen may also aid in the decarbonisation of other forms of transport which are difficult to electrify, such as rail, maritime and aviation.
+
+For a considerable portion of this sector, the counterfactual will be diesel, which may or may not be taxed depending on the jurisdiction and the particular user. Where it is taxed (or subject to carbon charging of any sort) this may result in better economics for specific projects at a local level compared to untaxed diesel or methane.
+
+However, the downstream adjustment cost is significant, essentially requiring an entirely different vehicle (the design and production costs of which risk being entirely stranded if the market does not take off), as well as new refuelling and distribution infrastructure.
+
+This is a very clear “chicken or egg” problem: mass conversion of the transport sector (or parts of it) to hydrogen fuel cells requires major downstream changes in vehicles and infrastructure, which currently do not exist on any scale. However, the vehicles and infrastructure will not be developed or produced on a sufficiently widespread basis until there is a reliable supply. For this reason, some consider that transport applications are likely to follow the creation of hydrogen supply at scale for other use cases.
+
+4. Heat for buildings
+
+Clean hydrogen can be injected into existing gas networks to replace the use of natural gas for heating of business and domestic buildings. The injection of hydrogen at low levels (between 10% and 20% in most jurisdictions) generally requires few modifications to existing gas grid infrastructure and could be a valuable transitional emissions reduction tool in the relatively short term. However, the tolerance for hydrogen blending differs from country to country.
+
+The concentration of hydrogen above these upper limits, or pure hydrogen use for heating, would by contrast require significant changes to gas grid infrastructure and end-use applications (such as household appliances) and potentially the wholesale replacement or construction of new transmission and other infrastructure and end-use applications.
+
+From an economic perspective, the counterfactual fuel is largely (tax exempt at the point of use) methane.
+
+5. Storage, transportation and flexibility
+
+The creation of an established market for hydrogen, as an energy vector may also have significant benefits for the energy system as a whole. Green hydrogen offers an obvious solution to balancing intermittent renewable power output with demand: one where the alternative to the power producer is to be constrained off. For many energy buyers, hydrogen and power could be viable alternatives for their needs, supporting competition and innovation and allowing for fuel redundancy for high priority users.
+
+Hydrogen (and/or ammonia produced from hydrogen) can be transported over distances which are unlikely to be viable for power transportation, allowing long-distance energy transfers to take place. This has the potential to simultaneously reinforce energy security for countries who cannot expect to meet their energy needs from domestic renewables and provide a route to market for countries with renewable generation capacity that exceeds their domestic needs.
+
+All these factors mean that the addition of clean hydrogen to the mix would materially reinforce the energy system, approximating the sophistication and flexibility that has evolved in the hydrocarbon-based energy economy.
+
+Hy minded: what is in it for governments and industry?
+
+Big picture, the vision is compelling.
+
+Politically, governments cannot ignore their Paris Agreement commitments and they cannot achieve them without hydrogen. A “renewables + clean hydrogen” solution has the potential to replicate in a net zero world all the benefits we currently enjoy from hydrocarbons. Aside from greenhouse gases, the production and use of clean hydrogen may also improve air quality (specifically with respect to particulates) and thus health outcomes in some countries.
+
+It will not be cheap or straightforward, but the development of a new hydrogen economy offers the potential for wider economic and industrial transformation for committed governments. For example, the successful development of a hydrogen industry could rejuvenate industrial hubs and offer a pathway for the coal, oil and gas champions through the global energy transition post COVID (assisting the redeployment of valuable skills, assets and resources developed in the oil and gas sector).
+
+Europe’s “ownership” of the renewable revolution has been a major source of exportable technology and technical skills; clean hydrogen offers the opportunity to repeat that success for those who get there first.
+
+The motivations of industry are similar. The private sector is increasingly under pressure, from both governments and consumers, to take steps which are consistent with and facilitative of the global energy transition. Financiers (both private and developmental/multilateral) are increasingly linking the provision of finance to sustainability outcomes. Almost any private organisation active in the energy sector can see opportunities in hydrogen, given the multiple ways to create it and its many potential routes to market.
+
+But the challenges remain the same as they have been for the last half century. Unlocking the full potential of clean hydrogen will therefore require the use of careful and co-ordinated policy levers to incentivise its utilisation in the desired sectors.
+
+We are facing a deep worldwide economic shock with no real precedents to signpost the appropriate road to recovery. It remains to be seen whether governmental appetite for pursuing the hydrogen economy will persist in the current conditions.
+
+Not all governments will respond to the challenges in the same way (and their response may change over time).
+
+In the following chapters we look at some of the key political, economic, legal and practical questions which have arisen in leading economies, post COVID, as governments seek a way to introduce clean hydrogen at least cost and greatest advantage to their citizens, in search of early answers to the question: who will get hydrogen right?
+
+Chapter 2:
+
+Hy-Politics – political considerations shaping the evolution of clean hydrogen policy
+
+As set out in the first chapter, it is possible to get very excited about a brave new world with a renewable and hydrogen economy. But whether any particular country will get there, and how it goes about getting there, is likely to be driven by the political context of clean hydrogen at a more granular and domestic level.
+
+In this chapter we consider some of the key political issues shaping this debate and how individual countries are shaping up on the use cases for hydrogen.
+
+Hy stakes
+
+The creation of a cohesive global hydrogen economy will be both driven by, and a product of, geopolitics and industrial strategy that will vary from country to country.
+
+Blue, green or blue-to-green?
+
+For example, views may diverge on the question of the role of blue hydrogen in the emerging hydrogen economy: is blue hydrogen the answer, a bridge on the road to low-cost green hydrogen, or a wrong turn? It clearly offers the opportunity of production at scale much earlier than is expected from green hydrogen, which may be important in allowing the development of downstream markets. Green hydrogen, however, offers the opportunity of modularity and scalability which enabled the development and rapid expansion of the renewable sector.
+
+CCUS is clearly only relevant to those countries with existing or potential carbon dioxide storage capacity (primarily offshore saline aquifers, retired oil and gas wells or salt caverns). Further, blue hydrogen implies ongoing dependence on and exploitation of fossil fuels which may be politically and publicly unpopular. For some this means associated price and geopolitical volatility and some related emissions that will need mitigation over the net zero horizon. For others, this is an important way to reduce the transition costs of our response to climate change. Even if a long-term role for blue hydrogen is accepted, there is a subsidiary question of whether any clean hydrogen policy instrument should be technology neutral or favour green hydrogen. This is currently being debated amongst EU member states; perhaps unsurprisingly, member states without access to meaningful domestic generation capacity are falling on the side of technology-neutral policy levers.
+
+Geopolitics of change in energy producers and importers
+
+Given that clean hydrogen can be produced from both hydrocarbons and renewable energy resources, it can be expected that there will be a greater diversity of hydrogen-producing countries than is currently the case.
+
+Many, though not all, countries will have the potential to be self-sufficient across their entire energy system. Inevitably some will do this better than others (with wider implications for domestic competitiveness). Will a more broadly-based supply market constrain the evolution of any kind of a global market, with any cross-border supplies being limited and relatively local? Alternatively, will production champions emerge that continue to supply many other countries at great distances?
+
+Nations must consider the question of whether hydrogen can or should be produced domestically or imported and whether it should be consumed domestically or exported (especially where it has been produced with domestic subsidy). The new trade flows borne out of a cross-border hydrogen economy may be both politically and practically complex (requiring, for example, not only cross-border pipelines and/or dedicated marine infrastructure but also an appropriate certification and guarantee of origin regime), and would benefit from large-scale international co-ordination.
+
+A country’s current status as a hydrocarbon importer or exporter may also impact on its appetite for transition. Governments of countries with domestic fossil fuel reserves may be reliant on the revenue streams derived from fossil fuels and therefore reluctant to embrace green hydrogen, while net hydrocarbon importers may welcome the opportunity to reduce imports quickly (particularly, if they have the potential to produce excess renewable electricity).
+
+Manufacturing supply chain (and related jobs)
+
+Governments will also be cognisant of the significant potential advantage to early development of knowhow and technology which can lead to job creation and valuable exports. The renewables boom demonstrates that first movers could capture a significant amount of the manufacturing work associated with hydrogen production (in particular, the manufacture of electrolysers), with the result that producing countries may have to give up some of their production margins to support overseas manufacturers. This was, for example, a key element of Germany’s hydrogen strategy announced in June 2020. The development of a strong and competitive manufacturing industry producing the necessary equipment is therefore likely to be a key enabler of domestic clean hydrogen production capability in industrialised nations. This, in turn, will involve further investment in and development of local industry for the consumption of the hydrogen produced (rather than for export to other advanced economies).
+
+The “WHy” question
+
+Alongside the overarching considerations above, governments will need to consider the relative priority of use case(s) at a national level in the light of the specifics of their energy markets and design their policy responses accordingly. This analysis will not be the same for every country. Below, we consider some of the use cases in a selection of key countries.
+
+Australia
+
+While hydrogen has, in Australia, historically served mainly as an input into various industrial processes, both federal and state governments have committed to expand the use of hydrogen to, among other things, transportation and heat. In 2018, the Commonwealth Scientific and Industrial Research Organisation published the National Hydrogen Roadmap, which identified hydrogen as having applicability and value in the areas of transport, remote area power systems, industrial feedstocks, for export, electricity generation, producing heat and synthetic fuels. Australia is one of the few countries for which the potential for hydrogen to become a major export is a significant motivator in developing its hydrogen capabilities. To this end, Australia has signed a co-operation agreement with Japan and a letter of intent with South Korea to underpin future hydrogen export.
+
+The key drivers for these use cases are a reduction in greenhouse gases and the ability to secure a reliable domesticsupply of fuel for heat and transport.
+
+The Australian Government has indicated that it is technology neutral when it comes to hydrogen production. Australia’s Chief Scientist has argued that it would be irresponsible not to investigate alternate fuel sources for hydrogen, as multiple sources would provide valuable diversification and opportunities for scale. However, there is significant support for blue hydrogen amongst key industry players, as it allows existing producers in Australia’s well-developed oil and gas industry to leverage off their existing natural gas reserves.
+
+Belgium
+
+The potential for large-scale hydrogen production, transport and consumption by and for industry is the most promising use case in Belgium.
+
+Belgium today is already an important user of hydrogen technology, mainly in its petrochemical and chemical industries. Grey hydrogen flows through existing pipelines, which is separated during the processing of natural gas. The first pilot projects focusing on the use of hydrogen in transportation have already commenced, and there have been discussions about extending the pipeline network with hydrogen refuelling stations for hydrogen-powered vehicles.
+
+In the medium term, despite the high potential “penetration” rate of green hydrogen for industry,7 Belgium does not have enough surplus renewable power to produce green hydrogen on a large scale. As a result, Belgium may have to import additional renewable energy to produce green hydrogen from countries able to produce it more efficiently and cheaply. Blue hydrogen could therefore be a useful transitional technology.
+
+The European Union
+
+On 8 July 2020, the European Commission published its hydrogen strategy for a climate neutral Europe.
+
+Seeking to achieve the wide-scale deployment of clean hydrogen in Europe across different sectors is a key priority for the European Commission and one of the main deliverables of the European Green Deal to achieve climate neutrality by 2050.
+
+On the same day, the Commission launched its European Clean Hydrogen Alliance as well as its Energy System Integration Strategy10 (the latter highlighting the need for greater integration between energy systems, which currently largely operate in silos). The Energy System Integration Strategy is particularly relevant in the context of hydrogen, as the effective interaction between, for example, electricity and gas networks, will be integral to achieving a decarbonised energy system.
+
+The Commission’s hydrogen strategy is certainly ambitious, aiming for the production of up to ten million tonnes of green hydrogen and 40GW of electrolyser capacity within Europe by 2030 (with one million tonnes of green hydrogen and 6GW of electrolyser capacity by 2024). Importantly, it recognises the need to build up a clear pipeline of viable projects and the urgency of action that is needed if the ambition is be realised.
+
+It is clear from the Commission’s hydrogen strategy that there is a preference for renewable hydrogen (or “green hydrogen”) over low carbon hydrogen (or “blue hydrogen”). It is noteworthy that an earlier leaked draft of the Commission’s strategy made little reference to blue hydrogen production; however, the final published version does acknowledge the importance of hydrogen from fossil fuels (with carbon capture technology) in the short to medium term as a transition to large scale renewable hydrogen.
+
+Overall, though, the clear expectation that renewables will be the predominant energy source for hydrogen production in the longer term is reflected in the forecast of €180- 470bn of investment by 2050 for this production technology. By the Commission’s estimates, aggregate blue hydrogen investments will pale into relative insignificance over this timeframe, with €3-18bn of forecast investment.
+
+The Commission considers that the two main lead markets for hydrogen end-user demand will lie in industrial applications (eg replacing carbon-intensive hydrogen in refineries, the production of ammonia and methanol and replacing fossil fuels in steel making) and transport (in particular for heavy duty vehicles where electrification is more difficult).
+
+France
+
+The three use cases for hydrogen described earlier in this chapter (ie transportation, heat and industry) are already in the process of implementation in France. It is worth noting that, on 10 September 2020, the French Government unveiled a €7bn national strategy for carbon-free hydrogen, setting out three core objectives:
+
+>	to install enough electrolysers to make a significant contribution to the decarbonation of the economy;
+
+>	to develop clean mobility, particularly for heavy vehicles; and
+
+>	to foster the development of an H2 industrial sector in France, creating jobs and guaranteeing France’s technological expertise.
+
+In the short term, the French energy regulator (the Commission de Régulation de l’Énergie) considers that blue hydrogen could replace the use of grey hydrogen used in industry and that, in the medium term, it could be one of the vectors of decarbonisation in the heavy transport sector.
+
+France’s ambition is to develop blue hydrogen and its industrial, energy and mobility uses, with the prospect of reaching around 20% to 40% of total hydrogen and industrial hydrogen consumption by 2030. The French State, through various channels, has already or is in the process of launching several calls for projects to achieve the objectives set out above.
+
+In particular, France plans to establish a support framework applicable to hydrogen produced by electrolysis of water using low carbon electricity.
+
+Germany
+
+On 10 June 2020, the German Federal Government adopted the long-awaited National Hydrogen Strategy (Nationale Wasserstoffstrategie). This broadly aims to (a) achieve the German climate targets, (b) create new value chains for the German economy by developing a domestic market for hydrogen technology, and (c) develop international energy policy co-operation to secure market opportunities for German companies and secure sufficient hydrogen imports.
+
+The National Hydrogen Strategy identifies industry, transportation and heat as potential areas for increased use of hydrogen, but foresees that the use cases do not become viable at the same time. In the short to medium term, priority will be given to areas in which the use of hydrogen is close to economic viability and in which no major downstream dependencies are created or in which no alternative decarbonisation options exist. Furthermore, although the National Hydrogen Strategy states that only green hydrogen is sustainable over time, it assumes that blue hydrogen will be a transitional technology over the next ten years.
+
+The National Hydrogen Strategy has generally been received positively by industry. However, some industry participants have called for clearer policy proposals and greater certainty around regulatory changes required to integrate hydrogen into the energy system.
+
+Italy
+
+In December 2019, the Italian Government officially released the Integrated National Plan for Energy and Climate, which sets binding targets for energy efficiency, renewable sources and reduction of CO2 emissions to be achieved by 2030 and promotes the use of green hydrogen. The main target use case for hydrogen is decarbonisation of commercial transportation. A role for hydrogen in energy storage is also contemplated: in particular, power to gas, as well as usage in existing energy network infrastructure.
+
+The Italian Government has undertaken various initiatives to implement its hydrogen strategy, including a three-year system research programme for the electrical industry, international programme Mission Innovation and Hydrogen roundtable. The Hydrogen roundtable outlines a set of objectives for the development, transport, storage and reuse of hydrogen in Italy. The group has received 31 projects from operators and public authorities aimed at implementing the use of hydrogen in such sectors, of which nine are for transport use and twelve for storage and production. The final goal of the Hydrogen roundtable is to create, alongside the relevant stakeholders, a national alliance for the use of hydrogen in industry.
+
+There is no stated view within Government and no common view amongst leading Italian industrials as to whether green or blue hydrogen should be the focus of the hydrogen strategy. Certain major Italian operators active in the oil and gas sector wish to pursue their sustainability goals without generating losses from recent large investments in upstream and downstream gas infrastructure. Conversely, one of the major Italian power producers firmly supports the idea of a new way of producing hydrogen with low impact on the environment.
+
+Japan
+
+The Hydrogen Basic Strategy adopted by the Japanese Government in December 2017 considers the main the use cases for hydrogen as being (a) power generation, (b) mobility, (c) industrial processes, and (d) fuel cells. 
+
+Japan is scarce in natural resources and is heavily dependent on fossil fuels imported from overseas. Energy security and promotion of a low carbon society are therefore key goals of the Hydrogen Basic Strategy. Hydrogen is perceived as a promising future technology by the industry, but the higher costs for production and transportation than other energy sources is a major obstacle to the widespread use of hydrogen.
+
+“Mid and Long Term Policy for Ports and Harbours “Port 2030”” published by the Ministry of Land, Infrastructure, Transport and Tourism (“MLIT”) in June 2018 envisages that ports should function as a base for hydrogen-related activities which include import, production, consumption and storage. In conjunction with this initiative, hydrogen was highlighted in the first meeting of the public private council for offshore wind projects as one of the promising options for maximising the ports’ efficiency and potentials.
+
+The Netherlands
+
+On 28 June 2019, the National Climate Agreement (Klimaatakkoord) was concluded. The main purpose of this agreement is to reduce greenhouse gas emissions in the Netherlands by 49% compared to 1990 levels. Hydrogen is expected to play an important role in the decarbonisation of the Dutch economy.
+
+The Dutch Government has indicated that in the mid to long term, hydrogen can and must be able to carry out a number of critical functions within the energy and raw materials management system. In its Government Strategy on Hydrogen (Kabinetsvisie waterstof), the Dutch Government envisages that hydrogen will be an indispensable part of the sustainability strategy for industrial clusters and ports and the transport sector generally. Principal areas of focus include a carbon-free feedstock for the process industry and mobility, especially with regard to passenger transport for greater distances and heavy transport. Market participants are therefore preparing for a growing role for hydrogen, including through feasibility studies, the development of business cases and proposed investments.
+
+The Dutch Government views blue hydrogen as a transitional replacement for grey hydrogen in industry and in the expansion of hydrogen infrastructure capacity. The North Sea industrial hub offers the potential for the Netherlands to develop a blue hydrogen market which would stimulate economic growth and the labour market. Green hydrogen can be further developed to be produced at scale during this transitional period.
+
+Portugal
+
+The main “use cases” set out in the Portuguese Government’s National Strategy for Hydrogen (“EN-H2”) are the decarbonisation of the transport, industry and electricity sector. The Portuguese Government has declared that the main goal for the creation of a “hydrogen economy” is increasing the independence of the Portuguese energy sector by replacing imported fossil fuels with domestically produced green hydrogen.
+
+The EN-H2 is particularly focused on the production of green hydrogen over blue hydrogen given the low production costs of solar energy and the geographical location of the country (large coastal areas).
+
+Spain
+
+The “Hydrogen Roadmap: a commitment to renewable hydrogen”, approved by the Spanish Government in October 2020, considers that clean hydrogen shows great potential for use in industry (oil refining, fertilisers and chemicals, among others) in the short term.
+
+Moreover, the Roadmap states that other hydrogen end-uses should be encouraged in those areas where electrification is not the most efficient solution or technically feasible in the medium term, such as public transport, urban services or intermodal transport nodes such as ports, airports or logistics platforms.
+
+UK
+
+In June 2019, the UK Government committed to a target of achieving net zero greenhouse gas emissions by 2050. The overarching strategy for achieving this target is set out in the Clean Growth Strategy. The UK Government is set to announce a hydrogen strategy in 2021, having made recent announcements about its ambitions and published a report by Frontier Economics in August of 2020 which outlined a number of potential business models to support clean hydrogen production.
+
+The UK Government is due to consult further on the potential business models ahead of announcing its formal hydrogen strategy. Whilst the UK Government has indicated there could be a role for hydrogen within decarbonisation of heat, industry and transport, an overriding concern is that uses of hydrogen must be economically viable and competitive when compared to alternative solutions.
+
+Although the UK Government has not set out a preference for blue hydrogen or green hydrogen, it has stated that any development of hydrogen must be alongside the development of CCUS.
+
+Whilst, on the face of it, the key motivation for the UK Government is achieving its net zero target by 2050, economic growth and new industrial opportunity is also a clear driver.
+
+Chapter 3:
+
+Hy-ly Demanding? How to create supply and demand at the same time
+
+Public and private stakeholders are increasingly convinced by the arguments as to “why” clean hydrogen has the potential to resolve some of their most fundamental challenges.
+
+So now policymakers, often supported by the private sector, are turning their attention to the thorny “how” question. In particular, how to overcome the barriers to deployment we identified earlier in earlier chapters?
+
+As we have discussed, the right policy design will vary from country to country with the detail of what that country is trying to achieve and the domestic political context. The immediate thought may be to replicate incentives and mechanisms that have, on the whole, been very successful in driving earlier phases of the energy transition, most notably the shift from thermal to renewable electricity.
+
+However, although there is valuable experience to draw on, it is hard to escape the conclusion that previous regulatory incentives are unlikely to be easily transferable to a hydrogen context if the objective is successful deployment at scale.
+
+Hy-ly charged?
+
+The most obvious common feature across geographies is that, wherever it happens first, there is a cost barrier to be overcome, whether blue or green hydrogen, that will require some form of market intervention if it is to be resolved.
+
+In both cases, but perhaps much more significantly with green hydrogen, there is an expectation that costs of production will reduce with scale of deployment, but the initial (significant) investment will need to be funded. The actual shape of that cost curve, of course, remains uncertain.
+
+Whether this can be afforded and where in the economy it is best borne (taxpayers or consumers and, in each case, which ones?) is a key threshold question for post COVID governments. Whether there is any obvious constituency (other than taxpayers) that could or should bear the cost of funding incentives depends very much on the production technology, the end-use case(s) in question, the policy objectives of the project(s) to be supported and of course broader fiscal and political considerations.
+
+It is possible, for example, to envisage users of regulated transport (eg metropolitan buses, national rail networks) bearing the cost of clean hydrogen supply destined for use in bus or rail through increased fares.
+
+Equally, the cost associated with clean hydrogen supply could conceivably be socialised among all gas consumers where that hydrogen is blended with natural gas in distribution and/or transmission systems.
+
+Notwithstanding that industry is likely to be the prime user of early clean hydrogen volumes, it seems unlikely that, at least in the early stages of energy transition, industrial energy consumers will be expected to shoulder the full cost of switching to clean hydrogen by themselves. In many jurisdictions, one of the key drivers for clean hydrogen is to protect and regenerate industry; the need to maintain competitiveness in a global marketplace will limit both industry’s capacity and willingness to bear these costs and the appetite of policymakers to make them do so.
+
+Arguably this points to taxpayers bearing the burden of projects with an industrial end-use case, but whether there is the fiscal or political headroom to impose these costs on taxpayers is, of course, a country-by-country question. An alternative could be to socialise among gas consumers the incremental cost of clean hydrogen supplies to individual users (eg industrial consumers) where that supply is a direct substitute for natural gas supply, though as this would increase costs for other industrial consumers this could be a controversial way to proceed.
+
+Governments will also need to balance the potential benefits of being a global first-mover with the attractions of letting others fund the most expensive part of this curve. They are likely to want control over the amount of subsidy relative to progress on that curve and the target deadlines for decarbonisation: it may be acceptable to share some of the first mover costs with other countries, but not to bear it all alone.
+
+That level of control implies a rationing approach (whether on an individual project level or within an envelope). Initially this may take the form of an allocation but, in time, it may evolve towards an auctioning approach. Different forms of allocation may be appropriate for the different technologies, given likely scale and complexity. For example, to encourage rapid growth in green hydrogen pilot projects (if that is the objective), something more comparable to the eligibility approach for a feed-in tariff may be preferable to individual approvals for each project.
+
+There is also the added commercial and political complication that the value of clean hydrogen is in part a function of the carbon price. This price has of course been quite volatile but is not experienced by all potential use cases (for example, transportation and many industrial users do not experience the carbon cost of the counterfactual fuels directly). Change in the value of, or scope of, existing carbon pricing regimes therefore risks distorting any incentive, unless it is expressly contemplated in the regime design.
+
+Hy-est common denominator?
+
+The nature of the potential alternatives for hydrogen production has some important implications for the subsidy:
+
+>	the various clean hydrogen production technologies are at different stages of maturity, and are likely to evolve differently over time as a function of deployment rates;
+
+>	no one production technology may be able to satisfy all policy objectives, and it is not yet clear which may be cheapest in the long-term, so governments are likely to want a scheme that incentivises all options; and
+
+>	overlaps with other incentive and regulatory regimes (eg carbon pricing, carbon capture, utilisation and storage incentives, regulated gas and electricity transmission and distribution) may distort the costs to be supported through any clean hydrogen incentive regime differently for different technologies.
+
+To avoid over (or under) paying, this may point away from a generalised price signal for any market which wants to bring forward both forms of production.
+
+Any suitable policy and incentive framework will also need to recognise the absence of any current market demand for clean hydrogen. Many intended end use cases do not currently use hydrogen at all; the markets simply do not exist. Successful policies will therefore need to stimulate and enable synchronised development of supply-side and demand-side projects, with elements of incentive at both parts of the chain and indeed in respect of any enabling infrastructure.
+
+However, again, there is the challenge of right-sizing the incentive. Market interventions in relation to low carbon electricity, even those aimed at demand-side players, generally sought to drive investment in generation-related infrastructure rather than any change in demand side use case. Policies like carbon pricing and renewable energy certificates have worked to redirect purchasing decisions of utilities from brown to green power because all utilities were, broadly, in the same position, and therefore one incentive could be reliably expected to drive the same behaviours across the board. Even then, such incentives became increasingly complex as efforts were made to compensate between varying costs of production of different renewable technologies.
+
+It is therefore doubly complex with hydrogen, as not only are there (at least) two very different production costs (for green vs blue hydrogen) to contend with, but the downstream costs of creating a demand for hydrogen also vary considerably by use case. For any one, unified, end-user incentive to be effective across production types and use cases, it would either have to pay enough to support the needs of the most expensive desirable use case (and risk over-paying others) or be variable with both production type and use cases.
+
+This could be too complex, with the result that early business models brought forward may focus either on a particular pairing of scenarios (such as green hydrogen for industrial users) or on disaggregated upstream and downstream incentives: ie one that rewards the producer directly and others that provide any further top up incentives downstream on a sector-specific and targeted basis (such as tax breaks for purchasers of FCEVs).
+
+For example, one could argue that the German carbon CfD appears to work most effectively for downstream industrial users seeking to pursue integrated or captive electrolysers within their battery limits. This may be effective in bringing forward a number of projects in the short term but does not obviously facilitate the opening up of a wider market over the longer term.
+
+Taken together, this and the preceding point suggest that policymakers’ responsibility may extend to shaping the entire clean hydrogen value chain, at least initially, including identifying both the preferred (or preferred mix of) production technology and end-use case “winners”, and then selecting specific projects (or classes of project) to benefit from the limited available support.
+
+Hy-ly reliable?
+
+At least in the medium-term, the limited ability in most markets to transport and store pure hydrogen streams at scale means that it will be difficult to access replacement hydrogen supplies/customers if there is a supply or offtake interruption or failure. Some line-pack storage may be available, and further formal storage may evolve as networks develop but in the early stages there will likely be quite a high degree of interdependency and overall availability levels could easily become dependent on the lowest common denominator in the chain, creating cross-chain risks. In the case of blue hydrogen, there are further cross-chain risks that may arise from unavailability of carbon capture transport and storage and indeed similar issues will arise in respect of any third-party hydrogen transportation, storage and/or handling infrastructure.
+
+Accordingly, many early projects may inevitably need to be developed and supported on a “full-chain” or “virtual pipeline” basis such that any new incentive mechanisms will need to adequately address supply risk for end-users and demand risk for suppliers, on a real time basis.
+
+Buyers’ exposure to sellers
+
+The magnitude of these risks reduce, from the buyer’s perspective, in projects where the clean hydrogen is to be:
+
+>	blended with natural gas;
+
+>	a natural gas substitute where there is little or no operational cost to the end user of switching between hydrogen and natural gas; or
+
+>	a substitute or supplement for existing “grey” hydrogen supplies.
+
+In each of these cases, there may be little cost for the clean hydrogen user in switching back to the counterfactual energy source in circumstances where there is an interruption or cessation in clean hydrogen supply or where the clean hydrogen supplier seeks to exploit its market power over the user.
+
+Achieving these outcomes is a considerably more straightforward proposition for policymakers than also having to provide cost and revenue protection for the end user in circumstances where there is greater dependency on continuity of supply from the clean hydrogen supplier. That may imply that projects which meet these criteria are likely to be attractive to policymakers in the first stages of market evolution.
+
+Sellers’ exposure to buyers
+
+It may be possible to target users with a low disruption cost to mitigate cross chain risks downstream, but that does not mean it works in reverse. There may still be a need to provide offtake protection to clean producers where they are in separate ownership from the end user.
+
+In analogue markets where the market has not looked to government to absorb or manage cross-chain risks,19 private sector participants have traditionally relied upon long-term contracts to allocate and mitigate risks resulting from major interdependencies between projects. These markets have evolved gradually and only where participants were confident of their ability to manage the risks in those contracts and had the credit and long-term market presence to underpin them. In the short term, many potential market participants in the clean hydrogen value chain (including potential industrial and transportation sector users) may simply be unwilling or unable to enter into or support such long-term commitments. Negotiation of those contracts is time-consuming and expensive and may overwhelm the economics of smaller projects. There is no immediate prospect of markets becoming sufficiently liquid for short term or spot contracts to provide any form of mitigation that would support material investment or third-party financing.
+
+Accordingly, if governments want to stimulate development in this sector beyond selected projects for which long-term contracting models are suitable, they are likely to need to go beyond incentives that focus only on cost differentials on a fully loaded/must run basis, and consider, at least in the early stages of the market, compensation for outages that result from downstream events (both in terms of loss of revenue and in terms of upstream costs of diverting gas or renewable power that would have been used to create the hydrogen).
+
+Hy and dry?
+
+In fact, it seems likely that to develop beyond early projects to any kind of scale, policymakers are likely to have to think beyond mere outages to more fundamental failures in supply or demand that go beyond the well understood incentives that have been deployed to support renewables.
+
+Most countries will want to develop mechanisms that facilitate (or, at least, do not impede) a suitable transition from pathfinder projects to a wider rollout. While it may be possible to find pathfinder projects that have relatively little downstream risk, there are limits on the extent to which hydrogen can be directly substituted for natural gas. For renewables to thrive, it was enough for the regulatory support (in most countries) to mandate priority despatch for renewable assets (either directly or economically) to ensure access to a market for electricity. By contrast, and depending on the specifics of the project in question, stranding risk can be a very real concern for participants up and down the clean hydrogen value chain.
+
+As a result, and despite the obvious parallels and overlaps between renewable electricity and clean hydrogen, what worked to increase renewables’ share of electricity generation is unlikely to be sufficient, at least initially, to unlock significant greenfield investment in clean hydrogen. Rather, some form of regulatory support that offers volume protection and, in extremis, a palatable exit for private capital if downstream markets never materialise, may be required in order to transition from pilot projects to wider market penetration. There are many potential sources of inspiration for this (from concession-type projects or projects in geographies that have no functioning power market, for example). However, in all cases, this goes beyond the level of support that seems to be currently being contemplated.
+
+It is reasonable to assume that the need for support of this kind may fall away before the need for price support does and therefore that some form of regulatory structure which allows this element to be withdrawn over time may be desirable.
+
+A lot of the debate to date has focussed on the provision of some form of carbon-price based subsidy,20 targeted at end users, that smooths out the price signal and thus supports specifically green hydrogen. This type of instrument is contemplated, for example in the EU’s recently announced hydrogen strategy. This may be effective for some types of project: specifically, for decarbonising industrial users that are interested in deploying green hydrogen themselves, or in providing the person supplying them with a sufficiently long-term commitment to support the investment. However, for the reasons given above, we think there are serious questions as to whether this alone would be adequate to bring forward a hydrogen economy. It does not obviously work well for larger blue hydrogen (indeed this may be excluded), or address either the interruption or potential stranding risks of a nascent market which are entirely different from those that have been addressed in previous market change initiatives. As such, the scale of commitments which this is able to support may be limited.
+
+In the absence of governmental cross-chain risk mitigation, some sponsors may proceed with an integrated project model, bringing hydrogen production, transport and usage within the battery limits of a single project. However, not all sponsors will have the financial or technical capacity, or indeed the risk appetite, to go down this route. The net result may be that fewer projects are deployed, more slowly, and that production and transportation capacity is predominantly in the hands of sponsors that intend to utilise that capacity (thus inhibiting the development of a liquid commodity market for clean hydrogen). Barriers to entry can be an opportunity, of course, for those who are able to overcome them, but if they are too high, sponsors may also simply elect to deploy their capital in jurisdictions where the barriers to entry are lower.
+
+In other words, governments may keep cash in their pockets by relying on the private sector to solve all cross-chain risks, but this may leave taxpayers short-changed when it comes to achieving policy objectives.
+
+Chapter 4:
+
+Hy-Achieving – creating a suitable incentive regime
+
+In earlier chapters we have seen that to identify a framework or business model for clean hydrogen, policymakers need to have a clear sense of where they are trying to get to. They need to have a hydrogen strategy.
+
+We have also seen that they will need an incentive regime and that a successful business model may need to include a direct subsidy for hydrogen production (rather than a downstream incentive) given:
+
+>	the need to right-size support for specific technologies, and, in the early stages, even specific projects, that meet policy objectives; and
+
+>	the need to address legitimate concerns of investors and funders, being not just price but also the mitigation of cross-chain availability and stranding risks and the credit of downstream participants.
+
+In this chapter we consider a structure that could be deployed in mature energy markets to achieve this and the challenges policymakers will need to contend with.
+
+Strong supply-side foundations
+
+Supply-side green incentives to date tend to take a contractual (or quasi-contractual statutory) form, such as feed-in tariffs and the contracts for difference/premium mechanisms. These instruments have been refined over the years to accommodate desirable features such as the ability to provide differentiated levels of support to the various potential technologies vying for support (including, potentially, by only making support available to specified favoured technologies). Early versions of these incentives tended to mandate a buyer; more recently, subsidised projects are increasingly left to secure their own route-to-market (given market liquidity), with the focus being on pure price support.
+
+Incentivising the deployment of clean hydrogen at scale will involve more complex governmental interventions as there does not appear to be any segment of the economy which could plausibly be obliged to take the hydrogen (without significant disruption). Any incentive may therefore need to contain a “take or pay”, floor payment or availability concept within it which responds even when there is no demand, while governments simultaneously seek to stimulate downstream demand in order to ensure that the risk of the producer actually receiving payments while not producing is kept to a minimum.
+
+One familiar model for power plant procurement in many countries with a state counterpart involves:
+
+>	an availability-based payment, to cover producers’ unavoidable fixed costs (capital cost recovery and fixed opex);
+
+>	a production-based payment, to cover producers’ variable costs of production; and
+
+>	usually, some capital protection in the case of a total stranding event.
+
+This could easily be adapted to support hydrogen production and should be investable (and bankable).
+
+However, translated literally, it would imply a state hydrogen buyer which may be seen to be inconsistent with an exit to a fully private hydrogen market in future. A more sophisticated version would therefore allow for private sector hydrogen sales but offset the variable hydrogen revenues (if any) against the obligation to pay the availability and production payments, so that the subsidy is only the difference.
+
+This appears quite a promising start but does raise several thorny subsidiary questions.
+
+A Hy-pricing dilemma
+
+The first question this model confronts is what it might mean for the price at which hydrogen would be sold. In the context of clean hydrogen, there will only very rarely be a true proximate hydrogen “market” to speak of over the medium term. The price that the user is able and willing to pay for the clean hydrogen will depend on the intended use case, as well as circumstances particular to the relevant user. For example, an industrial user switching from natural gas may be much more willing and able to pay an amount linked to the market price for natural gas than a transportation services provider would be. Early suppliers of hydrogen may also be able to take advantage of scarcity to exercise market power and push up the price. In each case, there is a risk that if the hydrogen price rises too high, it will make the job of stimulating demand too hard or costly, and if the price is too low the subsidy that will be paid to producers becomes too great (and end users may get a windfall).
+
+From a policymaker perspective, linking support to identified price indices is therefore unlikely to lead to a completely neutral outcome for the potential end-use cases but may allow for clean hydrogen to be “nudged” towards a particular end-use case that best fits the policy objectives (eg decarbonisation of particularly carbon-intensive parts of industry): but without explicit linkage this cannot be assured and may have unintended consequences.
+
+This suggests that to make a business model along these lines work, it would need to include some level of control over the hydrogen price, either by way of direct regulation (although thought would be needed as to how to exit this towards a floating price) or by way of a “target price” mechanism supported by economic incentives (although care would be needed to ensure that this did not undermine entirely the demand protection). If price regulation is adopted, is the price the same for all end-users (or would it vary with intended use?). Our assumption would be that the regulated price would need to be consistent across both blue and green hydrogen: it is noted in this context that this could therefore give rise to negative production payments for green hydrogen in periods where power prices are low or negative.
+
+The picture is further complicated by the embedded “avoided carbon” value in the hydrogen supply. Should this sit on top of any target/regulated price (so that the market dynamics of the carbon market are reflected in the transfer price) or should the target/regulation apply to the bundle?
+
+To produce… or not to produce?
+
+In a fully demand protected model, there is no immediate incentive on the plant to produce (even if there is someone to buy). In the absence of a state hydrogen offtaker dictating when the plant should run, who does control production?
+
+It is possible, of course, to simply mandate that the plants must run if there is a buyer, but there is an evidential issue there, as well as the challenge of establishing loss. It seems likely therefore that any such model would need to engage with a production incentive and/or share of sales that both drives production and provides a liquidated penalty for failing to do so. This could be combined into a single construct under a target pricing model.
+
+Cost discovery and eligibility
+
+Another question relates to determining how the availability and production payments should be sized. There may well be a case for a different approach for blue and green hydrogen. Blue hydrogen plants are likely to be relatively limited in number, and relatively large, so there may be a case for a plant-specific approach, directly allocated but perhaps moving to auctioning over time. Any such allocation would need to be broadly synchronised with investment in (and support for) the carbon capture technology.
+
+The approach for green hydrogen is less clear-cut. In the very early stages, an allocation approach (like for grant funding) may make sense, but the indications are that there may be market appetite for significant numbers of small or pilot projects and this could quickly become administratively burdensome for all parties. The parallels with the early stages of renewable deployment are potentially quite strong here and there may be a case for a feed in tariff type approach where the availability and production payments are standardised, published (perhaps with a declining profile over a few years to stimulate investment) and available to all eligible projects.
+
+As the assumption in this business model is that the project does not take demand risk, any applicant would presumably need to demonstrate that it had one or more credible offtakers, so that the demand protection is only a fall back: it would be up to governments or regulators to determine what the evidential burden here would be.
+
+Exit (and grandfathering)
+
+Implicit in the notion of stranding protection is some kind of investor compensation if the plant is truly stranded and surviving on availability payments over a prolonged period. There are many precedents for this kind of thing and a common question is whether such compensation would be by way of purchase of the stranded plant. To the extent electrolysers are easily portable and can be resold, there may be a material distinction between the approach for blue and for green hydrogen.
+
+A key consideration will also be how long the subsidy structure is put in place for and how residual asset life is treated: will investors be able to make any assumptions and ascribe any value to the post subsidy period?
+
+From a policymaker’s perspective, there will also be a concern about baking-in demand protection for too long if it is not required. Experiences in a few countries have shown that investors can be particularly unforgiving if this is done to projects which have already been granted a subsidy, rather than for subsequent generations of projects. Any government seeking to stimulate investment in green hydrogen might therefore want to give serious consideration to making a commitment to grandfathering early on (as has been done for renewables in the past).
+
+Political conditions and State aid considerations
+
+In addition to policy reasons to focus support towards specific end-use cases, there may be political pressure to expressly or implicitly link any financial support to the achievement of other policy objectives such as investment in local and regional supply chains and jobs, the development of industry “champions” to retain skills and potentially generate valuable export revenues.
+
+Whether funding is expressly (by law or bidding conditions) dependent on local or regional content will, of course, depend on any applicable State aid constraints, but project sponsors and developers will, nonetheless, wish to be highly attuned to local political realities.
+
+It is also true that, in considering whether or not support mechanisms are compatible with State aid rules, the European Commission is typically more comfortable with green energy incentives that address market failure through price support than it is with capacity payments and similar mechanisms. However, as we described above, hydrogen presents both special opportunities and special challenges that may merit a more flexible approach.
+
+That said, while hydrogen is a clear focus for the European Commission, there is a delicate balance to be struck between supporting hydrogen as part of the energy transition and the risk of crowding-out private investments. State aid is generally aimed at investments and projects which would otherwise be unprofitable or too risky for the private sector to undertake on its own. We therefore expect the Commission to seek evidence of investment being co-ordinated along the hydrogen value chain prior to giving approval to any public support.
+
+In the short term, a significant number of projects are targeting IPCEI22 designation in order to benefit from the flexibility afforded as a result of that designation, but we await with interest the European Commission’s revised State aid framework including updated guidelines for energy and environmental protection, due to be published in late 2021. The Commission deems this a key opportunity to advance the EU’s Green Deal, and we expect the revised guidelines to cover hydrogen incentivisation as part of that.
+
+Topped up with demand-side support
+
+Even with a strong supply side incentive, we believe some demand-side support will still be necessary in order to generate the appropriate market response and achieve policymakers’ objectives.
+
+This is because – even where supply-side incentives result in the resulting clean hydrogen being available at the same price as the end-user’s alternative energy source – many users will still need to consider:
+
+>	funding for up-front capital costs associated with switching from current energy source(s) to clean hydrogen; and
+
+>	to the extent not adequately covered by long term contracts with the supplier, the costs associated with supplier failure. These costs will be particular to the end use in question (and the supply) but could include the costs of switching to an alternative energy source where that is feasible, or the recoupment of costs of stranded assets where energy source switching is not feasible.
+
+With respect to the first of these at least, the particular vehicle for government support will vary by end use: for regulated gas networks it could be by way of an adjustment through the applicable regulated returns mechanism, for industrial users by way of grants and for the transport sector tax breaks and sales incentives (as there have been for early adopters of battery electric vehicles) could be part of the solution. Once committed to taking the demand risk upstream, government will of course need to do enough to ensure the demand materialises, but competing end-use sectors will also not want to price themselves out of the funding (and have other incentives to go green) so there is scope for a balanced conversation.
+
+What are governments currently proposing?
+
+Australia
+
+The federal government has recently concluded the consultation phase of its proposal to establish a hydrogen certification scheme. This scheme would implement a standardised process of tracing and certifying where and how hydrogen is made and associated environmental impacts.
+
+Currently, the main method of incentivising the use case is government funded financial support provided directly to project developers. Accordingly, it is the taxpayer who pays for the chosen method of incentivising the use case. Whether this is the incentive model that continues to prevail as hydrogen gains traction and becomes more established in Australia remains to be seen.
+
+Belgium
+
+The different Belgian governments have yet to make the necessary policy decisions on the mechanisms to incentivise clean hydrogen. A key question in the Belgian context is
+the treatment of hydrogen transportation networks. There is emerging enthusiasm among industry players for a regulated asset base model, pursuant to which the regulated network operators are tasked with adapting their existing network and/or developing a new (dedicated) network, which will guarantee market participants open access to the (existing and future) infrastructure for the benefit of their own core businesses. If this route is taken, ultimately (both natural gas and hydrogen) consumers will bear the costs through transport and distribution tariffs.
+
+For the energy sector, it seems likely that there will be considerable support for measures to promote the development of combined heat and power (cogeneration) applications. These can be incentivised through demand-side mechanisms, such as the already existing CHP certificates scheme in Flanders, as well as supply-side mechanisms, such as the planned capacity remuneration mechanism in Belgium, which takes the form of a reliability-options scheme (comparable to contracts for difference) and is intended to be technology neutral.
+
+The European Union
+
+The European Commission’s hydrogen strategy recognises that a supportive policy framework is needed to stimulate in parallel the production, supply, demand and associated infrastructure for hydrogen; in other words, a “full value chain approach”.
+
+The hydrogen strategy gives little detail on the support schemes which may be made available, but suggests that such schemes could include:
+
+>	Minimum shares or quotas of renewable hydrogen in specific end-use sectors (eg certain industries, such as the chemical sector or transportation). This would allow demand to be stimulated in a targeted way.
+
+>	Amendments or expansion of the EU Emissions Trading Scheme (“ETS”) to incentivise hydrogen production and use as well as a common low carbon threshold or standard for the promotion of hydrogen production installations based on their full life-cycle greenhouse gas performance which could be defined relative to the existing ETS benchmark.
+
+>	Other direct support schemes, such as a carbon contracts for difference (“CCfD”), which would pay an investor the difference between the CO2 strike price and the actual CO2 price in the ETS. The current ETS price is approximately €25 per tonne of CO2 and the strategy notes that a carbon price of €55-90 per tonne would be needed to make blue hydrogen competitive with grey hydrogen today. Such CCfDs or other direct support could be made available through a competitive tendering process. The details of such a regime are not provided in the Commission’s strategy. It is also unclear how a CCfD regime would work alongside the ETS regime and whether industries that currently benefit from free ETS allowances would also be eligible for a CCfD. The overall cost of providing support for a CCfD is also not indicated in the strategy. However, it is envisaged that a CCfD regime could provide price support for the early deployment of blue hydrogen, until the costs of green hydrogen fall, or carbon prices become sufficiently high so as to make other carbon-emitting fuels uneconomic. What is less clear is whether CCfD could or would enable non-price support (for example, in order to help mitigate cross-chain risks).
+
+In its hydrogen strategy, the Commission also underlines it will support investments in hydrogen, through the European Clean Hydrogen Alliance, the Next Generation EU recovery plan but also via the European Regional Development Fund, the Cohesion Fund and the Just Transition Mechanism.
+
+France
+
+Hydrogen is an R&D priority in France’s 2018 multiannual energy programme (programmation pluriannuelle de l’énergie or “PPE”), the country’s energy roadmap for the coming decade. Measures for promoting hydrogen in the PPE include direct government funding for pilot projects and the mobilisation of public and private finance and standardised co-financing models for projects.
+
+The French hydrogen strategy has been allocated €7.2 billion for the period up to 2030, including €2 billion up to 2020. The Government intends to encourage the development of a clean hydrogen sector through financial support for individual projects and investment in research and development. The French State, through various channels, has already or is in the process of launching several calls for projects to achieve these objectives.
+
+The French State is working on draft legislation covering decarbonised hydrogen. This new legislation should, in time, complete the French Energy Code with a chapter dedicated to hydrogen. It should, inter alia, (a) define hydrogen types according to their mode of production, (b) organise a mechanism of guarantees of traceability or origin to attest to the type of hydrogen produced (similar to the guarantees of origin mechanism for renewable energy) and (c) provide for a State support mechanism, similar to feed-in tariff schemes for some renewable energy projects, for the production of green hydrogen.
+
+Germany
+
+Germany’s National Hydrogen Strategy contemplates considerable financial support for the rollout of a hydrogen economy over the next few years. The market rollout and the foundations for a functioning domestic market for hydrogen are to be achieved by the following:
+
+>	Measures to incentivise the production of clean hydrogen, such as exemptions from taxes for electricity required to produce green hydrogen and the support of green hydrogen through tendering models.
+
+>	Measures to incentivise the consumption of clean hydrogen, such as imposing more stringent low carbon quotas on the transport sector and investment support programmes for industry for the conversion to green hydrogen.
+
+>	A Carbon Contracts for Difference (“CfD”) (including state support in the amount of the cost difference between; (a) the actual cost of avoiding emissions by using decarbonisation technologies, expressed as a contractually agreed CO2 price per avoided amount of greenhouse gas emissions and (b) prices according to the emissions trading system) for industrial users of green hydrogen.
+
+The Government considers that, in principle, hydrogen and the electricity required for hydrogen production should be financed by the sector that consumes the hydrogen. The economic viability of hydrogen can, however, be improved by support measures.
+
+Italy
+
+The Italian Government has not adopted a dedicated hydrogen development strategy plan. However, hydrogen plays a key role in the Integrated National Plan for Energy and Climate approved in December 2019, in order to reach the targets of energy efficiency and reduction of CO2 emissions to be achieved by 2030. Hydrogen is considered essential to contribute to decarbonisation of the commercial transportation and a fundamental element for power storage and production (particularly power to gas). Italy also joined the Renewable and Clean Hydrogen Innovation Challenge within the “Mission Innovation” project, a global initiative of 24 countries and the European Union, aimed to increase private and public investments in clean energy and international collaboration to accelerate global clean energy innovation and the development of a global hydrogen market. The members of
+“Mission Innovation” have committed to seek to double public investment in clean energy R&D and are engaging with the private sector.
+
+In December 2019 a parliamentary proposal was put forward to incentivise the use of hydrogen in Italy. The proposal seeks to foster the production of green hydrogen. In order to do so, some incentives have been recognised, such as:
+
+>	investments in demonstration projects amounting to €10bn;
+
+>	the introduction of a carbon tax (€56 per each ton of CO2 emission in 2020 and €100 per ton emissions in 2030);
+
+>	exemption from taxes and charges for the system and distribution of hydrogen production plants; and
+
+>	incentives for the progressive replacement of combustion vehicles with electric vehicles.
+
+The proposal is currently pending in Parliament.
+
+Japan
+
+In Japan, funding and financing support for clean hydrogen projects are available from key government organisations and it is anticipated that financing support from Japan Bank for International Cooperation (“JBIC”), Nippon Export and Investment Insurance (“NEXI”) as well as JOGMEC would be available to support commercial scale hydrogen projects where the projects have significant Japanese participation, including as sponsors, contractors or off-takers.
+
+In addition to the initiatives taken by the governmental organisations, financial support has been made available by the Japanese Government to the consumers to incentivise the purchase of fuel cell vehicles.
+
+The Netherlands
+
+A substantial hydrogen programme for the Netherlands is to be initiated under the Dutch Climate Agreement. The programme will chiefly focus on unlocking the supply of green hydrogen, the development of the necessary infrastructure and the facilitation of initiatives and projects. The programme does not focus on the development of demand for hydrogen directly – that responsibility is more closely related to the various proposals being developed by the relevant sectors, in particular (a) built environment, (b) mobility, (c) industry and (d) electricity.
+
+The Netherlands has a renewable energy subsidy regime known as the SDE+ (the “Renewable Energy Production Incentive Regime”). This regime has been replaced by the Stimulation of Sustainable Energy Transition (the “SDE++”) scheme which broadens the SDE+ regime to ensure that, in addition to renewable energy, other CO2 reduction technologies will also become eligible for subsidies. The Government has indicated that it proposes to include clean hydrogen in the SDE++ scheme. However, following discussions with the European Commission in respect of compatibility of the SDE++ scheme with applicable State aid rules, the Dutch Minister for Economic Affairs and Climate Policy has had to reconsider the proposed framework to incentivise clean hydrogen by means of the SDE++ scheme. At the time of publication, these considerations remain ongoing.
+
+As of 2021, the Dutch Government will also be introducing a minimum carbon price for the production of electricity in order to provide a further incentive to reduce CO2 emissions resulting from electricity generation.
+
+Portugal
+
+In the EN-H2, the Portuguese Government has focussed on public and private European and National financing sources as the route to incentivising clean hydrogen. The EN-H2 also highlights other support mechanisms that will promote the development of a hydrogen economy and which may be implemented in the future, including exemptions for hydrogen producers from grid use tariffs, subsidies for hydrogen producers for the “overcost” of producing hydrogen and guarantees of origin.
+
+Some of these support mechanisms have already received formal policy endorsement, including the amendment of the guarantees of origin legal framework to include “low carbon gases and for gases of renewable origin” which would include clean hydrogen.
+
+Spain
+
+The Spanish Hydrogen Roadmap sets out a strategy to boost hydrogen in Spain through a new regulatory framework for clean hydrogen including financial measures to support the use of clean hydrogen in Spanish industry (eg specific loans related to hydrogen production projects). However, the details of this regulatory framework have not yet been specified. The Hydrogen Roadmap also seeks to promote hydrogen-based transport and the creation of “hydrogen clusters”. Other than the MOVES II Plan (which provides incentives to buy electric/hydrogen cars) these measures have not yet been formally approved.
+
+Further funds from the European Union are expected to be received for clean hydrogen projects and will be used as a key lever to ensure a level playing field at the EU level, and the Roadmap contemplates that tax incentives will be approved to incentivise clean hydrogen.
+
+UK
+
+Though heavily anticipated, the UK does not yet have a formal hydrogen strategy but is working to develop sustainable business models to support a range of hydrogen production methods and drive investment through:
+
+>	Exploring the role hydrogen could play as part of a hydrogen chapter in the CCUS business models consultation.
+
+>	Conducting extensive engagement on business model design, including through the launch of hydrogen expert groups.
+
+Alongside its work on potential business models, the UK Government is investing in clean hydrogen innovation through pilot projects.
+
+Chapter 5:
+
+Hy-ly Volatile? Making it safe, sustainable and transportable
+
+In previous chapters, we have considered the framework or business models that governments may implement in order to develop a clean hydrogen market and incentivise production at scale. However, it is essential that, in tandem with the development of broad policies to incentivise the use cases, governments implement the regulatory changes which are needed to enable and realise these use cases.
+
+Perhaps reflecting its typical use cases to date, hydrogen has historically been regulated as a chemical – with a consequent focus on health and safety considerations – and not as a mainstream energy vector, To enable wider deployment, hydrogen’s role as an energy carrier needs to be recognised through appropriate regulation that facilitates not just pilot projects but also hydrogen’s transition to a “third way” energy carrier alongside electricity and gas. This will require significant regulatory change in most jurisdictions.
+
+In this chapter we will consider the extent to which the regulatory regimes in selected countries are ready for the hydrogen use cases identified in earlier chapters.
+
+Australia
+
+The current regulatory landscape does not explicitly accommodate the creation of a hydrogen market in Australia. While some existing legislative frameworks are likely to apply to the hydrogen industry, it is probable that further regulatory reform will be required to specifically target the needs of large-scale hydrogen production.
+
+A report commissioned by the Department of Industry, Innovation and Science identified 730 pieces of legislation and regulations, and a further 119 standards, that may be relevant to the development of an Australian hydrogen industry. These pieces of legislation principally relate to aspects addressing the safety, development and upscaling, environmental impacts and infrastructure needs (including transport and pipelines) of the hydrogen industry. A separate review would need to be undertaken to consider whether changes would be required to address hydrogen production, transport to market, use as fuel, use in gas networks, safety, project approvals, environmental protection and economic effects on industry.
+
+A further regulatory challenge facing the hydrogen industry is the inconsistent application of different policies and priorities across the states. In order to achieve relative uniformity among jurisdictions, the various state and territory governments have committed to developing a nationally consistent approach to regulatory models applicable to the hydrogen industry. To this end, the Australian Government will drive the national regulatory reform by applying a “smart, consistent, light-touch” approach. Further, several state and territory governments have established cross-government agency working groups to develop competency in, and awareness of, hydrogen across government, including identifying and addressing regulatory gaps and providing advice on compliance with existing requirements.
+
+Belgium
+
+The regulatory context in Belgium is layered given its federalist structure. The transport of gaseous products (including the construction and operation of pipelines) falls under federal competence, while the construction, production and/or operation of hydrogen facilities (ranging from building hydrogen refuelling stations to the production of green hydrogen) are a regional competence and requirements therefore differ between the three Belgian regions. As a consequence, different public authorities and government entities, regulators and regulated operators have a role to play, applying different rule sets. This, of course, creates a high risk of gaps and inconsistencies in both policymaking and its application around hydrogen.
+
+Following the European Directive 2014/94/EU, Belgium has set up a National Policy Framework “Alternative fuels infrastructure” in which the policies and ambitions of the different government levels are brought together. That said, progress towards a uniform and clear regulatory framework throughout Belgium relating to alternative fuels, including hydrogen, remains slow and complex.
+
+The changes required to the regulated framework to further the hydrogen use case in Belgium can be summarised as follows:
+
+>	the development of additional legislation in relation to the use of natural gas pipelines for the transport (and possibly distribution) of hydrogen (H2 blending). This should include defining clear H2 blending limits and appropriate technical (ie measuring and detection), safety and quality requirements (as the case may be, in the form of a separate grid code for mixed networks);
+
+>	the development of a proper regulatory framework and role division for the development of dedicated hydrogen networks, taking into account EU law developments;
+
+>	the development of specific rules for the type or design approval of hydrogen fuel cells vessels for the use of hydrogen in the maritime and inland navigation sectors; and
+
+>	the development of a tailored set of rules and guidance on health and safety in relation to hydrogen.
+
+The European Union
+
+The EU Hydrogen Strategy acknowledges that regulatory reform will need to be implemented to encourage the development of a hydrogen market across the whole value chain.
+Currently, one of the main pieces of EU legislation relevant to clean hydrogen is the recast Renewable Energy Directive which requires Guarantees of Origin schemes (providing proof of “clean” production which can be traded separately from the physical commodity to which they relate) to be established by member states by 2021 for renewable gases, including green hydrogen.
+
+However, as acknowledged by the Hydrogen Strategy, common low-carbon thresholds or standards for the promotion of hydrogen production installation based on their greenhouse gas performance remain to be developed. The Commission also notes that comprehensive terminology and EU-wide criteria for certification of green and blue hydrogen will be required. The private CertifHy scheme has sought to create a Guarantees of Origin scheme that is capable of running on an EU-wide basis, with a view to – as CertifHy itself puts it – avoiding “bottom-up developments of inconsistent national GO schemes that can hamper establishing an effective European market for Green and Low-carbon Hydrogen (as is currently the case for biomethane/biogas)”.
+
+The Hydrogen Strategy also refers to the need for regulatory and financial support for networks that would benefit clean hydrogen. This may include a revision of the Trans-European Networks for Energy Regulation, which provides a framework for the selection of electricity, gas and CO2 infrastructure projects of common interest (“PCIs”) that can benefit from financial support through public funds, a review of the internal gas market legislation for competitive decarbonised gas markets and of the Alternative Fuels Infrastructure Directive.
+
+The Hydrogen Strategy suggests that, for early phase projects, existing rules for closed distribution systems or direct lines may be relevant – in other words, some of the regulatory requirements on unbundling (which would restrict investors in hydrogen projects participating in multiple parts of the value chain) and third party access, could be disapplied to allow initial projects to be developed. However, the strategy does acknowledge that third party access rules will need to be developed in time to ensure hydrogen infrastructure is accessible on a non-discriminatory basis (though it does not explore whether or how developers can be incentivised to develop projects that design-in redundant capacity so as to avoid future inefficiencies from unnecessary duplication of infrastructure). The Hydrogen Strategy does not address the longer-term view on the application of unbundling rules to hydrogen projects.
+
+The Commission notes that a regulatory framework for a liquid hydrogen market will be needed. This includes the possibility of blending hydrogen into the existing gas network, though the Hydrogen Strategy notes that blending is less efficient and diminishes the value of hydrogen. This will therefore require some controls on the technical requirements and gas quality standards to ensure that different Member States do not accept different levels of blending, thereby hindering cross-border flows. A review of the internal gas market legislation for competitive decarbonised gas markets will be needed, to ensure interoperability of markets for pure hydrogen, common quality standards or cross-border operational rules. However, there is currently little clarity on what this may entail.
+
+France
+
+On 8 November 2019, France adopted a law on energy and climate which contains several provisions relating to hydrogen. This law provides that the French Government is empowered to take by ordinance, until 9 November 2020, any measure falling within the scope of this new law in order:
+
+>	to define the terminology of the different types of hydrogen according to the energy source used for its production;
+
+>	to allow the production, transport, storage and traceability of hydrogen; and
+
+>	to define a support framework applicable to hydrogen produced from renewable energy or by electrolysis of water using low carbon electricity.
+
+In addition, this new law provides for a system of guarantees of origin for hydrogen produced from renewable sources, the specifics of which are to be set out in an upcoming decree (for which no timeline has been provided yet).
+
+Hydrogen refuelling points qualify as classified facilities for the protection of the environment, which results in a specific regulatory treatment for these facilities.
+
+Germany
+
+There is no consistent regulatory regime applicable to clean hydrogen in Germany currently. In 2020, the German Federal Network Agency (Bundesnetzagentur – “BnetzA”) adopted an assessment (Bestandsaufnahme) of current regulatory conditions for hydrogen infrastructure and potential future changes (“BnetzA Assessment”). BnetzA has not yet come to a final conclusion on what regulatory measures will be required to adequately cover hydrogen and to ensure non-discriminatory behaviour in any future dedicated hydrogen networks but anticipates the following key measures:
+
+>	Hydrogen should be covered by a specific hydrogen law;
+
+>	there should be privileged network access for green and possibly blue hydrogen;
+
+>	BnetzA is considering the regulation of hydrogen network fees in order to prevent monopoly returns for network operators;
+
+>	BnetzA also briefly discusses a hydrogen-specific unbundling regime that would ensure the implementation of possible network access and network fee regulation; and
+
+>	there may need to be a separate hydrogen balancing system, or even multiple balancing systems to account for different hydrogen production methods.
+
+Italy
+
+Currently Italy has not adopted comprehensive and harmonised legislation regulating the production, transport and use of hydrogen. In essence, hydrogen is still considered from a regulatory perspective as an industrial gas.
+
+Injection of hydrogen into the gas grid is not generally permitted in Italy, though there is a specific pilot project currently underway to explore this possibility.
+
+Until recently, hydrogen production and handling for transportation purposes was regulated primarily by the Ministerial Decree of 31 August 2006, which posed extremely stringent safety measures on any plants for the storage of hydrogen. These measures were relaxed somewhat by a Ministerial Decree of 23 October 2018, which lowered the significant barriers to hydrogen transportation infrastructure deployment raised by the earlier Decree.
+
+The installation of hydrogen fuel cells and refuelling stations is now experiencing significant growth, aided by the implementation of Legislative Decree no. 257/2016 which resulted in a significant simplification of the relevant authorisation procedures for refuelling stations and, ultimately, enabled vehicles using hydrogen fuel cells to be registered and sold into the Italian market.
+
+Japan
+
+Liquefied or high-pressured hydrogen is regulated in a similar manner as LNG under the High Pressure Gas Safety Act and other regulations. General health and safety regulations under the Industrial Safety and Health Act apply to the industrial use of hydrogen.
+
+The Japanese Government has been working on deregulating the hydrogen supply chain with a focus on the FCV industry, and there have been a number of improvements in the relevant statutes. The recent progress includes development of regulations on the unmanned hydrogen charging stations and hydrogen-fuelled drones.
+
+Distribution through existing gas pipelines is available in limited volumes. There are a limited number of short-distance inter-site pipelines that are dedicated to transportation of hydrogen.
+
+The Netherlands
+
+Currently, there is no specific regulatory regime applicable to hydrogen in the Netherlands. Not surprisingly, the Dutch Government has designated the development of a legal and regulatory framework for hydrogen as one of the four pillars of the policy agenda for hydrogen.
+
+The hydrogen policy agenda includes the following items that will be further considered in light of the development of the legal and regulatory framework:
+
+>	use of part of the existing Dutch gas grid can be used for the transport and distribution of hydrogen;
+
+>	a further examination of the regulation of the future hydrogen market, including the operation of a potential future transport network;
+
+>	a reliable system of Guarantees of Origin and certification; and
+
+>	further research and monitoring to better understand the scope and effective control of risks involved in hydrogen applications.
+
+The Dutch Government considers it crucial that the relevant laws and regulations are to be implemented as soon as possible in order to be able to successfully kick start a hydrogen economy.
+
+Portugal
+
+The existing Portuguese legislation and energy sector-related regulation (issued by the energy sector national regulator Entidade Reguladora dos Serviços Energéticos) has been recently amended to include possible injection of hydrogen in the natural gas distribution grid (Decree-Law 62/2020, dated 28 August).
+
+This legislative development will represent a further development in the main goal of achieving a carbon neutral economy by 2050.
+
+Spain
+
+Hydrogen production is regulated as an industrial activity, and is not otherwise specifically regulated in Spain. Specific permits are required before building and operating facilities for the production, storage and transportation of manufactured fuel gases (ranging from sectorial licenses, to planning, environmental and other permitting requirements).
+
+The Spanish Government has identified the need for regulatory changes to allow the expected development of clean hydrogen in the coming years. These changes are aimed at simplifying permitting processes and include changes in planning regulations, the creation of a system of guarantees of origin and instruments to allow the blending of hydrogen into the existing natural gas network.
+
+UK
+
+The production, transport and use of hydrogen currently attracts regulatory treatment as a hazardous material in the UK. This should therefore be considered in the planning and consenting process for any clean hydrogen project.
+
+Regulatory changes may be required to enable the blending of hydrogen into the existing natural gas network in the UK. It also seems likely that various contractual arrangements in the industry in relation to supply and billing will need to be amended, including potentially the charging methodologies that apply under the gas licences. Injecting gas with a higher hydrogen composition into the gas-grid may require end-user gas equipment to be adapted or replaced.
+
+Conclusion:
+
+Hy-Stakes
+
+Will clean hydrogen’s moment endure?
+
+There is clearly enormous global excitement around its potential. Governments and industry alike are focussed on clean hydrogen’s unique potential to meet the world’s energy needs across a range of different use cases.
+
+As we have explored, for this potential to be fully realised, it requires:
+
+>	the ambition and capacity at government level to identify and pursue the supply sources and use cases that best meet their specific political objectives and are deliverable;
+
+>	the creation of clear and cohesive policies to incentivise the use cases and unlock both supply and demand, and which will enable the transition to a functioning liquid market on both a national and cross-border basis;
+
+>	unblocking the regulatory, infrastructure, safety and transportation challenges that come with the creation of a new energy vector; and
+
+>	international co-ordination and co-operation in relation to standards, certification and transportation.
+
+Meeting this challenge is no mean feat, particularly in the short timescales in which success or failure may be measured.
+
+But the rapid change brought about by renewable technologies in the electricity sector demonstrates it is feasible. This precedent may not always light clean hydrogen’s every step towards a place at the centre of a truly integrated energy system. However, the track record of policy and industry led transformational change should provide confidence as to the ability of governments and industry to navigate the path.

@@ -1,0 +1,53 @@
+The EU targets a reduction of CO2 emissions of 40% by 2030 compared to 1990 levels, with the ultimate goal of reducing them by up to 95% by 2050. This has already led to a 21% reduction in CO2 emissions. Projections indicate that with the existing measures that were put in place at the time of the agreement (2014), there will be an excess 380 million tons (Mt) of CO2 emitted per year1 by 2030, compared to the 40% goal. In addition, Europe is in the process of establishing an even more aggressive goal of lowering emissions by 55% by 2030, which would increase the gap between the EU goal and expected emissions to an excess 960 Mt.
+
+Looking at the current sources of CO2 emissions, 55% of emissions originate from fuel and combustion for power and heat, 27% from transportation, 6% each from the metals industry, including steel, and the minerals industry, including cement. Just 4% comes from the chemical industry, despite its role as an “industry of industries” that supplies all other industries with a range of essential solutions, from disinfectants to insulation, coatings, packaging and medical technology. Of that 4%, 2.2% originates from steam and heat production and 0.8% from ammonia production.
+
+Electrification is part of the solution. However, the need to store energy and mitigate the volatility of wind and solar energy—and perhaps even more importantly, to convert CO2 back into hydrocarbons—requires an additional “solution molecule.” Here, the unique properties of hydrogen make it stand out from other energy carriers as a potential solution.
+
+For example, hydrogen:
+- Can be used to decarbonize production processes for products such as iron (direct reduction of iron) or ammonia
+- Can be used to convert CO2 back into hydrocarbons
+- Can replace fossil fuel combustion
+- Has multiple production paths (renewable, fossil, etc.)
+
+What is needed to generate growth and competitiveness based on hydrogen as a solution molecule for climate neutrality?
+
+Today, there is already a sizable amount of hydrogen production in place in Europe. In 2018, pure hydrogen production capacity was 9.9 Mt of hydrogen per year, 7.5 Mt of which were from on-site captive production at about 140 plants—mainly refineries and ammonia, methanol and hydrogen peroxide production facilities. However, more than 90% of hydrogen plants use fossil fuels as feedstock.
+
+Thus, decarbonizing existing hydrogen applications would mean changing at least 7.5 Mt of hydrogen production, either by shifting to a renewable energy basis, or by applying carbon capture and storage (CCS) or carbon capture and utilization (CCU) technologies. But the far greater decarbonization opportunity lies in replacing the combustion of fossil fuels, and in the conversion of CO2 into syngas, which could then be used to synthesize methanol, aromatic compounds or other base chemicals such as ethylene, propylene or benzene. 
+
+The use of hydrogen in decarbonization efforts will rely largely on the availability of "renewable hydrogen" that is created using renewable energy. However, substituting existing fossil fuel-based hydrogen production with renewable energy assets requires significant cost improvements in renewable energy to establish a value-creating business case. Otherwise, growth and competitiveness will be compromised, giving production assets outside Europe an advantage. 
+
+Our cost models show that energy accounts for 75% to 80% of the cost of renewable, electrolysis-based hydrogen, so the key to renewable hydrogen’s future is ultimately the development of cheaper and more abundant renewable energy sources. The cost of capital (10% to 15% of total cost) is the second biggest cost component, with direct labor, maintenance, etc. accounting for minor shares of the total cost. 
+
+The use of electrolysis as an essential step in the production of hydrogen is often an intense topic of discussion. Electrolysis is a technology that has been used and optimized for decades, but it is mainly used for auxiliary products and has typically not been the focus of R&D efforts. While there is debate whether economies of scale and further improvements in electrolysis will lead to further cost efficiencies, a broader perspective shows additional improvement areas. 
+
+The overall system shows significant end-to-end optimization potential, especially in the reduction of conversion losses. These losses occur during the generation of renewable hydrogen from water using climate-neutral electricity, followed by the compression, storage, transportation and eventual conversion of hydrogen back into electricity. Each of these steps involves conversion losses. And the end-to-end efficiency becomes even worse when considering additional conversions that might be needed, such as the conversion of hydrogen to ammonia and back for easier transportation. However, some of these conversion losses are already being addressed through several possible solutions. 
+
+As of 2020, renewable hydrogen still requires step-change improvements in technology and economics to become competitive. But it is important to remember that historically, at this point in their evolution, many of today’s technologies seemed fraught with challenges and were met with great skepticism. One need look no further than automotive pioneer Gottlieb Daimler who in 1901 said that the worldwide demand for cars would never exceed 1 million vehicles due to a lack of chauffeurs; the CEO of IBM who in the 1940s famously predicted “a worldwide market of about five” for computers; or the Microsoft executive who said in 2007 that “there’s no chance that the iPhone is going to get any significant market share.” As these comments and hindsight tell us, the evolution of technology and the concurrent disruption of business models are literally impossible to predict.
+
+The EU’s hydrogen strategy calls for an additional 80 GW of renewable hydrogen generation capacity, and the production of 10 million tons of hydrogen by 2030—backed by €25 to €30 billion in stimulus funding.3 Admittedly, competitiveness and an equal “playing field” globally are still open questions, especially the following:= how to provide internationally competitive energy in the EU, how to deal with imports and exports including online marketplaces, and how to safeguard competition in hydrogen production, transport and distribution. In addition, various countries, from France, Germany, the Netherlands and Spain to Canada, Japan, Australia and Korea, have very recently announced hydrogen initiatives.
+
+Driven in part by the political will to build a hydrogen market but more by the size of the opportunity, the race to take advantage of hydrogen’s potential has started on both the supply and demand sides. As of October 2020, approximately 2 GW of hydrogen supply projects, as well as projects with an aggregated demand of approximately 1.4 GW, were under way or planned. However, the gap between these efforts and the EU target of 80 GW is still huge, especially when the time needed for typical investment cycles and long-term investment plans is taken into consideration. 
+
+How to capture the opportunity? 
+
+In summary, a huge opportunity is at hand: Hydrogen is clearly a potential solution molecule for decarbonization; there is a clear political will to build a hydrogen market; and significant public funding is being made available. For chemical companies there are several possible business models that could enable them to capitalize on this hydrogen opportunity.
+
+These models include:
+- Supplying materials and system components, such as electrolyzers, membranes or electrodes for electrolyzers, and linings for hydrogen pipes
+- Operating hydrogen production assets, and marketing, selling and/or distributing hydrogen
+- Decarbonizing chemical processes—e.g., by utilizing hydrogen by-products in chlorine production or by shifting to green ammonia
+- Decarbonizing other industries—e.g., by supplying hydrogen and process technology to sink CO2 emissions or for the direct reduction of iron
+
+Given the magnitude of CO2 emissions of other industries, this last point is by far the biggest opportunity. However, it requires innovation to establish new and competitive chemical and physical processes for customer industries.
+
+To take advantage of the hydrogen opportunity, chemical companies must consider five key imperatives:
+
+1. First and foremost, prioritize hydrogen as a key opportunity, given the political will, the production targets and the funds committed to hydrogen
+2. Engage in the emerging hydrogen market, as the chemical industry has a key role to contribute innovations, process expertise and hydrogen 
+3. Set up specific pilots (in electrolysis, in decarbonized processes, etc.)
+4. Shape the partner and ecosystem network to support their new business models
+5. Adapt their R&D portfolios, business development efforts and investment plans to capture a share of the hydrogen opportunity
+
+By taking these steps, chemical companies can build on their unique strengths to help make renewable hydrogen more practical and competitive—and to play an important role in the decarbonization journey for climate-neutrality in Europe and the world.
