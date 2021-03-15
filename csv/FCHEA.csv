@@ -1,0 +1,33 @@
+index,score,tone_id,tone_name,text,sentence_id
+0,0.548904,analytical,Analytical,Several bodies and organizations are trying to develop definitions or market-based tolls for the various hydrogen production pathways.,440
+1,0.75152,tentative,Tentative,Several bodies and organizations are trying to develop definitions or market-based tolls for the various hydrogen production pathways.,440
+2,0.747994,analytical,Analytical,"In California, the Public Utilities Code defines renewable resources along with the Renewable Portfolio Standard for power generation.",441
+3,0.905218,analytical,Analytical,Requirements for renewable content in hydrogen production in publicly funded hydrogen fueling stations and production facilities are set by the California Energy Commission according to legislation via definitions included in grant-funding solicitation manuals.,442
+4,0.73677,analytical,Analytical,"The relative well-to-wheels carbon intensity of transportation fuels, including hydrogen, is evaluated for individual production pathways under the Low-Carbon Fuel Standard (LCFS) using the GREET model, from which an assessment of lower or higher carbon than the benchmark for conventional fuels is made for the purposes of LCFS deficit or credit generation.",443
+5,0.845783,analytical,Analytical,Low-carbon hydrogen is defined by CertiHy as hydrogen produced from an energy source that releases 60 percent less CO2 than today’s SMR processes using natural gas.,445
+6,0.653099,analytical,Analytical,grams of CO2 equivalent per MJ to be considered low-carbon hydrogen.,447
+7,0.929993,analytical,Analytical,Low-carbon hydrogen can be produced from both renewable and non-renewable sources as long as the 36.4,448
+8,0.87913,analytical,Analytical,Green hydrogen is defined as hydrogen produced from a process that releases less than 36.4,450
+9,0.687768,analytical,Analytical,grams of CO2 equivalent per MJ and uses a renewable energy source as defined by the EU Renewable Energy Directive.,451
+10,0.579367,analytical,Analytical,"Energy from a renewable source is defined as: “Energy from renewable non-fossil sources, namely wind, solar (solar thermal and solar photovoltaic), and geothermal energy, ambient energy, tide, wave, and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas, and biogas.”",452
+11,0.653762,analytical,Analytical,Model assumptions Methodology The road map for the deployment of hydrogen and fuel cell solutions in the US presented in this report was developed in a four-step process.,453
+12,0.626668,joy,Joy,The first step was to develop a projection of the future US energy system.,454
+13,0.685936,joy,Joy,The International Energy Agency’s Energy Technology Perspective “2°C Scenario” for the US was used as the primary baseline.,455
+14,0.639737,joy,Joy,"On this baseline, a number of sources were used to further differentiate energy use within segments: modeling from McKinsey Energy Insights, industry perspectives, and expert interviews.",456
+15,0.73677,analytical,Analytical,"On this baseline, a number of sources were used to further differentiate energy use within segments: modeling from McKinsey Energy Insights, industry perspectives, and expert interviews.",456
+16,0.894352,analytical,Analytical,"Furthermore, the model reflects external studies for sector-specific, regional, and country-level analyses (the text explicitly mentions sources; see bibliography for a full list).",457
+17,0.885332,analytical,Analytical,"In the second step, segment- specific adoption rates for hydrogen and fuel cell solutions were determined.",458
+18,0.703409,analytical,Analytical,"Using these adoption rates, the market potential for hydrogen was calculated.",460
+19,0.745225,analytical,Analytical,"In the third step, after determining hydrogen's potential, multiple quality and feasibility tests on the developed outlooks were performed.",461
+20,0.679542,analytical,Analytical,"Results were cross-checked against other published studies, internal studies of the contributing companies and organizations, and analogies from other technology adoption curves.",462
+21,0.901894,analytical,Analytical,The near-term ramp-up was validated against present industry outlooks.,463
+22,0.927528,analytical,Analytical,Estimated revenues include both those generated within the US as well as those generated from exports at each step of the value chain.,465
+23,0.687768,analytical,Analytical,Employment in the industry was estimated using applicable jobs multipliers.,467
+24,0.831396,analytical,Analytical,"For example, the number of jobs for the hydrogen supply industry was derived by multiplying the expected revenues with the employment multiplier of the industrial gases industry.",468
+25,0.587989,analytical,Analytical,"As with any such projections, employment and revenue figures are subject to significant uncertainties, e.g., employment figures derived using multipliers do not account for technological changes in production processes.",469
+26,0.864652,analytical,Analytical,These figures should therefore be used to gauge the order of magnitude of an industry and can serve as a comparison with similarly estimated initiatives but should not be used as a reliable predictor for economic impact.,470
+27,0.579367,analytical,Analytical,"Adoption rate assumptions The adoption rates in Exhibit 34 and Exhibit 35 were estimated based on input from participating companies and organizations, the adoption rates developed in the “Hydrogen, Scaling Up” report, adopted for the US context, and in some segments, underlying modeling of competitiveness of hydrogen solutions.",471
+28,0.762356,analytical,Analytical,The optimization includes capacity expansion as well as hourly granularity of real weather years to address the intermittency of solar/wind production.,475
+29,0.855691,analytical,Analytical,"Electricity demand is assumed to grow based on an economic model analyzing 14 end uses across four sectors (commercial, industrial, residential, and transport);31 hydrogen demand is included as an exogenous constraint.",477
+30,0.711887,analytical,Analytical,"In addition to electrolysis, the cost of hydrogen storage for flexibility is included in the optimization.",478
+31,0.911475,analytical,Analytical,"Therefore, it does not capture the full cost of the transmission and distribution grid in the analysis.",480

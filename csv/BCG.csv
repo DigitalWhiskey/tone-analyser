@@ -1,0 +1,30 @@
+index,score,tone_id,tone_name,text,sentence_id
+0,0.547677,analytical,Analytical,Such support will be a critical—and ultimately cost-efficient—driver of carbon abatement.,41
+1,0.743365,analytical,Analytical,"This should include the exemption of large electrolyzers that use renewable power from grid fees and levies, similar to the exemptions often enjoyed by energy-intensive industries such as aluminum, paper, and chlorine.",43
+2,0.525007,tentative,Tentative,Such projects will have the best chance of gaining public support as part of an ambitious climate protection agenda.,45
+3,0.544214,joy,Joy,"How Companies Can Win in Hydrogen We believe that within the next decade we will see the first large-scale, low-carbon-hydrogen applications.",46
+4,0.60456,analytical,Analytical,"To shape these opportunities, and position themselves to gain advantage from them, hydrogen players should integrate several factors into their strategy: •  Insist on long-term viability.",47
+5,0.525926,confident,Confident,"To shape these opportunities, and position themselves to gain advantage from them, hydrogen players should integrate several factors into their strategy: •  Insist on long-term viability.",47
+6,0.532555,joy,Joy,"Companies looking for quick, single-asset measures to lighten their carbon footprint are better served using tactics such as energy efficiency, electrification, and renewable power sourcing rather than low-carbon hydrogen.",48
+7,0.898938,analytical,Analytical,"Companies looking for quick, single-asset measures to lighten their carbon footprint are better served using tactics such as energy efficiency, electrification, and renewable power sourcing rather than low-carbon hydrogen.",48
+8,0.677517,joy,Joy,"Successful players in low- carbon hydrogen will take a long-term view, investing in assets, technologies, and capabilities that present a reason- able business case today but have the potential to offer attractive large-scale investment opportunities over a long time horizon.",49
+9,0.582105,sadness,Sadness,Few low-carbon hydrogen projects today are likely to yield attractive returns when executed by one party alone.,51
+10,0.58393,tentative,Tentative,Few low-carbon hydrogen projects today are likely to yield attractive returns when executed by one party alone.,51
+11,0.862286,analytical,Analytical,"Consequently, companies must partner across the hydrogen and energy value chain.",52
+12,0.579436,confident,Confident,"Consequently, companies must partner across the hydrogen and energy value chain.",52
+13,0.808897,analytical,Analytical,"Utilities and technology specialists, for example, can develop low-carbon-hydrogen opportunities with industrial companies that own  and operate the offtaking infrastructure but lack access to power markets and low-carbon hydrogen know-how.",53
+14,0.88199,sadness,Sadness,"If  done right, no single partner will  make outsized returns on these projects—but no one will suffer hefty  losses.",54
+15,0.939594,analytical,Analytical,•  Evaluate end-to-end system value.,55
+16,0.705253,analytical,Analytical,"Owners of wind and solar farms, for example, can in some cases link their renewable power assets directly to an electrolyzer, resulting in benefits on both ends: the renewable power company reduces market risk by securing a long-term contract, and the low-carbon-hydrogen plant locks in a low-cost, green electricity source.",57
+17,0.840825,analytical,Analytical,Companies that have competitive advantages in terms of assets and capabilities—and are able to build on those advantages—will prevail.,60
+18,0.772767,analytical,Analytical,"Companies pursuing Blue H2, for example, should ensure that they can leverage a network of underground storage facilities, gas infrastructure, and petrochemical expertise, and are able to offtake the volume.",61
+19,0.525007,tentative,Tentative,Owning or having access to these assets and capabilities allows faster scaling and helps mitigate technical and commercial risk.,62
+20,0.762356,analytical,Analytical,Scaling up and deploying low-carbon-hydrogen solutions is no easy feat.,64
+21,0.693639,joy,Joy,"Companies should initiate a fact-based dialogue with regulators, one that focuses on the importance of achieving sufficient scale and is honest about the challenges ahead.",66
+22,0.774376,analytical,Analytical,"One integrated utility, for example, teamed with steel players in a discussion with a national government to drive carbon abatement in steel over a 20-year period.",67
+23,0.618084,analytical,Analytical,That dialogue ultimately resulted in government support for projects to use low-carbon hydrogen in steel production—efforts that met government goals of reducing carbon emissions and fostering the long-term competitiveness of the country’s steel sector.,68
+24,0.579436,confident,Confident,From Hype to Reality Low-carbon hydrogen represents a massive business opportunity.,69
+25,0.642074,joy,Joy,"And even if just a fraction of this demand materializes, the potential business opportunity is too big for companies, particularly in the energy sector, to watch from the sidelines.",71
+26,0.631014,analytical,Analytical,"And even if just a fraction of this demand materializes, the potential business opportunity is too big for companies, particularly in the energy sector, to watch from the sidelines.",71
+27,0.704382,analytical,Analytical,"Armed with insight on where low-carbon hydrogen makes economic sense, they can develop the right technology and investment portfolio to direct their resources to the best opportunities with the lowest risk.",73
+28,0.720302,joy,Joy,"It will not be easy, but for the winners it will be worth it.",75

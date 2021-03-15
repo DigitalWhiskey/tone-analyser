@@ -1,0 +1,28 @@
+index,score,tone_id,tone_name,text,sentence_id
+0,0.82694,joy,Joy,"Building on the good work already underway to demonstrate hydrogen as a community solution, particularly where renewable energy is constrained.",40
+1,0.909532,analytical,Analytical,"Building on the good work already underway to demonstrate hydrogen as a community solution, particularly where renewable energy is constrained.",40
+2,0.827011,analytical,Analytical,The limits placed on how bills are calculated and the type of gas used in the network requires expensive interventions and limits the introduction of other gases such as hydrogen.,42
+3,0.589295,analytical,Analytical,Changing this is a no regrets step to blending hydrogen into the network.,43
+4,0.8152,analytical,Analytical,"Government should explore implementing policy design to stimulate investment and lead to a levelling of the playing field, given the high levels of government support for other low carbon technologies.",44
+5,0.544555,joy,Joy,"It is important to seek parallels and lessons from other transitions, where new technologies and industries have been successfully developed and emissions reduced, following policy interventions.",45
+6,0.702964,analytical,Analytical,"One way to do this is to place an obligation on energy companies to supply increasing amounts of decarbonised gas, such as hydrogen, in much the same was that has been done for renewable electricity.",46
+7,0.67368,analytical,Analytical,INTO THE FUTURE There should be a focus on stimulating demand in stages.,47
+8,0.91961,tentative,Tentative,First around transport and heavy industrial processes.,48
+9,0.513989,analytical,Analytical,"This would be followed closely by blending in the gas network, before we can consider a move to 100% hydrogen for heat.",49
+10,0.592138,confident,Confident,Ports and ferries are areas where uptake of hydrogen solutions will have air quality improvements and a range of benefits over purely battery alternatives.,50
+11,0.620279,analytical,Analytical,Ports and ferries are areas where uptake of hydrogen solutions will have air quality improvements and a range of benefits over purely battery alternatives.,50
+12,0.707444,analytical,Analytical,"The construction of a number of regional hubs, supplying hydrogen to meet industrial demand, and blending surplus into the gas network would deliver substantial carbon savings.",52
+13,0.882284,analytical,Analytical,"Investments can therefore be incremental, with a reduced risk profile.",54
+14,0.885885,analytical,Analytical,"Having explored the challenges and opportunities, what needs to happen for the UK to establish a leading position, it is clear there is urgent need for action.",57
+15,0.663387,analytical,Analytical,"Government policies are needed in the imminent future to establish a robust supply chain, encourage new business models and inject investment into infrastructure.",58
+16,0.503336,joy,Joy,Below are some final thoughts to consider about the potential of hydrogen in the UK as well as other countries.,60
+17,0.75152,tentative,Tentative,Below are some final thoughts to consider about the potential of hydrogen in the UK as well as other countries.,60
+18,0.8766,analytical,Analytical,Below are some final thoughts to consider about the potential of hydrogen in the UK as well as other countries.,60
+19,0.652411,analytical,Analytical,"THE FUTURE OF HYDROGEN IS HERE -  Pilots and at scale demonstrations – to support the development of policy, business cases, technology, consumer confidence and build supply chain capacity.",61
+20,0.534455,tentative,Tentative,"-  Public understanding – a shift in the public perception of ‘energy’ as just electricity, the need to decarbonise the entire energy system and promote the role hydrogen could play.",62
+21,0.588596,analytical,Analytical,"-  Public understanding – a shift in the public perception of ‘energy’ as just electricity, the need to decarbonise the entire energy system and promote the role hydrogen could play.",62
+22,0.663387,analytical,Analytical,-  Coordinated research – a centrally coordinated group from across academia and industry to determine knowledge gaps and agree a portfolio of evidence gathering research.,63
+23,0.696599,joy,Joy,"-  Learn from overseas – whilst the UK is leading some elements of the hydrogen economy, there are opportunities to learn and build on best practice from across the world, from advanced blending to repurposing transmission pipelines.",64
+24,0.745634,analytical,Analytical,"-  Learn from overseas – whilst the UK is leading some elements of the hydrogen economy, there are opportunities to learn and build on best practice from across the world, from advanced blending to repurposing transmission pipelines.",64
+25,0.658244,joy,Joy,"-  Jobs and employment – the hydrogen economy offers a fantastic opportunity to support high quality jobs which will require highly skilled and trained workers, as well as export opportunities for the UK in a growing international market.",66
+26,0.608802,analytical,Analytical,"-  Jobs and employment – the hydrogen economy offers a fantastic opportunity to support high quality jobs which will require highly skilled and trained workers, as well as export opportunities for the UK in a growing international market.",66
